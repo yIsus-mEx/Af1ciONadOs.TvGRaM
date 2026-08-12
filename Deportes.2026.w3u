@@ -8,6 +8,175 @@
   "groups": 
   [
     {
+    "name": "Dlhd",
+    "info": "",
+    "image": "",
+    "imageScale": "",
+    "stations": 
+      [
+        {
+          "name": "Espn Deportes",
+          "info": "[Dlhd]",
+          "image": "https://i.postimg.cc/hvqrDXV6/Espn-deportes.png",
+          "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "isHost": "true",
+          "embed": "",
+          "url": "https://dlhd.st/embed/stream-375.php"         
+        },
+        {
+          "name": "Espn Premium",
+          "info": "[Dlhd]",
+          "image": "https://i.postimg.cc/Hk24JbfB/Espn-Premium.png",
+          "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "isHost": "",
+          "embed": "true",
+          "url": "https://dlhd.st/embed/stream-387.php"
+        },
+        {
+          "name": "Espn",
+          "info": "[Dlhd]",
+          "image": "https://i.postimg.cc/634j5sgL/espn1.png",
+          "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "isHost": "true",
+          "embed": "",
+          "url": "https://dlhd.st/embed/stream-149.php"
+        },
+        {
+          "name": "Espn 🇲🇽",
+          "info": "[Dlhd]",
+          "image": "https://i.postimg.cc/634j5sgL/espn1.png",
+          "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "isHost": "true",
+          "embed": "",
+          "url": "https://dlhd.st/embed/stream-925.php"
+        },
+        {
+          "name": "Espn 2",
+          "info": "[Dlhd]",
+          "image": "https://i.postimg.cc/9XT86hyS/espn2.png",
+          "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "isHost": "",
+          "embed": "true",
+          "url": "https://dlhd.st/embed/stream-150.php"
+        },
+        {
+          "name": "Espn 2 🇲🇽",
+          "info": "[Dlhd]",
+          "image": "https://i.postimg.cc/9XT86hyS/espn2.png",
+          "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "isHost": "",
+          "embed": "true",
+          "url": "https://dlhd.st/embed/stream-926.php"
+        },
+        {
+          "name": "Espn 3",
+          "info": "[Dlhd]",
+          "image": "https://i.postimg.cc/fyw873kd/espn3.png",
+          "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "isHost": "",
+          "embed": "true",
+          "url": "https://dlhd.st/embed/stream-798.php"
+        },
+        {
+          "name": "Espn 3 🇲🇽",
+          "info": "[Dlhd]",
+          "image": "https://i.postimg.cc/fyw873kd/espn3.png",
+          "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "isHost": "",
+          "embed": "true",
+          "url": "https://dlhd.st/embed/stream-927.php"
+        },
+        {
+          "name": "Espn 4 🇲🇽",
+          "info": "[Dlhd]",
+          "image": "https://i.postimg.cc/tJ22BXVK/espn4.png",
+          "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "isHost": "",
+          "embed": "true",
+          "url": "https://dlhd.st/embed/stream-928.php"
+        },
+        {
+          "name": "Fox Sport",
+          "info": "[Dlhd]",
+          "image": "https://i.postimg.cc/d3Kggyc0/Fox-Sport.png",
+          "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "isHost": "true",
+          "embed": "",
+          "url": "https://dlhd.st/embed/stream-787.php"
+        },
+        {
+          "name": "Fox Sport 🇲🇽",
+          "info": "[Dlhd]",
+          "image": "",
+          "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "https://i.postimg.cc/ncvcG2VK/Fox-Sports-MX.png",
+          "isHost": "true",
+          "embed": "",
+          "url": "https://dlhd.st/embed/stream-929.php"
+        },
+        {
+          "name": "Fox Sport 2",
+          "info": "[Dlhd]",
+          "image": "https://i.postimg.cc/mrJvNndj/Fox-Sport-2.png",
+          "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "isHost": "true",
+          "embed": "",
+          "url": "https://dlhd.st/embed/stream-788.php"
+        },
+        {
+          "name": "Fox Sport 2 🇲🇽",
+          "info": "[Dlhd]",
+          "image": "https://i.postimg.cc/433fZT62/Fox-Sports-2-Mexico.png",
+          "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "isHost": "true",
+          "embed": "",
+          "url": "https://dlhd.st/embed/stream-930.php"
+        },
+        {
+          "name": "Fox Sport 3",
+          "info": "[Dlhd]",
+          "image": "https://i.postimg.cc/Y9CXJzhT/Fox-Sport-3.png",
+          "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "isHost": "true",
+          "embed": "",
+          "url": "https://dlhd.st/embed/stream-789.php"
+        },
+        {
+          "name": "Fox Sport 3 🇲🇽",
+          "info": "[Dlhd]",
+          "image": "https://i.postimg.cc/tTZ9Ztm1/Fox-Sports-3-Mexico.png",
+          "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "isHost": "true",
+          "embed": "",
+          "url": "https://dlhd.st/embed/stream-931.php"
+        },
+        {
+          "name": "Fox Premium 🇲🇽",
+          "info": "[Dlhd]",
+          "image": "https://i.postimg.cc/SsBkW2BF/FOXSports-Premium.png",
+          "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "isHost": "true",
+          "embed": "",
+          "url": "https://dlhd.st/embed/stream-830.php"
+        }
+      ]
+    },
+    {
     "name": "La18hd",
     "info": "",
     "image": "",
@@ -134,6 +303,155 @@
           "embed": "",
           "url": "https://la18hd.su/vivo/canales.php?stream=foxsports3"
         }    
+      ]
+    },
+    {
+    "name": "Streamx488",
+    "info": "",
+    "image": "",
+    "imageScale": "",
+    "stations": 
+      [
+        {
+          "name": "Espn",
+          "info": "[Streamx]",
+          "image": "https://i.postimg.cc/634j5sgL/espn1.png",
+          "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "isHost": "true",
+          "embed": "",
+          "url": "https://streamx488.sbs/global3.php?channel=espn"
+        },
+        {
+          "name": "Espn 🇲🇽",
+          "info": "[Streamx]",
+          "image": "https://i.postimg.cc/634j5sgL/espn1.png",
+          "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "isHost": "true",
+          "embed": "",
+          "url": "https://streamx488.sbs/global3.php?channel=espnmx"
+        },
+        {
+          "name": "Espn 2",
+          "info": "[Streamx]",
+          "image": "https://i.postimg.cc/9XT86hyS/espn2.png",
+          "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "isHost": "",
+          "embed": "true",
+          "url": "https://streamx488.sbs/global3.php?channel=espn2"
+        },        
+        {
+          "name": "Espn 2 🇲🇽",
+          "info": "[Streamx]",
+          "image": "https://i.postimg.cc/9XT86hyS/espn2.png",
+          "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "isHost": "",
+          "embed": "true",
+          "url": "https://streamx488.sbs/global3.php?channel=espn2mx"
+        },
+        {
+          "name": "Espn 3",
+          "info": "[Streamx]",
+          "image": "https://i.postimg.cc/fyw873kd/espn3.png",
+          "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "isHost": "",
+          "embed": "true",
+          "url": "https://streamx488.sbs/global3.php?channel=espn3"
+        },        
+        {
+          "name": "Espn 3 🇲🇽",
+          "info": "[Streamx]",
+          "image": "https://i.postimg.cc/fyw873kd/espn3.png",
+          "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "isHost": "",
+          "embed": "true",
+          "url": "https://streamx488.sbs/global3.php?channel=espn3mx"
+        },
+        {
+          "name": "Espn 4",
+          "info": "[Streamx]",
+          "image": "https://i.postimg.cc/tJ22BXVK/espn4.png",
+          "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "isHost": "",
+          "embed": "true",
+          "url": "https://streamx488.sbs/global3.php?channel=espn4"
+        },        
+        {
+          "name": "Espn 4 🇲🇽",
+          "info": "[Streamx]",
+          "image": "https://i.postimg.cc/tJ22BXVK/espn4.png",
+          "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "isHost": "",
+          "embed": "true",
+          "url": "https://streamx488.sbs/global3.php?channel=espn4mx"
+        },
+        {
+          "name": "Espn 5",
+          "info": "[Streamx]",
+          "image": "https://i.postimg.cc/gcDSzKB3/espn5.png",
+          "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "isHost": "",
+          "embed": "true",
+          "url": "https://streamx488.sbs/global3.php?channel=espn5"
+        },
+        {
+          "name": "Espn 6",
+          "info": "[Streamx]",
+          "image": "https://i.postimg.cc/7YZBfTpc/espn6.png",
+          "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "isHost": "",
+          "embed": "true",
+          "url": "https://streamx488.sbs/global3.php?channel=espn6"
+        },
+        {
+          "name": "Espn 7",
+          "info": "[Streamx]",
+          "image": "https://i.postimg.cc/SxXDGbQr/espn7.png",
+          "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "isHost": "",
+          "embed": "true",
+          "url": "https://streamx488.sbs/global3.php?channel=espn7"
+        },
+        {
+          "name": "Fox Sport",
+          "info": "[Streamx]",
+          "image": "https://i.postimg.cc/d3Kggyc0/Fox-Sport.png",
+          "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "isHost": "true",
+          "embed": "",
+          "url": "https://streamx488.sbs/global3.php?channel=fox1ar"
+        },
+        {
+          "name": "Fox Sport 2",
+          "info": "[Streamx]",
+          "image": "https://i.postimg.cc/mrJvNndj/Fox-Sport-2.png",
+          "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "isHost": "true",
+          "embed": "",
+          "url": "https://streamx488.sbs/global3.php?channel=fox2ar"
+        },
+        {
+          "name": "Fox Sport 3",
+          "info": "[streamx488]",
+          "image": "https://i.postimg.cc/Y9CXJzhT/Fox-Sport-3.png",
+          "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "isHost": "true",
+          "embed": "",
+          "url": "https://streamx488.sbs/global3.php?channel=fox3ar"
+        }
       ]
     },
     {
@@ -282,109 +600,6 @@
           "isHost": "true",
           "embed": "",
           "url": "https://streamx-hd.com/live1.php?stream=fox3ar"
-        }
-      ]
-    },
-    {
-    "name": "Dlhd",
-    "info": "",
-    "image": "",
-    "imageScale": "",
-    "stations": 
-      [
-        {
-          "name": "Fox Sport",
-          "info": "[Dlhd]",
-          "image": "https://i.postimg.cc/d3Kggyc0/Fox-Sport.png",
-          "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer": "",
-          "isHost": "true",
-          "embed": "",
-          "url": "https://dlhd.st/embed/stream-787.php"
-        },
-        {
-          "name": "Fox Sport 2",
-          "info": "[Dlhd]",
-          "image": "https://i.postimg.cc/mrJvNndj/Fox-Sport-2.png",
-          "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer": "",
-          "isHost": "true",
-          "embed": "",
-          "url": "https://dlhd.st/embed/stream-788.php"
-        },
-        {
-          "name": "Fox Sport 3",
-          "info": "[Dlhd]",
-          "image": "https://i.postimg.cc/Y9CXJzhT/Fox-Sport-3.png",
-          "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer": "",
-          "isHost": "true",
-          "embed": "",
-          "url": "https://dlhd.st/embed/stream-789.php"
-        },
-        {
-          "name": "Fox Sport 3",
-          "info": "[streamx488]",
-          "image": "https://i.postimg.cc/Y9CXJzhT/Fox-Sport-3.png",
-          "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "referer": "",
-          "isHost": "true",
-          "embed": "",
-          "url": "https://streamx488.sbs/global3.php?channel=fox3ar"
-        }
-      ]
-    },
-    {
-    "name": "DEPORTES IZZIGO",
-    "image": "https://play-lh.googleusercontent.com/nkg3nSt-FYi98ZNk6ITz6qjbgzUKSaVZn6p-DGu_eTrQ0uPAhlmXDEedOIexAY1NBQ",
-    "stations": 
-      [
-        {
-          "name": "ESPn",
-          "image": "https://www.izzigo.tv/images/repository/969/13389969-SNAPSHOT-l.png",
-          "drmType": "clearkey",
-          "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-          "url": "https://du2bixtmj3hgm.cloudfront.net/out/u/startover/dash/ESPN-HD/default.mpd",
-          "drmKey": "38b63f9aaa7b7c7a822c8e14c8a7212e:d6b1f45a59d2dac1a730c7f56c74971a",
-          "referer": "https://www.izzigo.tv",
-          "Origin":  "https://www.izzigo.tv"
-        }
-      ]
-    },
-    {
-      "name": "DEPORTES IZZIGO 2",
-      "image": "",
-      "stations": [
-        {
-          "name": "ESPN",
-          "image": "https://www.izzigo.tv/images/repository/969/13389969-SNAPSHOT-l.png",
-          "url": "https://du2bixtmj3hgm.cloudfront.net/out/u/startover/dash/ESPN-HD/default.mpd",
-          "drmType": "clearkey",
-          "drmKey": {"38b63f9aaa7b7c7a822c8e14c8a7212e": "d6b1f45a59d2dac1a730c7f56c74971a"},
-          "httpHeaders": 
-          { 
-            User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "Origin":  "https://izzigo.tv",
-            "Referer": "https://izzigo.tv"
-          }
-        }
-      ]
-    },
-    {
-      "name": "DEPORTES IZZIGO 3",
-      "stations": [
-        {
-          "name": "ESPN",
-          "image": "",
-          "url": "https://du2bixtmj3hgm.cloudfront.net/out/u/startover/dash/ESPN-HD/default.mpd",
-          "drm": {
-            "type": "clearkey",
-            "key": "38b63f9aaa7b7c7a822c8e14c8a7212e:d6b1f45a59d2dac1a730c7f56c74971a"
-          },
-          "httpHeaders": {
-            "Origin": "https://izzigo.tv",
-            "Referer": "https://izzigo.tv"
-          }
         }
       ]
     }
