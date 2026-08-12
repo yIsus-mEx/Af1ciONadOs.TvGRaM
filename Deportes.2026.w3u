@@ -340,17 +340,14 @@
     "stations": 
       [
         {
-          "name": "ESPN",
+          "name": "ESPn",
           "image": "https://www.izzigo.tv/images/repository/969/13389969-SNAPSHOT-l.png",
           "drmType": "clearkey",
           "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
           "url": "https://du2bixtmj3hgm.cloudfront.net/out/u/startover/dash/ESPN-HD/default.mpd",
           "drmKey": "38b63f9aaa7b7c7a822c8e14c8a7212e:d6b1f45a59d2dac1a730c7f56c74971a",
-          "httpHeaders": 
-          {
-            "Origin": "https://www.izzigo.tv",
-            "Referer": "https://www.izzigo.tv"
-          }
+          "referer": "https://www.izzigo.tv",
+          "Origin":  "https://www.izzigo.tv"
         }
       ]
     }
