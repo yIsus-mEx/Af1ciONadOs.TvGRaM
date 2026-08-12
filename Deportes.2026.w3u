@@ -193,7 +193,37 @@
     "imageScale": "",
     "stations": 
       [
-         {
+        {
+          "name": "Dazn 1",
+          "info": "[la18hd]",
+          "image": "https://i.postimg.cc/VsFWFS4c/DAZN-1.png",
+          "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "isHost": "true",
+          "embed": "",
+          "url": "https://la18hd.su/vivo/canales.php?stream=dazn1"
+        },
+        {
+          "name": "TUDN",
+          "info": "[la18hd]",
+          "image": "https://i.postimg.cc/2y9cGzs0/TDN.jpg",
+          "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "isHost": "true",
+          "embed": "",
+          "url": "https://la18hd.su/vivo/canales.php?stream=tudn"
+        },
+        {
+          "name": "TUDN 🇲🇽",
+          "info": "[la18hd]",
+          "image": "https://i.postimg.cc/2y9cGzs0/TDN.jpg",
+          "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "isHost": "true",
+          "embed": "",
+          "url": "https://la18hd.su/vivo/canales.php?stream=tudn_mx"
+        },
+        {
           "name": "Espn Deportes",
           "info": "[La18hd]",
           "image": "https://i.postimg.cc/hvqrDXV6/Espn-deportes.png",
@@ -284,14 +314,14 @@
           "url": "https://la18hd.su/vivo/canales.php?stream=espn7"
         },
         {
-          "name": "TUDN 🇲🇽",
+          "name": "Fox Deportes",
           "info": "[la18hd]",
-          "image": "https://i.postimg.cc/2y9cGzs0/TDN.jpg",
+          "image": "https://i.postimg.cc/nhb9HMr0/FOX-Deportes.png",
           "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
           "referer": "",
           "isHost": "true",
           "embed": "",
-          "url": "https://latamplay1.click/channel/tudnmx.html"
+          "url": "https://la18hd.su/vivo/canales.php?stream=foxdeportes"
         },
         {
           "name": "Fox Sport",
