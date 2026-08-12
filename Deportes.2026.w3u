@@ -105,6 +105,16 @@
           "url": "https://dlhd.st/embed/stream-928.php"
         },
         {
+          "name": "Fox Deportes",
+          "info": "[Dlhd]",
+          "image": "https://i.postimg.cc/nhb9HMr0/FOX-Deportes.png",
+          "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "isHost": "true",
+          "embed": "",
+          "url": "https://dlhd.st/embed/stream-643.php"
+        },
+        {
           "name": "Fox Sport",
           "info": "[Dlhd]",
           "image": "https://i.postimg.cc/d3Kggyc0/Fox-Sport.png",
@@ -192,6 +202,16 @@
           "isHost": "",
           "embed": "true",
           "url": "https://la18hd.su/vivo/canales.php?stream=espndeportes"         
+        },
+        {
+          "name": "Espn Premium",
+          "info": "[La18hd]",
+          "image": "https://i.postimg.cc/Hk24JbfB/Espn-Premium.png",
+          "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "isHost": "",
+          "embed": "true",
+          "url": "https://la18hd.su/vivo/canales.php?stream=espnpremium"
         },
         {
           "name": "Espn",
@@ -423,6 +443,16 @@
           "url": "https://streamx488.sbs/global3.php?channel=espn7"
         },
         {
+          "name": "Fox Deportes",
+          "info": "[Streamx]",
+          "image": "https://i.postimg.cc/nhb9HMr0/FOX-Deportes.png",
+          "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "isHost": "true",
+          "embed": "",
+          "url": "https://streamx488.sbs/global3.php?channel=foxdeportes"
+        },
+        {
           "name": "Fox Sport",
           "info": "[Streamx]",
           "image": "https://i.postimg.cc/d3Kggyc0/Fox-Sport.png",
@@ -451,6 +481,16 @@
           "isHost": "true",
           "embed": "",
           "url": "https://streamx488.sbs/global3.php?channel=fox3ar"
+        },
+        {
+          "name": "PRUEBA",
+          "info": "[streamx488]",
+          "image": "",
+          "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "isHost": "true",
+          "embed": "",
+          "url": "https://latamplay1.click/channel/tnt1.html"
         }
       ]
     },
