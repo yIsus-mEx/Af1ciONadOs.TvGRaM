@@ -322,7 +322,87 @@
           "isHost": "true",
           "embed": "",
           "url": "https://la18hd.su/vivo/canales.php?stream=foxsports3"
-        }    
+        },
+        {
+          "name": "DSport",
+          "info": "[la18hd]",
+          "image": "https://i.postimg.cc/90kwzjPn/DSports.png",
+          "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "isHost": "true",
+          "embed": "",
+          "url": "https://la18hd.su/vivo/canales.php?stream=dsports"
+        },
+        {
+          "name": "DSport 2",
+          "info": "[la18hd]",
+          "image": "https://i.postimg.cc/m20FsBgW/DSports2.png",
+          "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "isHost": "true",
+          "embed": "",
+          "url": "https://la18hd.su/vivo/canales.php?stream=dsports2"
+        },
+        {
+          "name": "DSport+",
+          "info": "[la18hd]",
+          "image": "https://i.postimg.cc/HLmcrz5H/DSports.png",
+          "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "isHost": "true",
+          "embed": "",
+          "url": "https://la18hd.su/vivo/canales.php?stream=dsportsplus"
+        },
+        {
+          "name": "TNT Sport",
+          "info": "[la18hd]",
+          "image": "https://i.postimg.cc/02xydjjM/TNT-Sports-Premium.png",
+          "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "isHost": "true",
+          "embed": "",
+          "url": "https://la18hd.su/vivo/canales.php?stream=tntsports"
+        },
+        {
+          "name": "TyC Sport",
+          "info": "[la18hd]",
+          "image": "https://i.postimg.cc/Hs2sSm7D/Ty-CSp.png",
+          "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "isHost": "true",
+          "embed": "",
+          "url": "https://la18hd.su/vivo/canales.php?stream=tycsports"
+        },
+        {
+          "name": "win Sport",
+          "info": "[la18hd]",
+          "image": "https://i.postimg.cc/N0x4F5KD/Win-Sports.png",
+          "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "isHost": "true",
+          "embed": "",
+          "url": "https://la18hd.su/vivo/canales.php?stream=winsports"
+        },
+        {
+          "name": "Win Sport+",
+          "info": "[la18hd]",
+          "image": "https://i.postimg.cc/v8Kv4RmG/Win-Sports.png",
+          "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "isHost": "true",
+          "embed": "",
+          "url": "https://la18hd.su/vivo/canales.php?stream=winsportsplus"
+        },
+        {
+          "name": "VTV+",
+          "info": "[la18hd]",
+          "image": "https://i.postimg.cc/pdVj0kd0/VTV-Plus.png",
+          "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "isHost": "true",
+          "embed": "",
+          "url": "https://la18hd.su/vivo/canales.php?stream=vtvplus"
+        }
       ]
     },
     {
