@@ -183,6 +183,16 @@
           "isHost": "true",
           "embed": "",
           "url": "https://dlhd.st/embed/stream-830.php"
+        },
+        {
+          "name": "PRUEBAS",
+          "info": "[]",
+          "image": "",
+          "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "isHost": "true",
+          "embed": "",
+          "url": "https://zicotv.cc/channels/45683"
         }
       ]
     },
@@ -443,8 +453,28 @@
     "stations": 
       [
         {
+          "name": "Liga de Campeones",
+          "info": "[Streamx488]",
+          "image": "https://i.postimg.cc/LXJG1rrP/Liga-de-Campeones.png",
+          "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "isHost": "true",
+          "embed": "",
+          "url": "https://streamx488.sbs/global3.php?channel=mligacampeones"
+        },
+        {
+          "name": "TUDN",
+          "info": "[Streamx488]",
+          "image": "https://i.postimg.cc/2y9cGzs0/TDN.jpg",
+          "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "isHost": "true",
+          "embed": "",
+          "url": "https://streamx488.sbs/global3.php?channel=tudnus"
+        },
+        {
           "name": "Espn",
-          "info": "[Streamx]",
+          "info": "[Streamx488]",
           "image": "https://i.postimg.cc/634j5sgL/espn1.png",
           "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
           "referer": "",
@@ -454,7 +484,7 @@
         },
         {
           "name": "Espn 🇲🇽",
-          "info": "[Streamx]",
+          "info": "[Streamx488]",
           "image": "https://i.postimg.cc/634j5sgL/espn1.png",
           "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
           "referer": "",
@@ -464,7 +494,7 @@
         },
         {
           "name": "Espn 2",
-          "info": "[Streamx]",
+          "info": "[Streamx488]",
           "image": "https://i.postimg.cc/9XT86hyS/espn2.png",
           "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
           "referer": "",
@@ -474,7 +504,7 @@
         },        
         {
           "name": "Espn 2 🇲🇽",
-          "info": "[Streamx]",
+          "info": "[Streamx488]",
           "image": "https://i.postimg.cc/9XT86hyS/espn2.png",
           "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
           "referer": "",
@@ -484,7 +514,7 @@
         },
         {
           "name": "Espn 3",
-          "info": "[Streamx]",
+          "info": "[Streamx488]",
           "image": "https://i.postimg.cc/fyw873kd/espn3.png",
           "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
           "referer": "",
@@ -494,7 +524,7 @@
         },        
         {
           "name": "Espn 3 🇲🇽",
-          "info": "[Streamx]",
+          "info": "[Streamx488]",
           "image": "https://i.postimg.cc/fyw873kd/espn3.png",
           "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
           "referer": "",
@@ -504,7 +534,7 @@
         },
         {
           "name": "Espn 4",
-          "info": "[Streamx]",
+          "info": "[Streamx488]",
           "image": "https://i.postimg.cc/tJ22BXVK/espn4.png",
           "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
           "referer": "",
@@ -514,7 +544,7 @@
         },        
         {
           "name": "Espn 4 🇲🇽",
-          "info": "[Streamx]",
+          "info": "[Streamx488]",
           "image": "https://i.postimg.cc/tJ22BXVK/espn4.png",
           "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
           "referer": "",
@@ -524,7 +554,7 @@
         },
         {
           "name": "Espn 5",
-          "info": "[Streamx]",
+          "info": "[Streamx488]",
           "image": "https://i.postimg.cc/gcDSzKB3/espn5.png",
           "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
           "referer": "",
@@ -534,7 +564,7 @@
         },
         {
           "name": "Espn 6",
-          "info": "[Streamx]",
+          "info": "[Streamx488]",
           "image": "https://i.postimg.cc/7YZBfTpc/espn6.png",
           "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
           "referer": "",
@@ -544,7 +574,7 @@
         },
         {
           "name": "Espn 7",
-          "info": "[Streamx]",
+          "info": "[Streamx488]",
           "image": "https://i.postimg.cc/SxXDGbQr/espn7.png",
           "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
           "referer": "",
@@ -554,7 +584,7 @@
         },
         {
           "name": "Fox Deportes",
-          "info": "[Streamx]",
+          "info": "[Streamx488]",
           "image": "https://i.postimg.cc/nhb9HMr0/FOX-Deportes.png",
           "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
           "referer": "",
@@ -564,7 +594,7 @@
         },
         {
           "name": "Fox Sport",
-          "info": "[Streamx]",
+          "info": "[Streamx488]",
           "image": "https://i.postimg.cc/d3Kggyc0/Fox-Sport.png",
           "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
           "referer": "",
@@ -574,7 +604,7 @@
         },
         {
           "name": "Fox Sport 2",
-          "info": "[Streamx]",
+          "info": "[Streamx488]",
           "image": "https://i.postimg.cc/mrJvNndj/Fox-Sport-2.png",
           "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
           "referer": "",
@@ -584,7 +614,7 @@
         },
         {
           "name": "Fox Sport 3",
-          "info": "[streamx488]",
+          "info": "[Streamx488]",
           "image": "https://i.postimg.cc/Y9CXJzhT/Fox-Sport-3.png",
           "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
           "referer": "",
@@ -593,14 +623,114 @@
           "url": "https://streamx488.sbs/global3.php?channel=fox3ar"
         },
         {
-          "name": "PRUEBA",
+          "name": "DSport",
+          "info": "[Streamx488]",
+          "image": "https://i.postimg.cc/90kwzjPn/DSports.png",
+          "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "isHost": "true",
+          "embed": "",
+          "url": "https://streamx488.sbs/global3.php?channel=dsports"
+        },
+        {
+          "name": "DSport 2",
+          "info": "[streamx488]",
+          "image": "https://i.postimg.cc/m20FsBgW/DSports2.png",
+          "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "isHost": "true",
+          "embed": "",
+          "url": "https://streamx488.sbs/global3.php?channel=dsports2"
+        },
+        {
+          "name": "DSport+",
+          "info": "[streamx488]",
+          "image": "https://i.postimg.cc/HLmcrz5H/DSports.png",
+          "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "isHost": "true",
+          "embed": "",
+          "url": "https://streamx488.sbs/global3.php?channel=dsportsplus"
+        },
+        {
+          "name": "TyC Sport",
+          "info": "[streamx488]",
+          "image": "https://i.postimg.cc/Hs2sSm7D/Ty-CSp.png",
+          "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "isHost": "true",
+          "embed": "",
+          "url": "https://streamx488.sbs/global3.php?channel=tyc"
+        },
+        {
+          "name": "MLS 01",
           "info": "[streamx488]",
           "image": "",
           "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
           "referer": "",
           "isHost": "",
           "embed": "true",
-          "url": "https://latamplay1.click/channel/tnt1.html"
+          "url": "https://streamx488.sbs/global3.php?channel=mls1"
+        },
+        {
+          "name": "MLS 02",
+          "info": "[streamx488]",
+          "image": "",
+          "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "isHost": "",
+          "embed": "true",
+          "url": "https://streamx488.sbs/global3.php?channel=mls2"
+        },
+        {
+          "name": "MLS 03",
+          "info": "[streamx488]",
+          "image": "",
+          "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "isHost": "",
+          "embed": "true",
+          "url": "https://streamx488.sbs/global3.php?channel=mls3"
+        },
+        {
+          "name": "MLS 04",
+          "info": "[streamx488]",
+          "image": "",
+          "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "isHost": "",
+          "embed": "true",
+          "url": "https://streamx488.sbs/global3.php?channel=mls4"
+        },
+        {
+          "name": "MLS 05",
+          "info": "[streamx488]",
+          "image": "",
+          "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "isHost": "",
+          "embed": "true",
+          "url": "https://streamx488.sbs/global3.php?channel=mls5"
+        },
+        {
+          "name": "MLS 06",
+          "info": "[streamx488]",
+          "image": "",
+          "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "isHost": "",
+          "embed": "true",
+          "url": "https://streamx488.sbs/global3.php?channel=mls6"
+        },
+        {
+          "name": "MLS 07",
+          "info": "[streamx488]",
+          "image": "",
+          "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+          "referer": "",
+          "isHost": "",
+          "embed": "true",
+          "url": "https://streamx488.sbs/global3.php?channel=mls7"
         }
       ]
     },
