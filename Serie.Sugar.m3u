@@ -1,39 +1,11 @@
 #EXTM3U
 
-#EXTINF:-1 tmdb-id="203744" group-title="[VOD] Series" tvg-logo="https://es.web.img3.acsta.net/pictures/24/03/05/16/19/0622853.jpg", Sugar S01E01 - Capítulo 01
+#EXTINF:-1 tmdb-id="203744" group-title="Sugar" tvg-logo="https://es.web.img3.acsta.net/pictures/24/03/05/16/19/0622853.jpg", Sugar S01E01
 https://stream-3891-64-63.pkcdn.org/dash/lmohokitbqikkfn2mbn7sniohb34tay2lf2opuwqp6p5uci2z7gtjhgcoa/manifest.mpd
-#EXTINF:-1 tmdb-id="203744" group-title="[VOD] Series" tvg-logo="https://es.web.img3.acsta.net/pictures/24/03/05/16/19/0622853.jpg", Sugar S01E02 - Capítulo 02
+#EXTINF:-1 tmdb-id="203744" group-title="Sugar" tvg-logo="https://es.web.img3.acsta.net/pictures/24/03/05/16/19/0622853.jpg", Sugar S01E02
 https://stream-4091-31-168.pkcdn.org/dash/kuoholytbqikkfn2mbn7snq6mkg7nttomirsl6h4txvygzxp6b6nlezg3q/manifest.mpd
-#EXTINF:-1 tmdb-id="203744" group-title="[VOD] Series" tvg-logo="https://es.web.img3.acsta.net/pictures/24/03/05/16/19/0622853.jpg", Capitulo 03
-https://stream-4891-212-105.pkcdn.org/dash/juoholqtbqikkfn2mbn7smijmboh3alptutgqfnxs5uibjaxiqnmeykixy/manifest.mpd
-#EXTINF:-1 tmdb-id="203744" group-title="[VOD] Series" tvg-logo="https://es.web.img3.acsta.net/pictures/24/03/05/16/19/0622853.jpg", Capitulo 04
-https://stream-4891-212-105.pkcdn.org/dash/juoholitbqikkfn2mbn7szqwguxdznwvxlxixmkzzu4hdiqc2byg6y7pcy/manifest.mpd
-#EXTINF:-1 tmdb-id="203744" group-title="[VOD] Series" tvg-logo="https://es.web.img3.acsta.net/pictures/24/03/05/16/19/0622853.jpg", Capitulo 05
-https://stream-3991-48-215.pkcdn.org/dash/lioholatbqikkfn2mbn7sia6mjgndzzsqygmu5lmvluwmypejsdsmecjkq/manifest.mpd
-#EXTINF:-1 tmdb-id="203744" group-title="[VOD] Series" tvg-logo="https://es.web.img3.acsta.net/pictures/24/03/05/16/19/0622853.jpg", Capitulo 06
-https://stream-4091-31-168.pkcdn.org/dash/kuohoiytbqikkfn2mbn7s3a4fus7skfyrpyt44pd4u6s2lihcjwwhd2ij4/manifest.mpd
-#EXTINF:-1 tmdb-id="203744" group-title="[VOD] Series" tvg-logo="https://es.web.img3.acsta.net/pictures/24/03/05/16/19/0622853.jpg", Capitulo 07
-https://stream-4338-55-56.pkcdn.org/dash/kyohoiqtbqikkfn2mbn7spa2h576nwtau5ghnx3wp5wpy5maxztqz77lvi/manifest.mpd
-#EXTINF:-1 tmdb-id="203744" group-title="[VOD] Series" tvg-logo="https://es.web.img3.acsta.net/pictures/24/03/05/16/19/0622853.jpg", Capitulo 08
-https://stream-45165-48-68.pkcdn.org/dash/kaohoiitbqikkfn2mbn7smaye3pfwy4a2qoey657q7htfwcgxee5i52mwe/manifest.mpd
 
 
-#EXTINF:-1 tmdb-id="203744" group-title="Temporada 02" tvg-logo="https://pics.filmaffinity.com/sugar-528949626-large.jpg", Capitulo 01
-https://stream-3791-48-223.pkcdn.org/dash/laohoyytbqikkfn2mbn7sii6e2du3e7ckief2wxfnd4zyon4olvxhkbqde/manifest.mpd
-#EXTINF:-1 tmdb-id="203744" group-title="Temporada 02" tvg-logo="https://pics.filmaffinity.com/sugar-528949626-large.jpg", Capitulo 02
-https://stream-4091-31-168.pkcdn.org/dash/kuohpmqlbqikkfn2mbmpspqgec2or4rdluv3xr6w7abx2o5v2fefmwr63m/manifest.mpd
-#EXTINF:-1 tmdb-id="203744" group-title="Temporada 02" tvg-logo="https://pics.filmaffinity.com/sugar-528949626-large.jpg", Capitulo 03
-https://stream-45165-48-68.pkcdn.org/dash/kaohoqaebqikkfn2mbmpsi2ihkc3ckwo5gkx7zwmlad4pzo2fokgp5ubqe/manifest.mpd
-#EXTINF:-1 tmdb-id="203744" group-title="Temporada 02" tvg-logo="https://pics.filmaffinity.com/sugar-528949626-large.jpg", Capitulo 04
-https://stream-4291-31-166.pkcdn.org/dash/k4ohpaspbqikkfn2mbp7sjkggndxmlb74w2kfkgc3ubn2afn4fkega6z6a/manifest.mpd
-#EXTINF:-1 tmdb-id="203744" group-title="Temporada 02" tvg-logo="https://pics.filmaffinity.com/sugar-528949626-large.jpg", Capitulo 05
-https://stream-4338-55-56.pkcdn.org/dash/kyohpacpbqikkfn2mbp7sjkkemazewbvrexatyeivgrdlkttov45yll6gy/manifest.mpd
-#EXTINF:-1 tmdb-id="203744" group-title="Temporada 02" tvg-logo="https://pics.filmaffinity.com/sugar-528949626-large.jpg", Capitulo 06
-https://stream-4491-212-99.pkcdn.org/dash/keoho5s7bqikkfn2mbp7soaveveygshscwoxjfwyn245rupliengao24ue/manifest.mpd
-#EXTINF:-1 tmdb-id="203744" group-title="Temporada 02" tvg-logo="https://pics.filmaffinity.com/sugar-528949626-large.jpg", Capitulo 07
-https://stream-3891-64-63.pkcdn.org/dash/lmohpbspbqikkfn2mbp7soaogm4cu3jz6wglezryvwd3xj4o6im74drvbu/manifest.mpd
-#EXTINF:-1 tmdb-id="203744" group-title="Temporada 02" tvg-logo="https://pics.filmaffinity.com/sugar-528949626-large.jpg", Capitulo 08
-https://stream-4091-31-168.pkcdn.org/dash/kuohoqvjbuikkfn2mbo7syahhrcugsffmtkrcawtao2n5nlsjlukys23ky/manifest.mpd
 
 
 
