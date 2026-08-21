@@ -1,5 +1,6 @@
 #EXTM3U
 
+#EXTM3U X-VOD-PLAYLIST="true"
 #EXTINF:-1 tmdb-id="203744" group-title="Sugar" tvg-logo="https://es.web.img3.acsta.net/pictures/24/03/05/16/19/0622853.jpg", Sugar S01E01
 https://stream-3891-64-63.pkcdn.org/dash/lmohokitbqikkfn2mbn7sniohb34tay2lf2opuwqp6p5uci2z7gtjhgcoa/manifest.mpd
 #EXTINF:-1 tmdb-id="203744" group-title="Sugar" tvg-logo="https://es.web.img3.acsta.net/pictures/24/03/05/16/19/0622853.jpg", Sugar S01E02
