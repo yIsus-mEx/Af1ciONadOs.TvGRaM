@@ -1,8 +1,8 @@
-#EXTM3U
+#EXTM3U url-tvg="https://raw.githubusercontent.com/yIsus-mEx/AF1CIONADOS/refs/heads/main/Metadatos_Series.xml"
 #EXTINF:-1 group-title="Belico" tvg-logo="https://image.tmdb.org/t/p/w500/jbYJ9ksVK6TF8iNeKTK3FTiGpfe.jpg" ,Llanura roja (1954)
 http://mistreamt.duckdns.org:8080/stream/1668?hash=574c3b
 
-#EXTINF:-1 group-title="Sugar Temporada 01" tvg-logo="https://es.web.img3.acsta.net/pictures/24/03/05/16/19/0622853.jpg", Capítulo 01
+#EXTINF:-1 tvg-id="sugar_s01e01" group-title="Sugar Temporada 01" tvg-logo="https://es.web.img3.acsta.net/pictures/24/03/05/16/19/0622853.jpg", Capítulo 01
 https://stream-3891-64-63.pkcdn.org/dash/lmohokitbqikkfn2mbn7sniohb34tay2lf2opuwqp6p5uci2z7gtjhgcoa/manifest.mpd
 
 
