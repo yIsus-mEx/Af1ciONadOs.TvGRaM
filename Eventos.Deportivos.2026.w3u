@@ -4,12 +4,12 @@
   "image": "",
   "groups": [
     {
-      "name": "HOY - Sábado, 12 De Septiembre De 2026 - 8 eventos",
+      "name": "HOY - Sábado, 12 De Septiembre De 2026 - 6 eventos",
       "image": "",
       "stations": [
         {
           "name": "10:00 - UFC: Jean Silva vs José Miguel Delgado",
-          "image": "https://i.postimg.cc/NjMjQVmv/UFC.png",
+          "image": "https://i.postimg.cc/QN12WbhH/UFC.png",
           "url": "https://streamx305.sbs/global3.php?channel=paramount1",
           "isHost": "true",
           "referer": "https://streamx305.sbs/",
@@ -17,7 +17,7 @@
         },
         {
           "name": "10:00 - UFC: Jean Silva vs José Miguel Delgado",
-          "image": "https://i.postimg.cc/NjMjQVmv/UFC.png",
+          "image": "https://i.postimg.cc/QN12WbhH/UFC.png",
           "url": "https://streamx305.sbs/global3.php?channel=paramount2",
           "isHost": "true",
           "referer": "https://streamx305.sbs/",
@@ -25,31 +25,15 @@
         },
         {
           "name": "10:00 - UFC: Jean Silva vs José Miguel Delgado",
-          "image": "https://i.postimg.cc/NjMjQVmv/UFC.png",
+          "image": "https://i.postimg.cc/QN12WbhH/UFC.png",
           "url": "https://streamx305.sbs/global3.php?channel=paramount3",
           "isHost": "true",
           "referer": "https://streamx305.sbs/",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
         },
         {
-          "name": "19:30 - MLS: LA Galaxy vs Seattle Sounders FC",
-          "image": "",
-          "url": "https://streamx305.sbs/global3.php?channel=mls6",
-          "isHost": "true",
-          "referer": "https://streamx305.sbs/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "19:30 - MLS: SJ Earthquakes vs Houston Dynamo",
-          "image": "",
-          "url": "https://streamx305.sbs/global3.php?channel=mls7",
-          "isHost": "true",
-          "referer": "https://streamx305.sbs/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
-        },
-        {
           "name": "20:15 - Liga MX: Cruz Azul vs América",
-          "image": "",
+          "image": "https://i.postimg.cc/W4qWcN41/Liga-MX.png",
           "url": "https://streamx305.sbs/global3.php?channel=canal5mx",
           "isHost": "true",
           "referer": "https://streamx305.sbs/",
@@ -57,7 +41,7 @@
         },
         {
           "name": "20:15 - Liga MX: Cruz Azul vs América",
-          "image": "",
+          "image": "https://i.postimg.cc/W4qWcN41/Liga-MX.png",
           "url": "https://streamx305.sbs/global3.php?channel=tudnus",
           "isHost": "true",
           "referer": "https://streamx305.sbs/",
@@ -65,7 +49,7 @@
         },
         {
           "name": "20:15 - Liga MX: Cruz Azul vs América",
-          "image": "",
+          "image": "https://i.postimg.cc/W4qWcN41/Liga-MX.png",
           "url": "https://streamx305.sbs/global3.php?channel=tudnmx",
           "isHost": "true",
           "referer": "https://streamx305.sbs/",
@@ -87,7 +71,7 @@
         },
         {
           "name": "05:00 - LaLiga: Celta de Vigo vs Málaga",
-          "image": "",
+          "image": "https://i.postimg.cc/g2TS7XmQ/La-Liga.png",
           "url": "https://streamx305.sbs/global3.php?channel=dsports",
           "isHost": "true",
           "referer": "https://streamx305.sbs/",
@@ -95,7 +79,7 @@
         },
         {
           "name": "05:00 - LaLiga: Celta de Vigo vs Málaga",
-          "image": "",
+          "image": "https://i.postimg.cc/g2TS7XmQ/La-Liga.png",
           "url": "https://streamx305.sbs/global3.php?channel=espnplus1",
           "isHost": "true",
           "referer": "https://streamx305.sbs/",
@@ -103,7 +87,7 @@
         },
         {
           "name": "05:00 - LaLiga: Celta de Vigo vs Málaga",
-          "image": "",
+          "image": "https://i.postimg.cc/g2TS7XmQ/La-Liga.png",
           "url": "https://streamx305.sbs/global3.php?channel=daznlaliga",
           "isHost": "true",
           "referer": "https://streamx305.sbs/",
@@ -111,7 +95,7 @@
         },
         {
           "name": "05:00 - LaLiga: Celta de Vigo vs Málaga",
-          "image": "",
+          "image": "https://i.postimg.cc/g2TS7XmQ/La-Liga.png",
           "url": "https://streamx305.sbs/global3.php?channel=espndeportes",
           "isHost": "true",
           "referer": "https://streamx305.sbs/",
@@ -119,7 +103,7 @@
         },
         {
           "name": "05:00 - LaLiga 2: Sporting Gijón vs Eldense",
-          "image": "",
+          "image": "https://i.postimg.cc/g2TS7XmQ/La-Liga.png",
           "url": "https://streamx305.sbs/global3.php?channel=hyper1",
           "isHost": "true",
           "referer": "https://streamx305.sbs/",
@@ -127,7 +111,7 @@
         },
         {
           "name": "06:00 - Premier League: Coventry City vs Brighton & Hove Albion",
-          "image": "",
+          "image": "https://i.postimg.cc/tJkDN7BV/Premier-League.png",
           "url": "https://streamx305.sbs/global3.php?channel=disney1",
           "isHost": "true",
           "referer": "https://streamx305.sbs/",
@@ -135,7 +119,7 @@
         },
         {
           "name": "06:00 - Premier League: Coventry City vs Brighton & Hove Albion",
-          "image": "",
+          "image": "https://i.postimg.cc/tJkDN7BV/Premier-League.png",
           "url": "https://streamx305.sbs/global3.php?channel=max1",
           "isHost": "true",
           "referer": "https://streamx305.sbs/",
@@ -143,7 +127,7 @@
         },
         {
           "name": "06:00 - Premier League: Coventry City vs Brighton & Hove Albion",
-          "image": "",
+          "image": "https://i.postimg.cc/tJkDN7BV/Premier-League.png",
           "url": "https://streamx305.sbs/global3.php?channel=espn3",
           "isHost": "true",
           "referer": "https://streamx305.sbs/",
@@ -151,7 +135,7 @@
         },
         {
           "name": "06:00 - Serie A: Lecce vs Monza",
-          "image": "",
+          "image": "https://i.postimg.cc/cChTB6Dy/Serie-A.png",
           "url": "https://streamx305.sbs/global3.php?channel=disney2",
           "isHost": "true",
           "referer": "https://streamx305.sbs/",
@@ -159,7 +143,7 @@
         },
         {
           "name": "06:00 - Serie A: Lecce vs Monza",
-          "image": "",
+          "image": "https://i.postimg.cc/cChTB6Dy/Serie-A.png",
           "url": "https://streamx305.sbs/global3.php?channel=espnmx",
           "isHost": "true",
           "referer": "https://streamx305.sbs/",
@@ -167,7 +151,7 @@
         },
         {
           "name": "06:00 - Ligue 1: Lille vs Troyes",
-          "image": "",
+          "image": "https://i.postimg.cc/50wsjsLc/Ligue-1.png",
           "url": "https://streamx305.sbs/global3.php?channel=disney3",
           "isHost": "true",
           "referer": "https://streamx305.sbs/",
@@ -175,7 +159,7 @@
         },
         {
           "name": "06:00 - Ligue 1: Lille vs Troyes",
-          "image": "",
+          "image": "https://i.postimg.cc/50wsjsLc/Ligue-1.png",
           "url": "https://streamx305.sbs/global3.php?channel=foxone1",
           "isHost": "true",
           "referer": "https://streamx305.sbs/",
@@ -191,7 +175,7 @@
         },
         {
           "name": "06:00 - F1 | GP de España: Carrera",
-          "image": "",
+          "image": "https://i.postimg.cc/MTRFV6kF/F1.png",
           "url": "https://streamx305.sbs/global3.php?channel=disney19",
           "isHost": "true",
           "referer": "https://streamx305.sbs/",
@@ -199,7 +183,7 @@
         },
         {
           "name": "06:00 - F1 | GP de España: Carrera",
-          "image": "",
+          "image": "https://i.postimg.cc/MTRFV6kF/F1.png",
           "url": "https://streamx305.sbs/global3.php?channel=daznf1",
           "isHost": "true",
           "referer": "https://streamx305.sbs/",
@@ -207,7 +191,7 @@
         },
         {
           "name": "06:00 - F1 | GP de España: Carrera",
-          "image": "",
+          "image": "https://i.postimg.cc/MTRFV6kF/F1.png",
           "url": "https://streamx305.sbs/global3.php?channel=espn",
           "isHost": "true",
           "referer": "https://streamx305.sbs/",
@@ -215,7 +199,7 @@
         },
         {
           "name": "06:00 - F1 | GP de España: Carrera",
-          "image": "",
+          "image": "https://i.postimg.cc/MTRFV6kF/F1.png",
           "url": "https://streamx305.sbs/global3.php?channel=fox1ar",
           "isHost": "true",
           "referer": "https://streamx305.sbs/",
@@ -223,7 +207,7 @@
         },
         {
           "name": "06:00 - F1 | GP de España: Cámara On Board - Colapinto",
-          "image": "",
+          "image": "https://i.postimg.cc/MTRFV6kF/F1.png",
           "url": "https://streamx305.sbs/global3.php?channel=disney20",
           "isHost": "true",
           "referer": "https://streamx305.sbs/",
@@ -231,7 +215,7 @@
         },
         {
           "name": "06:30 - Bundesliga: RB Leipzig vs Hamburger SV",
-          "image": "",
+          "image": "https://i.postimg.cc/cLHkTMy3/Bundesliga.png",
           "url": "https://streamx305.sbs/global3.php?channel=disney5",
           "isHost": "true",
           "referer": "https://streamx305.sbs/",
@@ -239,7 +223,7 @@
         },
         {
           "name": "06:30 - Bundesliga: RB Leipzig vs Hamburger SV",
-          "image": "",
+          "image": "https://i.postimg.cc/cLHkTMy3/Bundesliga.png",
           "url": "https://streamx305.sbs/global3.php?channel=foxone2",
           "isHost": "true",
           "referer": "https://streamx305.sbs/",
@@ -247,7 +231,7 @@
         },
         {
           "name": "06:30 - Bundesliga: RB Leipzig vs Hamburger SV",
-          "image": "",
+          "image": "https://i.postimg.cc/cLHkTMy3/Bundesliga.png",
           "url": "https://streamx305.sbs/global3.php?channel=universo",
           "isHost": "true",
           "referer": "https://streamx305.sbs/",
@@ -255,7 +239,7 @@
         },
         {
           "name": "07:15 - LaLiga: Levante vs Barcelona",
-          "image": "",
+          "image": "https://i.postimg.cc/g2TS7XmQ/La-Liga.png",
           "url": "https://streamx305.sbs/global3.php?channel=espnplus2",
           "isHost": "true",
           "referer": "https://streamx305.sbs/",
@@ -263,7 +247,7 @@
         },
         {
           "name": "07:15 - LaLiga: Levante vs Barcelona",
-          "image": "",
+          "image": "https://i.postimg.cc/g2TS7XmQ/La-Liga.png",
           "url": "https://streamx305.sbs/global3.php?channel=mlaliga",
           "isHost": "true",
           "referer": "https://streamx305.sbs/",
@@ -287,7 +271,7 @@
         },
         {
           "name": "08:30 - Premier League: Manchester United vs Manchester City",
-          "image": "",
+          "image": "https://i.postimg.cc/tJkDN7BV/Premier-League.png",
           "url": "https://streamx305.sbs/global3.php?channel=disney7",
           "isHost": "true",
           "referer": "https://streamx305.sbs/",
@@ -295,7 +279,7 @@
         },
         {
           "name": "08:30 - Premier League: Manchester United vs Manchester City",
-          "image": "",
+          "image": "https://i.postimg.cc/tJkDN7BV/Premier-League.png",
           "url": "https://streamx305.sbs/global3.php?channel=max2",
           "isHost": "true",
           "referer": "https://streamx305.sbs/",
@@ -303,7 +287,7 @@
         },
         {
           "name": "08:30 - Premier League: Manchester United vs Manchester City",
-          "image": "",
+          "image": "https://i.postimg.cc/tJkDN7BV/Premier-League.png",
           "url": "https://streamx305.sbs/global3.php?channel=telemundo",
           "isHost": "true",
           "referer": "https://streamx305.sbs/",
@@ -311,7 +295,7 @@
         },
         {
           "name": "08:30 - Bundesliga: Elversberg vs Bayern München",
-          "image": "",
+          "image": "https://i.postimg.cc/cLHkTMy3/Bundesliga.png",
           "url": "https://streamx305.sbs/global3.php?channel=disney8",
           "isHost": "true",
           "referer": "https://streamx305.sbs/",
@@ -319,7 +303,7 @@
         },
         {
           "name": "08:30 - Bundesliga: Elversberg vs Bayern München",
-          "image": "",
+          "image": "https://i.postimg.cc/cLHkTMy3/Bundesliga.png",
           "url": "https://streamx305.sbs/global3.php?channel=foxone3",
           "isHost": "true",
           "referer": "https://streamx305.sbs/",
@@ -327,7 +311,7 @@
         },
         {
           "name": "08:30 - Ligue 1: Le Mans vs Lens",
-          "image": "",
+          "image": "https://i.postimg.cc/50wsjsLc/Ligue-1.png",
           "url": "https://streamx305.sbs/global3.php?channel=disney9",
           "isHost": "true",
           "referer": "https://streamx305.sbs/",
@@ -335,7 +319,7 @@
         },
         {
           "name": "08:30 - Ligue 1: Le Mans vs Lens",
-          "image": "",
+          "image": "https://i.postimg.cc/50wsjsLc/Ligue-1.png",
           "url": "https://streamx305.sbs/global3.php?channel=foxone4",
           "isHost": "true",
           "referer": "https://streamx305.sbs/",
@@ -343,7 +327,7 @@
         },
         {
           "name": "08:30 - Ligue 1: Le Mans vs Lens",
-          "image": "",
+          "image": "https://i.postimg.cc/50wsjsLc/Ligue-1.png",
           "url": "https://streamx305.sbs/global3.php?channel=espn4",
           "isHost": "true",
           "referer": "https://streamx305.sbs/",
@@ -359,7 +343,7 @@
         },
         {
           "name": "09:00 - Serie A: Napoli vs Bologna",
-          "image": "",
+          "image": "https://i.postimg.cc/cChTB6Dy/Serie-A.png",
           "url": "https://streamx305.sbs/global3.php?channel=disney10",
           "isHost": "true",
           "referer": "https://streamx305.sbs/",
@@ -367,7 +351,7 @@
         },
         {
           "name": "09:00 - Serie A: Napoli vs Bologna",
-          "image": "",
+          "image": "https://i.postimg.cc/cChTB6Dy/Serie-A.png",
           "url": "https://streamx305.sbs/global3.php?channel=espn2mx",
           "isHost": "true",
           "referer": "https://streamx305.sbs/",
@@ -383,7 +367,7 @@
         },
         {
           "name": "09:30 - LaLiga: Getafe vs Deportivo La Coruña",
-          "image": "",
+          "image": "https://i.postimg.cc/g2TS7XmQ/La-Liga.png",
           "url": "https://streamx305.sbs/global3.php?channel=espnplus3",
           "isHost": "true",
           "referer": "https://streamx305.sbs/",
@@ -415,7 +399,7 @@
         },
         {
           "name": "10:00 - NFL: Bills vs Texans",
-          "image": "",
+          "image": "https://i.postimg.cc/NfxZdjKP/NFL.png",
           "url": "https://streamx305.sbs/global3.php?channel=fox2ar",
           "isHost": "true",
           "referer": "https://streamx305.sbs/",
@@ -423,7 +407,7 @@
         },
         {
           "name": "10:00 - NFL: Bucanneers vs Bengals",
-          "image": "",
+          "image": "https://i.postimg.cc/NfxZdjKP/NFL.png",
           "url": "https://streamx305.sbs/global3.php?channel=foxone5",
           "isHost": "true",
           "referer": "https://streamx305.sbs/",
@@ -431,7 +415,7 @@
         },
         {
           "name": "10:00 - NFL: Bucanneers vs Bengals",
-          "image": "",
+          "image": "https://i.postimg.cc/NfxZdjKP/NFL.png",
           "url": "https://streamx305.sbs/global3.php?channel=espn7",
           "isHost": "true",
           "referer": "https://streamx305.sbs/",
@@ -439,7 +423,7 @@
         },
         {
           "name": "10:00 - NFL: Bucanneers vs Bengals",
-          "image": "",
+          "image": "https://i.postimg.cc/NfxZdjKP/NFL.png",
           "url": "https://streamx305.sbs/global3.php?channel=fox3ar",
           "isHost": "true",
           "referer": "https://streamx305.sbs/",
@@ -447,7 +431,7 @@
         },
         {
           "name": "10:00 - NFL: Falcons vs Steelers",
-          "image": "",
+          "image": "https://i.postimg.cc/NfxZdjKP/NFL.png",
           "url": "https://streamx305.sbs/global3.php?channel=foxone6",
           "isHost": "true",
           "referer": "https://streamx305.sbs/",
@@ -503,7 +487,7 @@
         },
         {
           "name": "11:45 - Serie A: Sassuolo vs Juventus",
-          "image": "",
+          "image": "https://i.postimg.cc/cChTB6Dy/Serie-A.png",
           "url": "https://streamx305.sbs/global3.php?channel=disney14",
           "isHost": "true",
           "referer": "https://streamx305.sbs/",
@@ -511,7 +495,7 @@
         },
         {
           "name": "11:45 - Ligue 1: Brest vs PSG",
-          "image": "",
+          "image": "https://i.postimg.cc/50wsjsLc/Ligue-1.png",
           "url": "https://streamx305.sbs/global3.php?channel=disney15",
           "isHost": "true",
           "referer": "https://streamx305.sbs/",
@@ -519,7 +503,7 @@
         },
         {
           "name": "11:45 - Ligue 1: Brest vs PSG",
-          "image": "",
+          "image": "https://i.postimg.cc/50wsjsLc/Ligue-1.png",
           "url": "https://streamx305.sbs/global3.php?channel=foxone7",
           "isHost": "true",
           "referer": "https://streamx305.sbs/",
@@ -527,7 +511,7 @@
         },
         {
           "name": "11:45 - Ligue 1: Brest vs PSG",
-          "image": "",
+          "image": "https://i.postimg.cc/50wsjsLc/Ligue-1.png",
           "url": "https://streamx305.sbs/global3.php?channel=espn2",
           "isHost": "true",
           "referer": "https://streamx305.sbs/",
@@ -535,7 +519,7 @@
         },
         {
           "name": "12:00 - LaLiga: Real Sociedad vs Atlético Madrid",
-          "image": "",
+          "image": "https://i.postimg.cc/g2TS7XmQ/La-Liga.png",
           "url": "https://streamx305.sbs/global3.php?channel=espnplus4",
           "isHost": "true",
           "referer": "https://streamx305.sbs/",
@@ -607,7 +591,7 @@
         },
         {
           "name": "13:25 - NFL: Dolphins vs Raiders",
-          "image": "",
+          "image": "https://i.postimg.cc/NfxZdjKP/NFL.png",
           "url": "https://streamx305.sbs/global3.php?channel=foxone8",
           "isHost": "true",
           "referer": "https://streamx305.sbs/",
@@ -615,7 +599,7 @@
         },
         {
           "name": "13:25 - NFL: Packers vs Vikings",
-          "image": "",
+          "image": "https://i.postimg.cc/NfxZdjKP/NFL.png",
           "url": "https://streamx305.sbs/global3.php?channel=foxone9",
           "isHost": "true",
           "referer": "https://streamx305.sbs/",
@@ -647,7 +631,7 @@
         },
         {
           "name": "14:30 - MLS: Chicago Fire vs New England",
-          "image": "",
+          "image": "https://i.postimg.cc/BQwBSrkS/MLS.png",
           "url": "https://streamx305.sbs/global3.php?channel=mls1",
           "isHost": "true",
           "referer": "https://streamx305.sbs/",
@@ -655,7 +639,7 @@
         },
         {
           "name": "14:30 - MLS: Chicago Fire vs New England",
-          "image": "",
+          "image": "https://i.postimg.cc/BQwBSrkS/MLS.png",
           "url": "https://streamx305.sbs/global3.php?channel=tsn2",
           "isHost": "true",
           "referer": "https://streamx305.sbs/",
@@ -679,7 +663,7 @@
         },
         {
           "name": "15:30 - MLS: Vancouver Whitecaps vs Austin",
-          "image": "",
+          "image": "https://i.postimg.cc/BQwBSrkS/MLS.png",
           "url": "https://streamx305.sbs/global3.php?channel=mls2",
           "isHost": "true",
           "referer": "https://streamx305.sbs/",
@@ -703,7 +687,7 @@
         },
         {
           "name": "18:00 - MLS: San Diego vs Philadelphia Union",
-          "image": "",
+          "image": "https://i.postimg.cc/BQwBSrkS/MLS.png",
           "url": "https://streamx305.sbs/global3.php?channel=mls3",
           "isHost": "true",
           "referer": "https://streamx305.sbs/",
@@ -711,7 +695,7 @@
         },
         {
           "name": "18:00 - Liga MX: Santos Laguna vs Juárez",
-          "image": "",
+          "image": "https://i.postimg.cc/W4qWcN41/Liga-MX.png",
           "url": "https://streamx305.sbs/global3.php?channel=disney18",
           "isHost": "true",
           "referer": "https://streamx305.sbs/",
@@ -719,7 +703,7 @@
         },
         {
           "name": "18:07 - Liga MX: Guadalajara vs Pumas UNAM",
-          "image": "",
+          "image": "https://i.postimg.cc/W4qWcN41/Liga-MX.png",
           "url": "https://streamx305.sbs/global3.php?channel=amazon1",
           "isHost": "true",
           "referer": "https://streamx305.sbs/",
