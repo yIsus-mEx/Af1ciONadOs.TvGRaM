@@ -1,0 +1,643 @@
+{
+  "name": "Eventos Deportivos",
+  "author": "W3U Generator",
+  "image": "",
+  "groups": [
+    {
+      "name": "Eventos En Vivo",
+      "image": "",
+      "stations": [
+        {
+          "name": "10:00 - UFC: Jean Silva vs José Miguel Delgado",
+          "image": "",
+          "url": "https://streamx305.sbs/global1.php?channel=paramount1",
+          "referer": "https://streamx305.sbs/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "10:00 - UFC: Jean Silva vs José Miguel Delgado",
+          "image": "",
+          "url": "https://streamx305.sbs/global1.php?channel=paramount2",
+          "referer": "https://streamx305.sbs/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "10:00 - UFC: Jean Silva vs José Miguel Delgado",
+          "image": "",
+          "url": "https://streamx305.sbs/global1.php?channel=paramount3",
+          "referer": "https://streamx305.sbs/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "18:00 - Liga 1: Alianza Lima vs Universitario",
+          "image": "",
+          "url": "https://streamx305.sbs/global1.php?channel=liga1max",
+          "referer": "https://streamx305.sbs/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "18:00 - Liga 1: Alianza Lima vs Universitario",
+          "image": "",
+          "url": "https://streamx305.sbs/global1.php?channel=fanatiz10",
+          "referer": "https://streamx305.sbs/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "18:10 - Liga MX: Monterrey vs Tigres UANL",
+          "image": "",
+          "url": "https://streamx305.sbs/global1.php?channel=canal5mx",
+          "referer": "https://streamx305.sbs/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "18:10 - Liga MX: Monterrey vs Tigres UANL",
+          "image": "",
+          "url": "https://streamx305.sbs/global1.php?channel=tudnus",
+          "referer": "https://streamx305.sbs/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "18:10 - Liga MX: Monterrey vs Tigres UANL",
+          "image": "",
+          "url": "https://streamx305.sbs/global1.php?channel=tudnmx",
+          "referer": "https://streamx305.sbs/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "18:20 - Liga BetPlay: Alianza vs Junior",
+          "image": "",
+          "url": "https://streamx305.sbs/global1.php?channel=fanatiz1",
+          "referer": "https://streamx305.sbs/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "18:20 - Liga BetPlay: Alianza vs Junior",
+          "image": "",
+          "url": "https://streamx305.sbs/global1.php?channel=winplus",
+          "referer": "https://streamx305.sbs/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "19:30 - MLS: LA Galaxy vs Seattle Sounders FC",
+          "image": "",
+          "url": "https://streamx305.sbs/global1.php?channel=mls6",
+          "referer": "https://streamx305.sbs/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "19:30 - MLS: SJ Earthquakes vs Houston Dynamo",
+          "image": "",
+          "url": "https://streamx305.sbs/global1.php?channel=mls7",
+          "referer": "https://streamx305.sbs/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "04:00 - Championship: Sheffield United vs Wolverhampton Wanderers",
+          "image": "",
+          "url": "https://streamx305.sbs/global1.php?channel=espn5",
+          "referer": "https://streamx305.sbs/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "05:00 - LaLiga: Celta de Vigo vs Málaga",
+          "image": "",
+          "url": "https://streamx305.sbs/global1.php?channel=dsports",
+          "referer": "https://streamx305.sbs/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "05:00 - LaLiga: Celta de Vigo vs Málaga",
+          "image": "",
+          "url": "https://streamx305.sbs/global1.php?channel=espnplus1",
+          "referer": "https://streamx305.sbs/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "05:00 - LaLiga: Celta de Vigo vs Málaga",
+          "image": "",
+          "url": "https://streamx305.sbs/global1.php?channel=daznlaliga",
+          "referer": "https://streamx305.sbs/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "05:00 - LaLiga: Celta de Vigo vs Málaga",
+          "image": "",
+          "url": "https://streamx305.sbs/global1.php?channel=espndeportes",
+          "referer": "https://streamx305.sbs/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "05:00 - LaLiga 2: Sporting Gijón vs Eldense",
+          "image": "",
+          "url": "https://streamx305.sbs/global1.php?channel=hyper1",
+          "referer": "https://streamx305.sbs/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "06:00 - Premier League: Coventry City vs Brighton & Hove Albion",
+          "image": "",
+          "url": "https://streamx305.sbs/global1.php?channel=disney1",
+          "referer": "https://streamx305.sbs/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "06:00 - Premier League: Coventry City vs Brighton & Hove Albion",
+          "image": "",
+          "url": "https://streamx305.sbs/global1.php?channel=max1",
+          "referer": "https://streamx305.sbs/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "06:00 - Premier League: Coventry City vs Brighton & Hove Albion",
+          "image": "",
+          "url": "https://streamx305.sbs/global1.php?channel=espn3",
+          "referer": "https://streamx305.sbs/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "06:00 - Serie A: Lecce vs Monza",
+          "image": "",
+          "url": "https://streamx305.sbs/global1.php?channel=disney2",
+          "referer": "https://streamx305.sbs/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "06:00 - Serie A: Lecce vs Monza",
+          "image": "",
+          "url": "https://streamx305.sbs/global1.php?channel=espnmx",
+          "referer": "https://streamx305.sbs/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "06:00 - Ligue 1: Lille vs Troyes",
+          "image": "",
+          "url": "https://streamx305.sbs/global1.php?channel=disney3",
+          "referer": "https://streamx305.sbs/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "06:00 - Ligue 1: Lille vs Troyes",
+          "image": "",
+          "url": "https://streamx305.sbs/global1.php?channel=foxone1",
+          "referer": "https://streamx305.sbs/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "06:00 - Primera División: Progreso vs Cerro",
+          "image": "",
+          "url": "https://streamx305.sbs/global1.php?channel=disney4",
+          "referer": "https://streamx305.sbs/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "06:00 - F1 | GP de España: Carrera",
+          "image": "",
+          "url": "https://streamx305.sbs/global1.php?channel=disney19",
+          "referer": "https://streamx305.sbs/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "06:00 - F1 | GP de España: Carrera",
+          "image": "",
+          "url": "https://streamx305.sbs/global1.php?channel=daznf1",
+          "referer": "https://streamx305.sbs/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "06:00 - F1 | GP de España: Carrera",
+          "image": "",
+          "url": "https://streamx305.sbs/global1.php?channel=espn",
+          "referer": "https://streamx305.sbs/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "06:00 - F1 | GP de España: Carrera",
+          "image": "",
+          "url": "https://streamx305.sbs/global1.php?channel=fox1ar",
+          "referer": "https://streamx305.sbs/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "06:00 - F1 | GP de España: Cámara On Board - Colapinto",
+          "image": "",
+          "url": "https://streamx305.sbs/global1.php?channel=disney20",
+          "referer": "https://streamx305.sbs/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "06:30 - Bundesliga: RB Leipzig vs Hamburger SV",
+          "image": "",
+          "url": "https://streamx305.sbs/global1.php?channel=disney5",
+          "referer": "https://streamx305.sbs/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "06:30 - Bundesliga: RB Leipzig vs Hamburger SV",
+          "image": "",
+          "url": "https://streamx305.sbs/global1.php?channel=foxone2",
+          "referer": "https://streamx305.sbs/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "06:30 - Bundesliga: RB Leipzig vs Hamburger SV",
+          "image": "",
+          "url": "https://streamx305.sbs/global1.php?channel=universo",
+          "referer": "https://streamx305.sbs/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "07:15 - LaLiga: Levante vs Barcelona",
+          "image": "",
+          "url": "https://streamx305.sbs/global1.php?channel=espnplus2",
+          "referer": "https://streamx305.sbs/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "07:15 - LaLiga: Levante vs Barcelona",
+          "image": "",
+          "url": "https://streamx305.sbs/global1.php?channel=mlaliga",
+          "referer": "https://streamx305.sbs/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "07:45 - Eredivisie: PEC Zwolle vs Feyenoord",
+          "image": "",
+          "url": "https://streamx305.sbs/global1.php?channel=disney6",
+          "referer": "https://streamx305.sbs/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "07:45 - Eredivisie: PEC Zwolle vs Feyenoord",
+          "image": "",
+          "url": "https://streamx305.sbs/global1.php?channel=espn4mx",
+          "referer": "https://streamx305.sbs/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "08:30 - Premier League: Manchester United vs Manchester City",
+          "image": "",
+          "url": "https://streamx305.sbs/global1.php?channel=disney7",
+          "referer": "https://streamx305.sbs/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "08:30 - Premier League: Manchester United vs Manchester City",
+          "image": "",
+          "url": "https://streamx305.sbs/global1.php?channel=max2",
+          "referer": "https://streamx305.sbs/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "08:30 - Premier League: Manchester United vs Manchester City",
+          "image": "",
+          "url": "https://streamx305.sbs/global1.php?channel=telemundo",
+          "referer": "https://streamx305.sbs/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "08:30 - Bundesliga: Elversberg vs Bayern München",
+          "image": "",
+          "url": "https://streamx305.sbs/global1.php?channel=disney8",
+          "referer": "https://streamx305.sbs/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "08:30 - Bundesliga: Elversberg vs Bayern München",
+          "image": "",
+          "url": "https://streamx305.sbs/global1.php?channel=foxone3",
+          "referer": "https://streamx305.sbs/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "08:30 - Ligue 1: Le Mans vs Lens",
+          "image": "",
+          "url": "https://streamx305.sbs/global1.php?channel=disney9",
+          "referer": "https://streamx305.sbs/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "08:30 - Ligue 1: Le Mans vs Lens",
+          "image": "",
+          "url": "https://streamx305.sbs/global1.php?channel=foxone4",
+          "referer": "https://streamx305.sbs/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "08:30 - Ligue 1: Le Mans vs Lens",
+          "image": "",
+          "url": "https://streamx305.sbs/global1.php?channel=espn4",
+          "referer": "https://streamx305.sbs/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "08:30 - Primera División: Univ. Concepción vs Huachipato",
+          "image": "",
+          "url": "https://streamx305.sbs/global1.php?channel=tntsportscl",
+          "referer": "https://streamx305.sbs/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "09:00 - Serie A: Napoli vs Bologna",
+          "image": "",
+          "url": "https://streamx305.sbs/global1.php?channel=disney10",
+          "referer": "https://streamx305.sbs/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "09:00 - Serie A: Napoli vs Bologna",
+          "image": "",
+          "url": "https://streamx305.sbs/global1.php?channel=espn2mx",
+          "referer": "https://streamx305.sbs/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "09:00 - Primera División: Juventud vs Danubio",
+          "image": "",
+          "url": "https://streamx305.sbs/global1.php?channel=disney11",
+          "referer": "https://streamx305.sbs/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "09:30 - LaLiga: Getafe vs Deportivo La Coruña",
+          "image": "",
+          "url": "https://streamx305.sbs/global1.php?channel=espnplus3",
+          "referer": "https://streamx305.sbs/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "10:00 - Primeira Liga: Benfica vs Gil Vicente",
+          "image": "",
+          "url": "https://streamx305.sbs/global1.php?channel=dsports2",
+          "referer": "https://streamx305.sbs/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "10:00 - Super Lig: Galatasaray vs Kocaelispor",
+          "image": "",
+          "url": "https://streamx305.sbs/global1.php?channel=disney12",
+          "referer": "https://streamx305.sbs/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "10:00 - NFL: Bills vs Texans",
+          "image": "",
+          "url": "https://streamx305.sbs/global1.php?channel=fox2ar",
+          "referer": "https://streamx305.sbs/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "10:00 - NFL: Bucanneers vs Bengals",
+          "image": "",
+          "url": "https://streamx305.sbs/global1.php?channel=foxone5",
+          "referer": "https://streamx305.sbs/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "10:00 - NFL: Bucanneers vs Bengals",
+          "image": "",
+          "url": "https://streamx305.sbs/global1.php?channel=espn7",
+          "referer": "https://streamx305.sbs/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "10:00 - NFL: Bucanneers vs Bengals",
+          "image": "",
+          "url": "https://streamx305.sbs/global1.php?channel=fox3ar",
+          "referer": "https://streamx305.sbs/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "10:00 - NFL: Falcons vs Steelers",
+          "image": "",
+          "url": "https://streamx305.sbs/global1.php?channel=foxone6",
+          "referer": "https://streamx305.sbs/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "10:45 - Liga Profesional: Tigre vs Rosario Central",
+          "image": "",
+          "url": "https://streamx305.sbs/global1.php?channel=fanatiz2",
+          "referer": "https://streamx305.sbs/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "10:45 - Liga Profesional: Tigre vs Rosario Central",
+          "image": "",
+          "url": "https://streamx305.sbs/global1.php?channel=tntar",
+          "referer": "https://streamx305.sbs/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "10:45 - Liga Profesional: Sarmiento vs Belgrano",
+          "image": "",
+          "url": "https://streamx305.sbs/global1.php?channel=fanatiz3",
+          "referer": "https://streamx305.sbs/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "10:45 - Liga Profesional: Sarmiento vs Belgrano",
+          "image": "",
+          "url": "https://streamx305.sbs/global1.php?channel=espnpremium",
+          "referer": "https://streamx305.sbs/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "11:00 - Eredivisie: PSV vs Sparta Rotterdam",
+          "image": "",
+          "url": "https://streamx305.sbs/global1.php?channel=disney13",
+          "referer": "https://streamx305.sbs/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "11:45 - Serie A: Sassuolo vs Juventus",
+          "image": "",
+          "url": "https://streamx305.sbs/global1.php?channel=disney14",
+          "referer": "https://streamx305.sbs/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "11:45 - Ligue 1: Brest vs PSG",
+          "image": "",
+          "url": "https://streamx305.sbs/global1.php?channel=disney15",
+          "referer": "https://streamx305.sbs/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "11:45 - Ligue 1: Brest vs PSG",
+          "image": "",
+          "url": "https://streamx305.sbs/global1.php?channel=foxone7",
+          "referer": "https://streamx305.sbs/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "11:45 - Ligue 1: Brest vs PSG",
+          "image": "",
+          "url": "https://streamx305.sbs/global1.php?channel=espn2",
+          "referer": "https://streamx305.sbs/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "12:00 - LaLiga: Real Sociedad vs Atlético Madrid",
+          "image": "",
+          "url": "https://streamx305.sbs/global1.php?channel=espnplus4",
+          "referer": "https://streamx305.sbs/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "12:00 - Liga BetPlay: Deportivo Pereira vs Atlético Bucaramanga",
+          "image": "",
+          "url": "https://streamx305.sbs/global1.php?channel=fanatiz4",
+          "referer": "https://streamx305.sbs/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "12:00 - Brasileirão: Mirassol vs Vitória",
+          "image": "",
+          "url": "https://streamx305.sbs/global1.php?channel=fanatiz5",
+          "referer": "https://streamx305.sbs/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "12:00 - Brasileirão: Mirassol vs Vitória",
+          "image": "",
+          "url": "https://streamx305.sbs/global1.php?channel=premiere2",
+          "referer": "https://streamx305.sbs/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "12:00 - Primera División: Defensor Sporting vs Deportivo Maldonado",
+          "image": "",
+          "url": "https://streamx305.sbs/global1.php?channel=disney16",
+          "referer": "https://streamx305.sbs/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "12:00 - Copa de Primera: Olimpia vs Sportivo Luqueño",
+          "image": "",
+          "url": "https://streamx305.sbs/global1.php?channel=fanatiz6",
+          "referer": "https://streamx305.sbs/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "12:30 - Primeira Liga: Famalicão vs Sporting CP",
+          "image": "",
+          "url": "https://streamx305.sbs/global1.php?channel=fanatiz7",
+          "referer": "https://streamx305.sbs/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "13:00 - Liga Profesional: Argentinos Juniors vs Gimnasia La Plata",
+          "image": "",
+          "url": "https://streamx305.sbs/global1.php?channel=fanatiz8",
+          "referer": "https://streamx305.sbs/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "13:25 - NFL: Dolphins vs Raiders",
+          "image": "",
+          "url": "https://streamx305.sbs/global1.php?channel=foxone8",
+          "referer": "https://streamx305.sbs/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "13:25 - NFL: Packers vs Vikings",
+          "image": "",
+          "url": "https://streamx305.sbs/global1.php?channel=foxone9",
+          "referer": "https://streamx305.sbs/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "13:30 - Brasileirão: Flamengo vs Corinthians",
+          "image": "",
+          "url": "https://streamx305.sbs/global1.php?channel=premiere1",
+          "referer": "https://streamx305.sbs/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "14:05 - Liga BetPlay: Atlético Nacional vs Rionegro Águilas",
+          "image": "",
+          "url": "https://streamx305.sbs/global1.php?channel=fanatiz9",
+          "referer": "https://streamx305.sbs/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "14:30 - MLS: Chicago Fire vs New England",
+          "image": "",
+          "url": "https://streamx305.sbs/global1.php?channel=mls1",
+          "referer": "https://streamx305.sbs/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "14:30 - MLS: Chicago Fire vs New England",
+          "image": "",
+          "url": "https://streamx305.sbs/global1.php?channel=tsn2",
+          "referer": "https://streamx305.sbs/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "15:15 - Liga Profesional: Independiente vs San Lorenzo",
+          "image": "",
+          "url": "https://streamx305.sbs/global1.php?channel=fanatiz11",
+          "referer": "https://streamx305.sbs/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "15:30 - Primera División: Peñarol vs Albion",
+          "image": "",
+          "url": "https://streamx305.sbs/global1.php?channel=disney17",
+          "referer": "https://streamx305.sbs/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "15:30 - MLS: Vancouver Whitecaps vs Austin",
+          "image": "",
+          "url": "https://streamx305.sbs/global1.php?channel=mls2",
+          "referer": "https://streamx305.sbs/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "16:10 - Liga BetPlay: Once Caldas vs Deportivo Cali",
+          "image": "",
+          "url": "https://streamx305.sbs/global1.php?channel=fanatiz12",
+          "referer": "https://streamx305.sbs/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "17:30 - Liga Profesional: Huracán vs Racing Club",
+          "image": "",
+          "url": "https://streamx305.sbs/global1.php?channel=fanatiz13",
+          "referer": "https://streamx305.sbs/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "18:00 - MLS: San Diego vs Philadelphia Union",
+          "image": "",
+          "url": "https://streamx305.sbs/global1.php?channel=mls3",
+          "referer": "https://streamx305.sbs/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "18:00 - Liga MX: Santos Laguna vs Juárez",
+          "image": "",
+          "url": "https://streamx305.sbs/global1.php?channel=disney18",
+          "referer": "https://streamx305.sbs/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "18:07 - Liga MX: Guadalajara vs Pumas UNAM",
+          "image": "",
+          "url": "https://streamx305.sbs/global1.php?channel=amazon1",
+          "referer": "https://streamx305.sbs/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "18:15 - Liga BetPlay: Cúcuta Deportivo vs Millonarios",
+          "image": "",
+          "url": "https://streamx305.sbs/global1.php?channel=fanatiz14",
+          "referer": "https://streamx305.sbs/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+        }
+      ]
+    }
+  ]
+}
