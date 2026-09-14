@@ -8,7 +8,7 @@
       "image": "",
       "stations": [
         {
-          "name": "09:00 VS AFCCHA AFC CHAMPIONS LEAGUE Al Shamal vs Al Ittihad PRONTO",
+          "name": "12:00 | 09:00 VS AFCCHA AFC CHAMPIONS LEAGUE Al Shamal vs Al Ittihad PRONTO",
           "image": "",
           "url": "https://streamxhd.com/live1.php?stream=disney1",
           "isHost": "true",
@@ -16,7 +16,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
         },
         {
-          "name": "09:30 VS IT IT SERIE A Como vs Parma PRONTO",
+          "name": "12:30 | 09:30 VS IT IT SERIE A Como vs Parma PRONTO",
           "image": "https://i.postimg.cc/cChTB6Dy/Serie-A.png",
           "url": "https://streamxhd.com/live1.php?stream=disney2",
           "isHost": "true",
@@ -24,7 +24,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
         },
         {
-          "name": "09:30 VS IT IT SERIE A Torino vs Roma PRONTO",
+          "name": "12:30 | 09:30 VS IT IT SERIE A Torino vs Roma PRONTO",
           "image": "https://i.postimg.cc/cChTB6Dy/Serie-A.png",
           "url": "https://streamxhd.com/live1.php?stream=disney3",
           "isHost": "true",
@@ -32,7 +32,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
         },
         {
-          "name": "09:30 VS IT IT SERIE A Torino vs Roma PRONTO",
+          "name": "12:30 | 09:30 VS IT IT SERIE A Torino vs Roma PRONTO",
           "image": "https://i.postimg.cc/cChTB6Dy/Serie-A.png",
           "url": "https://streamxhd.com/live1.php?stream=espn2",
           "isHost": "true",
@@ -40,7 +40,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
         },
         {
-          "name": "10:00 VS TR TUR SUPER LIG Gaziantep FK vs Fenerbahçe PRONTO",
+          "name": "13:00 | 10:00 VS TR TUR SUPER LIG Gaziantep FK vs Fenerbahçe PRONTO",
           "image": "",
           "url": "https://streamxhd.com/live1.php?stream=disney4",
           "isHost": "true",
@@ -48,7 +48,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
         },
         {
-          "name": "10:00 VS TR TUR SUPER LIG Gaziantep FK vs Fenerbahçe PRONTO",
+          "name": "13:00 | 10:00 VS TR TUR SUPER LIG Gaziantep FK vs Fenerbahçe PRONTO",
           "image": "",
           "url": "https://streamxhd.com/live1.php?stream=espn5",
           "isHost": "true",
@@ -56,7 +56,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
         },
         {
-          "name": "11:15 VS AFCCHA AFC CHAMPIONS LEAGUE Al-Ahli vs Pakhtakor PRONTO",
+          "name": "14:15 | 11:15 VS AFCCHA AFC CHAMPIONS LEAGUE Al-Ahli vs Pakhtakor PRONTO",
           "image": "",
           "url": "https://streamxhd.com/live1.php?stream=disney5",
           "isHost": "true",
@@ -64,7 +64,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
         },
         {
-          "name": "11:30 VS ES ES LALIGA HYPERMOTION Celta de Vigo II vs Eibar PRONTO",
+          "name": "14:30 | 11:30 VS ES ES LALIGA HYPERMOTION Celta de Vigo II vs Eibar PRONTO",
           "image": "https://i.postimg.cc/g2TS7XmQ/La-Liga.png",
           "url": "https://streamxhd.com/live1.php?stream=laligahypermotion",
           "isHost": "true",
@@ -72,7 +72,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
         },
         {
-          "name": "11:45 VS IT IT SERIE A Internazionale vs Udinese PRONTO",
+          "name": "14:45 | 11:45 VS IT IT SERIE A Internazionale vs Udinese PRONTO",
           "image": "https://i.postimg.cc/cChTB6Dy/Serie-A.png",
           "url": "https://streamxhd.com/live1.php?stream=disney6",
           "isHost": "true",
@@ -80,7 +80,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
         },
         {
-          "name": "11:45 VS IT IT SERIE A Internazionale vs Udinese PRONTO",
+          "name": "14:45 | 11:45 VS IT IT SERIE A Internazionale vs Udinese PRONTO",
           "image": "https://i.postimg.cc/cChTB6Dy/Serie-A.png",
           "url": "https://streamxhd.com/live1.php?stream=universo",
           "isHost": "true",
@@ -88,7 +88,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
         },
         {
-          "name": "11:45 VS IT IT SERIE A Internazionale vs Udinese PRONTO",
+          "name": "14:45 | 11:45 VS IT IT SERIE A Internazionale vs Udinese PRONTO",
           "image": "https://i.postimg.cc/cChTB6Dy/Serie-A.png",
           "url": "https://streamxhd.com/live1.php?stream=espn",
           "isHost": "true",
@@ -96,7 +96,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
         },
         {
-          "name": "12:00 VS ES ES LALIGA Villarreal vs Real Betis PRONTO",
+          "name": "15:00 | 12:00 VS ES ES LALIGA Villarreal vs Real Betis PRONTO",
           "image": "https://i.postimg.cc/g2TS7XmQ/La-Liga.png",
           "url": "https://streamxhd.com/live1.php?stream=disney7",
           "isHost": "true",
@@ -104,7 +104,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
         },
         {
-          "name": "12:00 VS ES ES LALIGA Villarreal vs Real Betis PRONTO",
+          "name": "15:00 | 12:00 VS ES ES LALIGA Villarreal vs Real Betis PRONTO",
           "image": "https://i.postimg.cc/g2TS7XmQ/La-Liga.png",
           "url": "https://streamxhd.com/live1.php?stream=espn3",
           "isHost": "true",
@@ -112,7 +112,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
         },
         {
-          "name": "12:00 VS ES ES LALIGA Villarreal vs Real Betis PRONTO",
+          "name": "15:00 | 12:00 VS ES ES LALIGA Villarreal vs Real Betis PRONTO",
           "image": "https://i.postimg.cc/g2TS7XmQ/La-Liga.png",
           "url": "https://streamxhd.com/live1.php?stream=espnplus1",
           "isHost": "true",
@@ -120,7 +120,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
         },
         {
-          "name": "12:00 VS ES ES LALIGA Villarreal vs Real Betis PRONTO",
+          "name": "15:00 | 12:00 VS ES ES LALIGA Villarreal vs Real Betis PRONTO",
           "image": "https://i.postimg.cc/g2TS7XmQ/La-Liga.png",
           "url": "https://streamxhd.com/live1.php?stream=mlaliga",
           "isHost": "true",
@@ -128,7 +128,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
         },
         {
-          "name": "12:00 VS ES ES LALIGA Villarreal vs Real Betis PRONTO",
+          "name": "15:00 | 12:00 VS ES ES LALIGA Villarreal vs Real Betis PRONTO",
           "image": "https://i.postimg.cc/g2TS7XmQ/La-Liga.png",
           "url": "https://streamxhd.com/live1.php?stream=espndeportes",
           "isHost": "true",
@@ -136,7 +136,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
         },
         {
-          "name": "12:00 VS GB-ENG ENG PREMIER LEAGUE Leeds United vs Newcastle United PRONTO",
+          "name": "15:00 | 12:00 VS GB-ENG ENG PREMIER LEAGUE Leeds United vs Newcastle United PRONTO",
           "image": "https://i.postimg.cc/tJkDN7BV/Premier-League.png",
           "url": "https://streamxhd.com/live1.php?stream=disney8",
           "isHost": "true",
@@ -144,7 +144,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
         },
         {
-          "name": "12:00 VS GB-ENG ENG PREMIER LEAGUE Leeds United vs Newcastle United PRONTO",
+          "name": "15:00 | 12:00 VS GB-ENG ENG PREMIER LEAGUE Leeds United vs Newcastle United PRONTO",
           "image": "https://i.postimg.cc/tJkDN7BV/Premier-League.png",
           "url": "https://streamxhd.com/live1.php?stream=foxone",
           "isHost": "true",
@@ -152,7 +152,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
         },
         {
-          "name": "15:00 VS AR AR LIGA PROFESIONAL Deportivo Riestra vs Lanús PRONTO",
+          "name": "18:00 | 15:00 VS AR AR LIGA PROFESIONAL Deportivo Riestra vs Lanús PRONTO",
           "image": "",
           "url": "https://streamxhd.com/live1.php?stream=espnpremium",
           "isHost": "true",
@@ -160,7 +160,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
         },
         {
-          "name": "15:00 VS AR AR LIGA PROFESIONAL Deportivo Riestra vs Lanús PRONTO",
+          "name": "18:00 | 15:00 VS AR AR LIGA PROFESIONAL Deportivo Riestra vs Lanús PRONTO",
           "image": "",
           "url": "https://streamxhd.com/live1.php?stream=disney9",
           "isHost": "true",
@@ -168,7 +168,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
         },
         {
-          "name": "15:00 VS AR AR LIGA PROFESIONAL Banfield vs Barracas Central PRONTO",
+          "name": "18:00 | 15:00 VS AR AR LIGA PROFESIONAL Banfield vs Barracas Central PRONTO",
           "image": "",
           "url": "https://streamxhd.com/live1.php?stream=tntsports",
           "isHost": "true",
@@ -176,7 +176,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
         },
         {
-          "name": "15:00 VS UY URU LIGA URUGUAY Torque vs Liverpool PRONTO",
+          "name": "18:00 | 15:00 VS UY URU LIGA URUGUAY Torque vs Liverpool PRONTO",
           "image": "",
           "url": "https://streamxhd.com/live1.php?stream=disney10",
           "isHost": "true",
@@ -184,7 +184,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
         },
         {
-          "name": "16:00 VS BR BRA BRASILEIRÃO Bahia vs Remo PRONTO",
+          "name": "19:00 | 16:00 VS BR BRA BRASILEIRÃO Bahia vs Remo PRONTO",
           "image": "",
           "url": "https://streamxhd.com/live1.php?stream=premiere1",
           "isHost": "true",
@@ -192,7 +192,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
         },
         {
-          "name": "16:30 VS CL CH LIGA CHILE Unión La Calera vs Deportes Limache PRONTO",
+          "name": "19:30 | 16:30 VS CL CH LIGA CHILE Unión La Calera vs Deportes Limache PRONTO",
           "image": "",
           "url": "https://streamxhd.com/live1.php?stream=tntsportschile",
           "isHost": "true",
@@ -200,7 +200,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
         },
         {
-          "name": "17:00 VS EC ECUA LIGA ECUADOR Universidad Católica vs Orense PRONTO",
+          "name": "20:00 | 17:00 VS EC ECUA LIGA ECUADOR Universidad Católica vs Orense PRONTO",
           "image": "",
           "url": "https://streamxhd.com/live1.php?stream=zapping_ec",
           "isHost": "true",
@@ -208,7 +208,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
         },
         {
-          "name": "18:00 VS LIGAMX LIGA MX León vs Atlético San Luis PRONTO",
+          "name": "21:00 | 18:00 VS LIGAMX LIGA MX León vs Atlético San Luis PRONTO",
           "image": "https://i.postimg.cc/W4qWcN41/Liga-MX.png",
           "url": "https://streamxhd.com/live1.php?stream=vix1",
           "isHost": "true",
@@ -216,7 +216,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
         },
         {
-          "name": "18:00 VS CO COL LIGA COLOMBIA América de Cali vs Deportivo Pasto PRONTO",
+          "name": "21:00 | 18:00 VS CO COL LIGA COLOMBIA América de Cali vs Deportivo Pasto PRONTO",
           "image": "",
           "url": "https://streamxhd.com/live1.php?stream=winplus",
           "isHost": "true",
@@ -224,7 +224,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
         },
         {
-          "name": "18:07 VS LIGAMX LIGA MX Guadalajara vs Pumas FINALIZADO",
+          "name": "21:07 | 18:07 VS LIGAMX LIGA MX Guadalajara vs Pumas FINALIZADO",
           "image": "https://i.postimg.cc/W4qWcN41/Liga-MX.png",
           "url": "https://streamxhd.com/live1.php?stream=amazon1",
           "isHost": "true",
@@ -232,7 +232,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
         },
         {
-          "name": "18:07 VS LIGAMX LIGA MX Guadalajara vs Pumas FINALIZADO",
+          "name": "21:07 | 18:07 VS LIGAMX LIGA MX Guadalajara vs Pumas FINALIZADO",
           "image": "https://i.postimg.cc/W4qWcN41/Liga-MX.png",
           "url": "https://streamxhd.com/live1.php?stream=telemundo",
           "isHost": "true",
@@ -240,7 +240,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
         },
         {
-          "name": "18:15 VS CO COL LIGA COLOMBIA Cúcuta Deportivo vs Millonarios FINALIZADO",
+          "name": "21:15 | 18:15 VS CO COL LIGA COLOMBIA Cúcuta Deportivo vs Millonarios FINALIZADO",
           "image": "",
           "url": "https://streamxhd.com/live1.php?stream=fanatiz3",
           "isHost": "true",
