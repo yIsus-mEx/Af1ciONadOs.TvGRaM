@@ -8,15 +8,7 @@
       "image": "",
       "stations": [
         {
-          "name": "09:00 | [PRONTO] | AFC CHAMPIONS LEAGUE | Al Shamal vs Al Ittihad",
-          "image": "",
-          "url": "https://streamxhd.com/live1.php?stream=disney1",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "09:30 | [PRONTO] | SERIE A | Como vs Parma",
+          "name": "09:30 | [EN VIVO] | SERIE A | Como vs Parma",
           "image": "https://i.postimg.cc/cChTB6Dy/Serie-A.png",
           "url": "https://streamxhd.com/live1.php?stream=disney2",
           "isHost": "true",
@@ -24,7 +16,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "09:30 | [PRONTO] | SERIE A | Torino vs Roma",
+          "name": "09:30 | [EN VIVO] | SERIE A | Torino vs Roma",
           "image": "https://i.postimg.cc/cChTB6Dy/Serie-A.png",
           "url": "https://streamxhd.com/live1.php?stream=disney3",
           "isHost": "true",
@@ -32,7 +24,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "09:30 | [PRONTO] | SERIE A | Torino vs Roma",
+          "name": "09:30 | [EN VIVO] | SERIE A | Torino vs Roma",
           "image": "https://i.postimg.cc/cChTB6Dy/Serie-A.png",
           "url": "https://streamxhd.com/live1.php?stream=espn2",
           "isHost": "true",
@@ -40,23 +32,23 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "10:00 | [PRONTO] | SUPER LIG | Gaziantep FK vs Fenerbahçe",
-          "image": "",
+          "name": "10:00 | [EN VIVO] | SUPER LIG | Gaziantep FK vs Fenerbahçe",
+          "image": "https://i.postimg.cc/FRz8xfqD/Liga-Turca.jpg",
           "url": "https://streamxhd.com/live1.php?stream=disney4",
           "isHost": "true",
           "referer": "https://streamxhd.com",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "10:00 | [PRONTO] | SUPER LIG | Gaziantep FK vs Fenerbahçe",
-          "image": "",
+          "name": "10:00 | [EN VIVO] | SUPER LIG | Gaziantep FK vs Fenerbahçe",
+          "image": "https://i.postimg.cc/FRz8xfqD/Liga-Turca.jpg",
           "url": "https://streamxhd.com/live1.php?stream=espn5",
           "isHost": "true",
           "referer": "https://streamxhd.com",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "11:15 | [PRONTO] | AFC CHAMPIONS LEAGUE | Al-Ahli vs Pakhtakor",
+          "name": "11:15 | [EN VIVO] | AFC CHAMPIONS LEAGUE | Al-Ahli vs Pakhtakor",
           "image": "",
           "url": "https://streamxhd.com/live1.php?stream=disney5",
           "isHost": "true",
@@ -153,7 +145,7 @@
         },
         {
           "name": "15:00 | [PRONTO] | LIGA PROFESIONAL | Deportivo Riestra vs Lanús",
-          "image": "",
+          "image": "https://i.postimg.cc/pr4HjQLB/Liga-Argentina.png",
           "url": "https://streamxhd.com/live1.php?stream=espnpremium",
           "isHost": "true",
           "referer": "https://streamxhd.com",
@@ -161,7 +153,7 @@
         },
         {
           "name": "15:00 | [PRONTO] | LIGA PROFESIONAL | Deportivo Riestra vs Lanús",
-          "image": "",
+          "image": "https://i.postimg.cc/pr4HjQLB/Liga-Argentina.png",
           "url": "https://streamxhd.com/live1.php?stream=disney9",
           "isHost": "true",
           "referer": "https://streamxhd.com",
@@ -169,7 +161,7 @@
         },
         {
           "name": "15:00 | [PRONTO] | LIGA PROFESIONAL | Banfield vs Barracas Central",
-          "image": "",
+          "image": "https://i.postimg.cc/pr4HjQLB/Liga-Argentina.png",
           "url": "https://streamxhd.com/live1.php?stream=tntsports",
           "isHost": "true",
           "referer": "https://streamxhd.com",
@@ -177,7 +169,7 @@
         },
         {
           "name": "15:00 | [PRONTO] | LIGA URUGUAY | Torque vs Liverpool",
-          "image": "",
+          "image": "https://i.postimg.cc/Rq5Y9gF5/Liga-Uruguay.png",
           "url": "https://streamxhd.com/live1.php?stream=disney10",
           "isHost": "true",
           "referer": "https://streamxhd.com",
@@ -193,7 +185,7 @@
         },
         {
           "name": "16:30 | [PRONTO] | LIGA CHILE | Unión La Calera vs Deportes Limache",
-          "image": "",
+          "image": "https://i.postimg.cc/mk0vkbm3/Liga-Chile.jpg",
           "url": "https://streamxhd.com/live1.php?stream=tntsportschile",
           "isHost": "true",
           "referer": "https://streamxhd.com",
@@ -209,7 +201,7 @@
         },
         {
           "name": "18:00 | [PRONTO] | LIGA MX | León vs Atlético San Luis",
-          "image": "https://i.postimg.cc/W4qWcN41/Liga-MX.png",
+          "image": "https://i.postimg.cc/sgRFRgQv/Liga-MX.jpg",
           "url": "https://streamxhd.com/live1.php?stream=vix1",
           "isHost": "true",
           "referer": "https://streamxhd.com",
@@ -224,25 +216,9 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "18:07 | [FINALIZADO] | LIGA MX | Guadalajara vs Pumas",
-          "image": "https://i.postimg.cc/W4qWcN41/Liga-MX.png",
-          "url": "https://streamxhd.com/live1.php?stream=amazon1",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "18:07 | [FINALIZADO] | LIGA MX | Guadalajara vs Pumas",
-          "image": "https://i.postimg.cc/W4qWcN41/Liga-MX.png",
-          "url": "https://streamxhd.com/live1.php?stream=telemundo",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "18:15 | [FINALIZADO] | LIGA COLOMBIA | Cúcuta Deportivo vs Millonarios",
+          "name": "09:00 | [FINALIZADO] | AFC CHAMPIONS LEAGUE | Al Shamal vs Al Ittihad",
           "image": "",
-          "url": "https://streamxhd.com/live1.php?stream=fanatiz3",
+          "url": "https://streamxhd.com/live1.php?stream=disney1",
           "isHost": "true",
           "referer": "https://streamxhd.com",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
