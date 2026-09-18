@@ -4,27 +4,11 @@
   "image": "",
   "groups": [
     {
-      "name": "Agenda - Jueves, 17 De Setiembre De 2026",
+      "name": "Agenda - Viernes, 18 De Setiembre De 2026",
       "image": "",
       "stations": [
         {
-          "name": "22:15 | [EN VIVO] | COPA CENTROAMERICANA | Olimpia vs Firpo",
-          "image": "https://i.postimg.cc/VL7nvKGw/Copa-Centroamericana.png",
-          "url": "https://streamxhd.com/live1.php?stream=disney15",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "22:15 | [EN VIVO] | COPA CENTROAMERICANA | Olimpia vs Firpo",
-          "image": "https://i.postimg.cc/VL7nvKGw/Copa-Centroamericana.png",
-          "url": "https://streamxhd.com/live1.php?stream=foxone",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "06:00 | [PRONTO] | Copa Davis | Austria vs Bélgica",
+          "name": "06:00 | [EN VIVO] | Copa Davis | Austria vs Bélgica",
           "image": "",
           "url": "https://streamxhd.com/live1.php?stream=dsportsplus",
           "isHost": "true",
@@ -315,6 +299,22 @@
           "name": "21:00 | [PRONTO] | LIGA GUATEMALA | Comunicaciones vs Guastatoya",
           "image": "",
           "url": "https://streamxhd.com/live1.php?stream=evento2",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "22:00 | [PRONTO] | LIGA MX | Juárez vs Tigres UANL",
+          "image": "https://i.postimg.cc/sgRFRgQv/Liga-MX.jpg",
+          "url": "https://streamxhd.com/live1.php?stream=foxone",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "22:15 | [FINALIZADO] | COPA CENTROAMERICANA | Olimpia vs Firpo",
+          "image": "https://i.postimg.cc/VL7nvKGw/Copa-Centroamericana.png",
+          "url": "https://streamxhd.com/live1.php?stream=disney15",
           "isHost": "true",
           "referer": "https://streamxhd.com",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
