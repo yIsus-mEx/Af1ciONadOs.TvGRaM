@@ -8,263 +8,7 @@
       "image": "",
       "stations": [
         {
-          "name": "11:30 | [EN VIVO] | LALIGA HYPERMOTION | Almería vs Celta de Vigo II",
-          "image": "https://i.postimg.cc/g2TS7XmQ/La-Liga.png",
-          "url": "https://streamxhd.com/live1.php?stream=laligahypermotion2",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "11:30 | [EN VIVO] | LALIGA HYPERMOTION | Las Palmas vs Burgos",
-          "image": "https://i.postimg.cc/g2TS7XmQ/La-Liga.png",
-          "url": "https://streamxhd.com/live1.php?stream=laligahypermotion",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "11:30 | [EN VIVO] | LALIGA | Deportivo La Coruña vs Real Betis",
-          "image": "https://i.postimg.cc/g2TS7XmQ/La-Liga.png",
-          "url": "https://streamxhd.com/live1.php?stream=dsports2",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "11:30 | [EN VIVO] | LALIGA | Deportivo La Coruña vs Real Betis",
-          "image": "https://i.postimg.cc/g2TS7XmQ/La-Liga.png",
-          "url": "https://streamxhd.com/live1.php?stream=espnplus3",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "11:30 | [EN VIVO] | LALIGA | Deportivo La Coruña vs Real Betis",
-          "image": "https://i.postimg.cc/g2TS7XmQ/La-Liga.png",
-          "url": "https://streamxhd.com/live1.php?stream=daznlaliga",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "11:30 | [EN VIVO] | LALIGA | Deportivo La Coruña vs Real Betis",
-          "image": "https://i.postimg.cc/g2TS7XmQ/La-Liga.png",
-          "url": "https://streamxhd.com/live1.php?stream=espndeportes",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "11:30 | [EN VIVO] | LALIGA | Villarreal vs Levante",
-          "image": "https://i.postimg.cc/g2TS7XmQ/La-Liga.png",
-          "url": "https://streamxhd.com/live1.php?stream=disney20",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "11:30 | [EN VIVO] | LALIGA | Villarreal vs Levante",
-          "image": "https://i.postimg.cc/g2TS7XmQ/La-Liga.png",
-          "url": "https://streamxhd.com/live1.php?stream=espn2",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "11:30 | [EN VIVO] | LALIGA | Villarreal vs Levante",
-          "image": "https://i.postimg.cc/g2TS7XmQ/La-Liga.png",
-          "url": "https://streamxhd.com/live1.php?stream=espnplus4",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "11:30 | [EN VIVO] | LALIGA | Villarreal vs Levante",
-          "image": "https://i.postimg.cc/g2TS7XmQ/La-Liga.png",
-          "url": "https://streamxhd.com/live1.php?stream=mlaliga",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "12:00 | [EN VIVO] | SUPER LIG | Amed SK vs Beşiktaş",
-          "image": "https://i.postimg.cc/FRz8xfqD/Liga-Turca.jpg",
-          "url": "https://streamxhd.com/live1.php?stream=fox2ar",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "12:00 | [EN VIVO] | NFL | New England Patriots vs Pittsburgh Steelers",
-          "image": "https://i.postimg.cc/NfxZdjKP/NFL.png",
-          "url": "https://streamxhd.com/live1.php?stream=espn5",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "12:00 | [EN VIVO] | NFL | Chicago Bears vs Minnesota Vikings",
-          "image": "https://i.postimg.cc/NfxZdjKP/NFL.png",
-          "url": "https://streamxhd.com/live1.php?stream=espn7",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "12:00 | [EN VIVO] | NFL | Cincinnati Bengals vs Houston Texans",
-          "image": "https://i.postimg.cc/NfxZdjKP/NFL.png",
-          "url": "https://streamxhd.com/live1.php?stream=foxone",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "12:00 | [EN VIVO] | NFL | New Orleans Saints vs Baltimore Ravens",
-          "image": "https://i.postimg.cc/NfxZdjKP/NFL.png",
-          "url": "https://streamxhd.com/live1.php?stream=foxone2",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "12:30 | [EN VIVO] | BUNDESLIGA | Paderborn vs Hoffenheim",
-          "image": "https://i.postimg.cc/cLHkTMy3/Bundesliga.png",
-          "url": "https://streamxhd.com/live1.php?stream=disney21",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "12:45 | [EN VIVO] | LIGA PROFESIONAL | San Lorenzo vs Boca Juniors",
-          "image": "https://i.postimg.cc/pr4HjQLB/Liga-Argentina.png",
-          "url": "https://streamxhd.com/live1.php?stream=tntsports",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "12:45 | [EN VIVO] | LIGA PROFESIONAL | San Lorenzo vs Boca Juniors",
-          "image": "https://i.postimg.cc/pr4HjQLB/Liga-Argentina.png",
-          "url": "https://streamxhd.com/live1.php?stream=disney22",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "12:45 | [EN VIVO] | LIGA PROFESIONAL | San Lorenzo vs Boca Juniors",
-          "image": "https://i.postimg.cc/pr4HjQLB/Liga-Argentina.png",
-          "url": "https://streamxhd.com/live1.php?stream=espn",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "12:45 | [EN VIVO] | LIGA PROFESIONAL | San Lorenzo vs Boca Juniors",
-          "image": "https://i.postimg.cc/pr4HjQLB/Liga-Argentina.png",
-          "url": "https://streamxhd.com/live1.php?stream=vix1",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "13:00 | [EN VIVO] | LIGA 1 | Sport Huancayo vs UTC Cajamarca",
-          "image": "",
-          "url": "https://streamxhd.com/live1.php?stream=l1max",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "13:30 | [EN VIVO] | LIGA ECUADOR | Técnico Universitario vs Delfín",
-          "image": "",
-          "url": "https://streamxhd.com/live1.php?stream=zapping_ec",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "13:45 | [PRONTO] | SERIE A | Milan vs Lecce",
-          "image": "https://i.postimg.cc/cChTB6Dy/Serie-A.png",
-          "url": "https://streamxhd.com/live1.php?stream=disney23",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "13:45 | [PRONTO] | SERIE A | Milan vs Lecce",
-          "image": "https://i.postimg.cc/cChTB6Dy/Serie-A.png",
-          "url": "https://streamxhd.com/live1.php?stream=telemundo",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "13:45 | [PRONTO] | LIGUE 1 | Olympique Marseille vs PSG",
-          "image": "https://i.postimg.cc/50wsjsLc/Ligue-1.png",
-          "url": "https://streamxhd.com/live1.php?stream=disney24",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "14:00 | [PRONTO] | LIGA PARAGUAY | Sportivo San Lorenzo vs Olimpia",
-          "image": "",
-          "url": "https://streamxhd.com/live1.php?stream=tigo1",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "14:00 | [PRONTO] | LALIGA | Valencia vs Real Sociedad",
-          "image": "https://i.postimg.cc/g2TS7XmQ/La-Liga.png",
-          "url": "https://streamxhd.com/live1.php?stream=evento1",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "14:00 | [PRONTO] | LALIGA | Valencia vs Real Sociedad",
-          "image": "https://i.postimg.cc/g2TS7XmQ/La-Liga.png",
-          "url": "https://streamxhd.com/live1.php?stream=espnplus5",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "14:00 | [PRONTO] | LIGA COLOMBIA | Fortaleza CEIF vs Junior",
-          "image": "https://i.postimg.cc/59BDhCPY/Liga-Colombiana.png",
-          "url": "https://streamxhd.com/live1.php?stream=winplus",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "14:00 | [PRONTO] | LIGA COLOMBIA | Fortaleza CEIF vs Junior",
-          "image": "https://i.postimg.cc/59BDhCPY/Liga-Colombiana.png",
-          "url": "https://streamxhd.com/live1.php?stream=winsports",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "14:00 | [PRONTO] | BRASILEIRÃO | Corinthians vs Fluminense",
-          "image": "https://i.postimg.cc/tJkDN7BV/Premier-League.png",
-          "url": "https://streamxhd.com/live1.php?stream=premiere4",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "14:00 | [PRONTO] | BRASILEIRÃO | Vitória vs Cruzeiro",
-          "image": "https://i.postimg.cc/tJkDN7BV/Premier-League.png",
-          "url": "https://streamxhd.com/live1.php?stream=premiere5",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "14:30 | [PRONTO] | LIGA URUGUAY | Nacional vs Defensor Sporting",
+          "name": "15:30 | [EN VIVO] | LIGA URUGUAY | Nacional vs Defensor Sporting",
           "image": "https://i.postimg.cc/Rq5Y9gF5/Liga-Uruguay.png",
           "url": "https://streamxhd.com/live1.php?stream=disney25",
           "isHost": "true",
@@ -272,7 +16,15 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "15:00 | [PRONTO] | LIGA PROFESIONAL | Rosario Central vs Argentinos Juniors",
+          "name": "15:30 | [EN VIVO] | PRIMEIRA LIGA | FC Porto vs Benfica",
+          "image": "https://i.postimg.cc/MG0sps1h/primeira-liga.png",
+          "url": "https://streamxhd.com/live1.php?stream=dsports2",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "16:00 | [EN VIVO] | LIGA PROFESIONAL | Rosario Central vs Argentinos Juniors",
           "image": "https://i.postimg.cc/pr4HjQLB/Liga-Argentina.png",
           "url": "https://streamxhd.com/live1.php?stream=espnpremium",
           "isHost": "true",
@@ -280,7 +32,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "15:00 | [PRONTO] | LIGA PROFESIONAL | Rosario Central vs Argentinos Juniors",
+          "name": "16:00 | [EN VIVO] | LIGA PROFESIONAL | Rosario Central vs Argentinos Juniors",
           "image": "https://i.postimg.cc/pr4HjQLB/Liga-Argentina.png",
           "url": "https://streamxhd.com/live1.php?stream=vix2",
           "isHost": "true",
@@ -288,7 +40,39 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "15:00 | [PRONTO] | NFL | Denver Broncos vs Jacksonville Jaguars",
+          "name": "16:00 | [EN VIVO] | LIGA PROFESIONAL | Platense vs Newell's Old Boys",
+          "image": "https://i.postimg.cc/pr4HjQLB/Liga-Argentina.png",
+          "url": "https://streamxhd.com/live1.php?stream=tntsports",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "16:00 | [EN VIVO] | NFL | Dallas Cowboys vs Washington Commanders",
+          "image": "https://i.postimg.cc/QN12WbhH/UFC.png",
+          "url": "https://streamxhd.com/live1.php?stream=espn5",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "16:00 | [EN VIVO] | NFL | Dallas Cowboys vs Washington Commanders",
+          "image": "https://i.postimg.cc/QN12WbhH/UFC.png",
+          "url": "https://streamxhd.com/live1.php?stream=fox2ar",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "16:00 | [EN VIVO] | NFL | Denver Broncos vs Jacksonville Jaguars",
+          "image": "https://i.postimg.cc/NfxZdjKP/NFL.png",
+          "url": "https://streamxhd.com/live1.php?stream=espn7",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "16:00 | [EN VIVO] | NFL | Denver Broncos vs Jacksonville Jaguars",
           "image": "https://i.postimg.cc/NfxZdjKP/NFL.png",
           "url": "https://streamxhd.com/live1.php?stream=fox3ar",
           "isHost": "true",
@@ -296,7 +80,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "15:05 | [PRONTO] | NFL | Las Vegas Raiders vs Los Angeles Chargers",
+          "name": "16:05 | [EN VIVO] | NFL | Las Vegas Raiders vs Los Angeles Chargers",
           "image": "https://i.postimg.cc/NfxZdjKP/NFL.png",
           "url": "https://streamxhd.com/live1.php?stream=foxone3",
           "isHost": "true",
@@ -304,7 +88,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "15:25 | [PRONTO] | NFL | Miami Dolphins vs San Francisco 49ers",
+          "name": "16:25 | [EN VIVO] | NFL | Miami Dolphins vs San Francisco 49ers",
           "image": "https://i.postimg.cc/NfxZdjKP/NFL.png",
           "url": "https://streamxhd.com/live1.php?stream=foxone4",
           "isHost": "true",
@@ -312,7 +96,39 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "16:30 | [PRONTO] | BRASILEIRÃO | Flamengo vs RB Bragantino",
+          "name": "16:30 | [EN VIVO] | LIGA 1 | Juan Pablo II College vs Deportivo Moquegua",
+          "image": "",
+          "url": "https://streamxhd.com/live1.php?stream=l1max",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "17:00 | [EN VIVO] | LIGA ECUADOR | Deportivo Cuenca vs Mushuc Runa",
+          "image": "",
+          "url": "https://streamxhd.com/live1.php?stream=zapping_ec",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "17:05 | [EN VIVO] | LIGA COLOMBIA | Atlético Bucaramanga vs Inter Bogotá",
+          "image": "https://i.postimg.cc/59BDhCPY/Liga-Colombiana.png",
+          "url": "https://streamxhd.com/live1.php?stream=winplus",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "17:30 | [EN VIVO] | LIGA PARAGUAY | Sportivo Luqueño vs Deportivo Recoleta",
+          "image": "",
+          "url": "https://streamxhd.com/live1.php?stream=tigo1",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "17:30 | [EN VIVO] | BRASILEIRÃO | Flamengo vs RB Bragantino",
           "image": "https://i.postimg.cc/tJkDN7BV/Premier-League.png",
           "url": "https://streamxhd.com/live1.php?stream=premiere1",
           "isHost": "true",
@@ -320,7 +136,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "17:15 | [PRONTO] | LIGA PROFESIONAL | Belgrano vs Estudiantes RC",
+          "name": "18:15 | [PRONTO] | LIGA PROFESIONAL | Belgrano vs Estudiantes RC",
           "image": "https://i.postimg.cc/pr4HjQLB/Liga-Argentina.png",
           "url": "https://streamxhd.com/live1.php?stream=disney26",
           "isHost": "true",
@@ -328,7 +144,15 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "17:30 | [PRONTO] | BRASILEIRÃO | Athletico-PR vs Bahia",
+          "name": "18:15 | [PRONTO] | LIGA PROFESIONAL | Belgrano vs Estudiantes RC",
+          "image": "https://i.postimg.cc/pr4HjQLB/Liga-Argentina.png",
+          "url": "https://streamxhd.com/live1.php?stream=espn",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "18:30 | [PRONTO] | BRASILEIRÃO | Athletico-PR vs Bahia",
           "image": "https://i.postimg.cc/tJkDN7BV/Premier-League.png",
           "url": "https://streamxhd.com/live1.php?stream=premiere3",
           "isHost": "true",
@@ -336,7 +160,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "18:00 | [PRONTO] | MLB | Baltimore Orioles vs Milwaukee Brewers",
+          "name": "19:00 | [PRONTO] | MLB | Baltimore Orioles vs Milwaukee Brewers",
           "image": "https://i.postimg.cc/SsCTWBXL/MLB.png",
           "url": "https://streamxhd.com/live1.php?stream=espn3",
           "isHost": "true",
@@ -344,7 +168,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "18:00 | [PRONTO] | LIGA URUGUAY | Liverpool vs Racing",
+          "name": "19:00 | [PRONTO] | LIGA URUGUAY | Liverpool vs Racing",
           "image": "https://i.postimg.cc/Rq5Y9gF5/Liga-Uruguay.png",
           "url": "https://streamxhd.com/live1.php?stream=disney27",
           "isHost": "true",
@@ -352,7 +176,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "18:00 | [PRONTO] | MLS | Inter Miami vs San Diego",
+          "name": "19:00 | [PRONTO] | MLS | Inter Miami vs San Diego",
           "image": "https://i.postimg.cc/BQwBSrkS/MLS.png",
           "url": "https://streamxhd.com/live1.php?stream=appletv1",
           "isHost": "true",
@@ -360,7 +184,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "18:00 | [PRONTO] | MLS | Inter Miami vs San Diego",
+          "name": "19:00 | [PRONTO] | MLS | Inter Miami vs San Diego",
           "image": "https://i.postimg.cc/BQwBSrkS/MLS.png",
           "url": "https://streamxhd.com/live1.php?stream=appletv2",
           "isHost": "true",
@@ -368,7 +192,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "18:00 | [PRONTO] | PRIMERA DIVISIÓN | Alajuelense vs Inter San Carlos",
+          "name": "19:00 | [PRONTO] | PRIMERA DIVISIÓN | Alajuelense vs Inter San Carlos",
           "image": "",
           "url": "https://streamxhd.com/live1.php?stream=futv",
           "isHost": "true",
@@ -376,7 +200,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "18:15 | [PRONTO] | LIGA NACIONAL | Olimpia vs Atlético Independiente",
+          "name": "19:15 | [PRONTO] | LIGA NACIONAL | Olimpia vs Atlético Independiente",
           "image": "",
           "url": "https://streamxhd.com/live1.php?stream=deportestvc",
           "isHost": "true",
@@ -384,7 +208,15 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "19:00 | [PRONTO] | LIGA MX | Toluca vs Santos Laguna",
+          "name": "20:00 | [PRONTO] | LIGA MX | Pachuca vs Tijuana",
+          "image": "https://i.postimg.cc/sgRFRgQv/Liga-MX.jpg",
+          "url": "https://streamxhd.com/live1.php?stream=foxone",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "20:00 | [PRONTO] | LIGA MX | Toluca vs Santos Laguna",
           "image": "https://i.postimg.cc/sgRFRgQv/Liga-MX.jpg",
           "url": "https://streamxhd.com/live1.php?stream=vix3",
           "isHost": "true",
@@ -392,7 +224,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "19:00 | [PRONTO] | LIGA MX | Toluca vs Santos Laguna",
+          "name": "20:00 | [PRONTO] | LIGA MX | Toluca vs Santos Laguna",
           "image": "https://i.postimg.cc/sgRFRgQv/Liga-MX.jpg",
           "url": "https://streamxhd.com/live1.php?stream=tudn_usa",
           "isHost": "true",
@@ -400,7 +232,15 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "19:00 | [PRONTO] | NFL | Kansas City Chiefs vs Indianapolis Colts",
+          "name": "20:00 | [PRONTO] | NFL | Kansas City Chiefs vs Indianapolis Colts",
+          "image": "https://i.postimg.cc/NfxZdjKP/NFL.png",
+          "url": "https://streamxhd.com/live1.php?stream=espn2",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "20:00 | [PRONTO] | NFL | Kansas City Chiefs vs Indianapolis Colts",
           "image": "https://i.postimg.cc/NfxZdjKP/NFL.png",
           "url": "https://streamxhd.com/live1.php?stream=universo",
           "isHost": "true",
@@ -408,7 +248,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "08:00 | [FINALIZADO] | SERIE A | Frosinone vs Como",
+          "name": "09:00 | [FINALIZADO] | SERIE A | Frosinone vs Como",
           "image": "https://i.postimg.cc/cChTB6Dy/Serie-A.png",
           "url": "https://streamxhd.com/live1.php?stream=disney10",
           "isHost": "true",
@@ -416,7 +256,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "08:00 | [FINALIZADO] | SERIE A | Parma vs Genoa",
+          "name": "09:00 | [FINALIZADO] | SERIE A | Parma vs Genoa",
           "image": "https://i.postimg.cc/cChTB6Dy/Serie-A.png",
           "url": "https://streamxhd.com/live1.php?stream=disney11",
           "isHost": "true",
@@ -424,7 +264,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "08:00 | [FINALIZADO] | LIGUE 1 | Auxerre vs Brest",
+          "name": "09:00 | [FINALIZADO] | LIGUE 1 | Auxerre vs Brest",
           "image": "https://i.postimg.cc/50wsjsLc/Ligue-1.png",
           "url": "https://streamxhd.com/live1.php?stream=disney12",
           "isHost": "true",
@@ -432,7 +272,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "08:00 | [FINALIZADO] | PREMIER LEAGUE | AFC Bournemouth vs Liverpool",
+          "name": "09:00 | [FINALIZADO] | PREMIER LEAGUE | AFC Bournemouth vs Liverpool",
           "image": "https://i.postimg.cc/tJkDN7BV/Premier-League.png",
           "url": "https://streamxhd.com/live1.php?stream=disney6",
           "isHost": "true",
@@ -440,7 +280,15 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "08:00 | [FINALIZADO] | PREMIER LEAGUE | Leeds United vs Crystal Palace",
+          "name": "09:00 | [FINALIZADO] | PREMIER LEAGUE | AFC Bournemouth vs Liverpool",
+          "image": "https://i.postimg.cc/tJkDN7BV/Premier-League.png",
+          "url": "https://streamxhd.com/live1.php?stream=telemundo",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "09:00 | [FINALIZADO] | PREMIER LEAGUE | Leeds United vs Crystal Palace",
           "image": "https://i.postimg.cc/tJkDN7BV/Premier-League.png",
           "url": "https://streamxhd.com/live1.php?stream=disney7",
           "isHost": "true",
@@ -448,7 +296,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "08:00 | [FINALIZADO] | PREMIER LEAGUE | Leeds United vs Crystal Palace",
+          "name": "09:00 | [FINALIZADO] | PREMIER LEAGUE | Leeds United vs Crystal Palace",
           "image": "https://i.postimg.cc/tJkDN7BV/Premier-League.png",
           "url": "https://streamxhd.com/live1.php?stream=max1",
           "isHost": "true",
@@ -456,7 +304,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "08:00 | [FINALIZADO] | PREMIER LEAGUE | Manchester City vs Sunderland",
+          "name": "09:00 | [FINALIZADO] | PREMIER LEAGUE | Manchester City vs Sunderland",
           "image": "https://i.postimg.cc/tJkDN7BV/Premier-League.png",
           "url": "https://streamxhd.com/live1.php?stream=disney8",
           "isHost": "true",
@@ -464,7 +312,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "08:00 | [FINALIZADO] | LIGA URUGUAY | Albion vs Juventud",
+          "name": "09:00 | [FINALIZADO] | LIGA URUGUAY | Albion vs Juventud",
           "image": "https://i.postimg.cc/Rq5Y9gF5/Liga-Uruguay.png",
           "url": "https://streamxhd.com/live1.php?stream=disney9",
           "isHost": "true",
@@ -472,7 +320,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "08:30 | [FINALIZADO] | BUNDESLIGA | Bayer Leverkusen vs RB Leipzig",
+          "name": "09:30 | [FINALIZADO] | BUNDESLIGA | Bayer Leverkusen vs RB Leipzig",
           "image": "https://i.postimg.cc/cLHkTMy3/Bundesliga.png",
           "url": "https://streamxhd.com/live1.php?stream=disney13",
           "isHost": "true",
@@ -480,7 +328,15 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "09:15 | [FINALIZADO] | LALIGA | Atlético Madrid vs Real Madrid",
+          "name": "10:15 | [FINALIZADO] | LALIGA HYPERMOTION | Ceuta vs Real Valladolid",
+          "image": "https://i.postimg.cc/g2TS7XmQ/La-Liga.png",
+          "url": "https://streamxhd.com/live1.php?stream=laligahypermotion",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "10:15 | [FINALIZADO] | LALIGA | Atlético Madrid vs Real Madrid",
           "image": "https://i.postimg.cc/g2TS7XmQ/La-Liga.png",
           "url": "https://streamxhd.com/live1.php?stream=disney14",
           "isHost": "true",
@@ -488,7 +344,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "09:15 | [FINALIZADO] | LALIGA | Atlético Madrid vs Real Madrid",
+          "name": "10:15 | [FINALIZADO] | LALIGA | Atlético Madrid vs Real Madrid",
           "image": "https://i.postimg.cc/g2TS7XmQ/La-Liga.png",
           "url": "https://streamxhd.com/live1.php?stream=espnplus2",
           "isHost": "true",
@@ -496,7 +352,23 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "09:30 | [FINALIZADO] | Copa Davis | Argentina vs Turquía",
+          "name": "10:15 | [FINALIZADO] | LALIGA | Atlético Madrid vs Real Madrid",
+          "image": "https://i.postimg.cc/g2TS7XmQ/La-Liga.png",
+          "url": "https://streamxhd.com/live1.php?stream=daznlaliga",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "10:15 | [FINALIZADO] | LALIGA | Atlético Madrid vs Real Madrid",
+          "image": "https://i.postimg.cc/g2TS7XmQ/La-Liga.png",
+          "url": "https://streamxhd.com/live1.php?stream=espndeportes",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "10:30 | [FINALIZADO] | Copa Davis | Argentina vs Turquía",
           "image": "https://i.postimg.cc/pr4HjQLB/Liga-Argentina.png",
           "url": "https://streamxhd.com/live1.php?stream=dsports",
           "isHost": "true",
@@ -504,7 +376,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "10:15 | [FINALIZADO] | LIGUE 1 | Nice vs Lille",
+          "name": "11:15 | [FINALIZADO] | LIGUE 1 | Nice vs Lille",
           "image": "https://i.postimg.cc/50wsjsLc/Ligue-1.png",
           "url": "https://streamxhd.com/live1.php?stream=disney15",
           "isHost": "true",
@@ -512,7 +384,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "10:15 | [FINALIZADO] | LIGUE 1 | Nice vs Lille",
+          "name": "11:15 | [FINALIZADO] | LIGUE 1 | Nice vs Lille",
           "image": "https://i.postimg.cc/50wsjsLc/Ligue-1.png",
           "url": "https://streamxhd.com/live1.php?stream=espn4",
           "isHost": "true",
@@ -520,7 +392,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "10:30 | [FINALIZADO] | BUNDESLIGA | Schalke 04 vs Elversberg",
+          "name": "11:30 | [FINALIZADO] | BUNDESLIGA | Schalke 04 vs Elversberg",
           "image": "https://i.postimg.cc/cLHkTMy3/Bundesliga.png",
           "url": "https://streamxhd.com/live1.php?stream=disney17",
           "isHost": "true",
@@ -528,7 +400,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "10:30 | [FINALIZADO] | PREMIER LEAGUE | Fulham vs Manchester United",
+          "name": "11:30 | [FINALIZADO] | PREMIER LEAGUE | Fulham vs Manchester United",
           "image": "https://i.postimg.cc/tJkDN7BV/Premier-League.png",
           "url": "https://streamxhd.com/live1.php?stream=disney16",
           "isHost": "true",
@@ -536,7 +408,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "10:30 | [FINALIZADO] | PREMIER LEAGUE | Fulham vs Manchester United",
+          "name": "11:30 | [FINALIZADO] | PREMIER LEAGUE | Fulham vs Manchester United",
           "image": "https://i.postimg.cc/tJkDN7BV/Premier-League.png",
           "url": "https://streamxhd.com/live1.php?stream=max2",
           "isHost": "true",
@@ -544,7 +416,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "11:00 | [FINALIZADO] | SERIE A | Juventus vs Atalanta",
+          "name": "12:00 | [FINALIZADO] | SERIE A | Juventus vs Atalanta",
           "image": "https://i.postimg.cc/cChTB6Dy/Serie-A.png",
           "url": "https://streamxhd.com/live1.php?stream=disney19",
           "isHost": "true",
@@ -552,9 +424,137 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "11:00 | [FINALIZADO] | LIGA URUGUAY | Danubio vs Wanderers",
+          "name": "12:00 | [FINALIZADO] | LIGA URUGUAY | Danubio vs Wanderers",
           "image": "https://i.postimg.cc/Rq5Y9gF5/Liga-Uruguay.png",
           "url": "https://streamxhd.com/live1.php?stream=disney18",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "12:30 | [FINALIZADO] | LALIGA HYPERMOTION | Almería vs Celta de Vigo II",
+          "image": "https://i.postimg.cc/g2TS7XmQ/La-Liga.png",
+          "url": "https://streamxhd.com/live1.php?stream=laligahypermotion2",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "12:30 | [FINALIZADO] | LALIGA | Deportivo La Coruña vs Real Betis",
+          "image": "https://i.postimg.cc/g2TS7XmQ/La-Liga.png",
+          "url": "https://streamxhd.com/live1.php?stream=espnplus3",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "12:30 | [FINALIZADO] | LALIGA | Villarreal vs Levante",
+          "image": "https://i.postimg.cc/g2TS7XmQ/La-Liga.png",
+          "url": "https://streamxhd.com/live1.php?stream=disney20",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "12:30 | [FINALIZADO] | LALIGA | Villarreal vs Levante",
+          "image": "https://i.postimg.cc/g2TS7XmQ/La-Liga.png",
+          "url": "https://streamxhd.com/live1.php?stream=espnplus4",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "12:30 | [FINALIZADO] | LALIGA | Villarreal vs Levante",
+          "image": "https://i.postimg.cc/g2TS7XmQ/La-Liga.png",
+          "url": "https://streamxhd.com/live1.php?stream=mlaliga",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "13:00 | [FINALIZADO] | NFL | New Orleans Saints vs Baltimore Ravens",
+          "image": "https://i.postimg.cc/NfxZdjKP/NFL.png",
+          "url": "https://streamxhd.com/live1.php?stream=foxone2",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "13:30 | [FINALIZADO] | BUNDESLIGA | Paderborn vs Hoffenheim",
+          "image": "https://i.postimg.cc/cLHkTMy3/Bundesliga.png",
+          "url": "https://streamxhd.com/live1.php?stream=disney21",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "13:45 | [FINALIZADO] | LIGA PROFESIONAL | San Lorenzo vs Boca Juniors",
+          "image": "https://i.postimg.cc/pr4HjQLB/Liga-Argentina.png",
+          "url": "https://streamxhd.com/live1.php?stream=disney22",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "13:45 | [FINALIZADO] | LIGA PROFESIONAL | San Lorenzo vs Boca Juniors",
+          "image": "https://i.postimg.cc/pr4HjQLB/Liga-Argentina.png",
+          "url": "https://streamxhd.com/live1.php?stream=vix1",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "14:45 | [FINALIZADO] | SERIE A | Milan vs Lecce",
+          "image": "https://i.postimg.cc/cChTB6Dy/Serie-A.png",
+          "url": "https://streamxhd.com/live1.php?stream=disney23",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "14:45 | [FINALIZADO] | LIGUE 1 | Olympique Marseille vs PSG",
+          "image": "https://i.postimg.cc/50wsjsLc/Ligue-1.png",
+          "url": "https://streamxhd.com/live1.php?stream=disney24",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "15:00 | [FINALIZADO] | LALIGA | Valencia vs Real Sociedad",
+          "image": "https://i.postimg.cc/g2TS7XmQ/La-Liga.png",
+          "url": "https://streamxhd.com/live1.php?stream=evento1",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "15:00 | [FINALIZADO] | LALIGA | Valencia vs Real Sociedad",
+          "image": "https://i.postimg.cc/g2TS7XmQ/La-Liga.png",
+          "url": "https://streamxhd.com/live1.php?stream=espnplus5",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "15:00 | [FINALIZADO] | LIGA COLOMBIA | Fortaleza CEIF vs Junior",
+          "image": "https://i.postimg.cc/59BDhCPY/Liga-Colombiana.png",
+          "url": "https://streamxhd.com/live1.php?stream=winsports",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "15:00 | [FINALIZADO] | BRASILEIRÃO | Corinthians vs Fluminense",
+          "image": "https://i.postimg.cc/tJkDN7BV/Premier-League.png",
+          "url": "https://streamxhd.com/live1.php?stream=premiere4",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "15:00 | [FINALIZADO] | BRASILEIRÃO | Vitória vs Cruzeiro",
+          "image": "https://i.postimg.cc/tJkDN7BV/Premier-League.png",
+          "url": "https://streamxhd.com/live1.php?stream=premiere5",
           "isHost": "true",
           "referer": "https://streamxhd.com",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
