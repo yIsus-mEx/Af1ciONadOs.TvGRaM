@@ -8,15 +8,7 @@
       "image": "",
       "stations": [
         {
-          "name": "15:00 | [EN VIVO] | LIGA ECUADOR | Manta vs Orense",
-          "image": "",
-          "url": "https://streamxhd.com/live1.php?stream=zapping_ec",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "18:00 | [PRONTO] | LIGA PROFESIONAL | Barracas Central vs Independiente Rivadavia",
+          "name": "18:00 | [EN VIVO] | LIGA PROFESIONAL | Barracas Central vs Independiente Rivadavia",
           "image": "https://i.postimg.cc/pr4HjQLB/Liga-Argentina.png",
           "url": "https://streamxhd.com/live1.php?stream=tntsports",
           "isHost": "true",
@@ -24,7 +16,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "18:00 | [PRONTO] | PRIMERA B | Real Cundinamarca vs Deportes Quindío",
+          "name": "18:00 | [EN VIVO] | PRIMERA B | Real Cundinamarca vs Deportes Quindío",
           "image": "",
           "url": "https://streamxhd.com/live1.php?stream=winplus",
           "isHost": "true",
@@ -32,7 +24,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "18:30 | [PRONTO] | LIGA URUGUAY | Central Español vs Torque",
+          "name": "18:30 | [EN VIVO] | LIGA URUGUAY | Central Español vs Torque",
           "image": "https://i.postimg.cc/Rq5Y9gF5/Liga-Uruguay.png",
           "url": "https://streamxhd.com/live1.php?stream=disney1",
           "isHost": "true",
@@ -51,6 +43,14 @@
           "name": "20:15 | [PRONTO] | LIGA PROFESIONAL | Lanús vs Estudiantes",
           "image": "https://i.postimg.cc/pr4HjQLB/Liga-Argentina.png",
           "url": "https://streamxhd.com/live1.php?stream=espnpremium",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "20:30 | [PRONTO] | LIGA ECUADOR | Barcelona vs Independiente del Valle",
+          "image": "",
+          "url": "https://streamxhd.com/live1.php?stream=zapping_ec",
           "isHost": "true",
           "referer": "https://streamxhd.com",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
