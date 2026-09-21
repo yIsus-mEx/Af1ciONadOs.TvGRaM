@@ -8,7 +8,7 @@
       "image": "",
       "stations": [
         {
-          "name": "12:00 | [EN VIVO] | LIGA ECUADOR | Manta vs Orense",
+          "name": "14:00 | [EN VIVO] | LIGA ECUADOR | Manta vs Orense",
           "image": "",
           "url": "https://streamxhd.com/live1.php?stream=zapping_ec",
           "isHost": "true",
@@ -16,7 +16,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "15:00 | [PRONTO] | LIGA PROFESIONAL | Barracas Central vs Independiente Rivadavia",
+          "name": "17:00 | [PRONTO] | LIGA PROFESIONAL | Barracas Central vs Independiente Rivadavia",
           "image": "https://i.postimg.cc/pr4HjQLB/Liga-Argentina.png",
           "url": "https://streamxhd.com/live1.php?stream=tntsports",
           "isHost": "true",
@@ -24,7 +24,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "15:00 | [PRONTO] | PRIMERA B | Real Cundinamarca vs Deportes Quindío",
+          "name": "17:00 | [PRONTO] | PRIMERA B | Real Cundinamarca vs Deportes Quindío",
           "image": "",
           "url": "https://streamxhd.com/live1.php?stream=winplus",
           "isHost": "true",
@@ -32,7 +32,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "15:30 | [PRONTO] | LIGA URUGUAY | Central Español vs Torque",
+          "name": "17:30 | [PRONTO] | LIGA URUGUAY | Central Español vs Torque",
           "image": "https://i.postimg.cc/Rq5Y9gF5/Liga-Uruguay.png",
           "url": "https://streamxhd.com/live1.php?stream=disney1",
           "isHost": "true",
@@ -40,7 +40,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "17:00 | [PRONTO] | NFL | Los Angeles Rams vs New York Giants",
+          "name": "19:00 | [PRONTO] | NFL | Los Angeles Rams vs New York Giants",
           "image": "https://i.postimg.cc/NfxZdjKP/NFL.png",
           "url": "https://streamxhd.com/live1.php?stream=espn2",
           "isHost": "true",
@@ -48,7 +48,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "17:15 | [PRONTO] | LIGA PROFESIONAL | Lanús vs Estudiantes",
+          "name": "19:15 | [PRONTO] | LIGA PROFESIONAL | Lanús vs Estudiantes",
           "image": "https://i.postimg.cc/pr4HjQLB/Liga-Argentina.png",
           "url": "https://streamxhd.com/live1.php?stream=espnpremium",
           "isHost": "true",
@@ -56,7 +56,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "18:30 | [PRONTO] | MLB | San Francisco Giants vs Minnesota Twins",
+          "name": "20:30 | [PRONTO] | MLB | San Francisco Giants vs Minnesota Twins",
           "image": "https://i.postimg.cc/SsCTWBXL/MLB.png",
           "url": "https://streamxhd.com/live1.php?stream=espn3",
           "isHost": "true",
