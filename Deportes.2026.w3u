@@ -23,9 +23,9 @@
               "info": "[DLHD]",
               "image": "",
               "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-              "referer": "",
+              "referer": "https://assetrage.net/",
               "isHost": "true",
-              "embed": "true",
+              "embed": "",
               "url": "https://dlive.sx/stream/stream-387.php"
             },
             {
@@ -33,7 +33,7 @@
               "info": "[DLHD]",
               "image": "",
               "userAgent": "http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-              "referer": "",
+              "referer": "https://assetrage.net/",
               "isHost": "true",
               "embed": "",
               "url": "https://dlive.sx/stream/stream-149.php"
