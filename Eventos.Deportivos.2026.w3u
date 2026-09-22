@@ -8,47 +8,7 @@
       "image": "",
       "stations": [
         {
-          "name": "13:00 | [EN VIVO] | MLB | NY Yankees vs Tampa Bay Rays",
-          "image": "https://i.postimg.cc/SsCTWBXL/MLB.png",
-          "url": "https://streamxhd.com/live1.php?stream=espn5",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "15:00 | [EN VIVO] | UEFA CHAMPIONS LEAGUE FEMENINA | Arsenal vs Køge",
-          "image": "",
-          "url": "https://streamxhd.com/live1.php?stream=disney3",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "15:00 | [EN VIVO] | UEFA CHAMPIONS LEAGUE FEMENINA | Juventus vs SL Benfica",
-          "image": "",
-          "url": "https://streamxhd.com/live1.php?stream=disney4",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "15:00 | [EN VIVO] | UEFA CHAMPIONS LEAGUE FEMENINA | Real Madrid vs PSG",
-          "image": "",
-          "url": "https://streamxhd.com/live1.php?stream=espn2",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "15:00 | [EN VIVO] | UEFA CHAMPIONS LEAGUE FEMENINA | Real Madrid vs PSG",
-          "image": "",
-          "url": "https://streamxhd.com/live1.php?stream=disney5",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "17:00 | [PRONTO] | COPA CHILE | Puerto Montt vs Ñublense",
+          "name": "17:00 | [EN VIVO] | COPA CHILE | Puerto Montt vs Ñublense",
           "image": "https://i.postimg.cc/mk0vkbm3/Liga-Chile.jpg",
           "url": "https://streamxhd.com/live1.php?stream=tntsportschile",
           "isHost": "true",
@@ -80,6 +40,14 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
+          "name": "20:00 | [PRONTO] | WNBA | Indiana vs Minnesota",
+          "image": "https://i.postimg.cc/52NTTWv9/NBA.png",
+          "url": "https://streamxhd.com/live1.php?stream=espn2",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
           "name": "12:45 | [FINALIZADO] | UEFA CHAMPIONS LEAGUE FEMENINA | Bayern vs Manchester City",
           "image": "",
           "url": "https://streamxhd.com/live1.php?stream=disney1",
@@ -99,6 +67,38 @@
           "name": "12:45 | [FINALIZADO] | UEFA CHAMPIONS LEAGUE FEMENINA | Inter Milano vs Häcken",
           "image": "",
           "url": "https://streamxhd.com/live1.php?stream=disney2",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "13:00 | [FINALIZADO] | MLB | NY Yankees vs Tampa Bay Rays",
+          "image": "https://i.postimg.cc/SsCTWBXL/MLB.png",
+          "url": "https://streamxhd.com/live1.php?stream=espn5",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "15:00 | [FINALIZADO] | UEFA CHAMPIONS LEAGUE FEMENINA | Arsenal vs Køge",
+          "image": "",
+          "url": "https://streamxhd.com/live1.php?stream=disney3",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "15:00 | [FINALIZADO] | UEFA CHAMPIONS LEAGUE FEMENINA | Juventus vs SL Benfica",
+          "image": "",
+          "url": "https://streamxhd.com/live1.php?stream=disney4",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "15:00 | [FINALIZADO] | UEFA CHAMPIONS LEAGUE FEMENINA | Real Madrid vs PSG",
+          "image": "",
+          "url": "https://streamxhd.com/live1.php?stream=disney5",
           "isHost": "true",
           "referer": "https://streamxhd.com",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
