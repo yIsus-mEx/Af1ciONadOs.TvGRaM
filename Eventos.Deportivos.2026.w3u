@@ -4,59 +4,27 @@
   "image": "",
   "groups": [
     {
-      "name": "Agenda - Lunes, 21 De Setiembre De 2026",
+      "name": "Agenda - Martes, 22 De Setiembre De 2026",
       "image": "",
       "stations": [
         {
-          "name": "22:30 | [EN VIVO] | LIGA URUGUAY | Central Español vs Torque",
-          "image": "https://i.postimg.cc/Rq5Y9gF5/Liga-Uruguay.png",
-          "url": "https://streamxhd.com/live1.php?stream=disney1",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "00:00 | [EN VIVO] | NFL | Los Angeles Rams vs New York Giants",
-          "image": "https://i.postimg.cc/NfxZdjKP/NFL.png",
+          "name": "12:45 | [PRONTO] | UEFA CHAMPIONS LEAGUE FEMENINA | Bayern vs Manchester City",
+          "image": "",
           "url": "https://streamxhd.com/live1.php?stream=espn2",
           "isHost": "true",
           "referer": "https://streamxhd.com",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "00:15 | [EN VIVO] | LIGA PROFESIONAL | Lanús vs Estudiantes",
-          "image": "https://i.postimg.cc/pr4HjQLB/Liga-Argentina.png",
-          "url": "https://streamxhd.com/live1.php?stream=espnpremium",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "00:30 | [PRONTO] | LIGA ECUADOR | Barcelona vs Independiente del Valle",
+          "name": "12:45 | [PRONTO] | UEFA CHAMPIONS LEAGUE FEMENINA | Bayern vs Manchester City",
           "image": "",
-          "url": "https://streamxhd.com/live1.php?stream=zapping_ec",
+          "url": "https://streamxhd.com/live1.php?stream=disney1",
           "isHost": "true",
           "referer": "https://streamxhd.com",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "00:30 | [PRONTO] | PRIMERA B | Real Cartagena vs Envigado",
-          "image": "",
-          "url": "https://streamxhd.com/live1.php?stream=winplus",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "01:30 | [PRONTO] | MLB | San Francisco Giants vs Minnesota Twins",
-          "image": "https://i.postimg.cc/SsCTWBXL/MLB.png",
-          "url": "https://streamxhd.com/live1.php?stream=espn3",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "16:45 | [PRONTO] | UEFA CHAMPIONS LEAGUE FEMENINA | Bayern vs Manchester City",
+          "name": "12:45 | [PRONTO] | UEFA CHAMPIONS LEAGUE FEMENINA | Bayern vs Manchester City",
           "image": "",
           "url": "https://streamxhd.com/live1.php?stream=espndeportes",
           "isHost": "true",
@@ -64,7 +32,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "16:45 | [PRONTO] | UEFA CHAMPIONS LEAGUE FEMENINA | Inter Milano vs Häcken",
+          "name": "12:45 | [PRONTO] | UEFA CHAMPIONS LEAGUE FEMENINA | Inter Milano vs Häcken",
           "image": "",
           "url": "https://streamxhd.com/live1.php?stream=disney2",
           "isHost": "true",
@@ -72,7 +40,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "17:00 | [PRONTO] | MLB | NY Yankees vs Tampa Bay Rays",
+          "name": "13:00 | [PRONTO] | MLB | NY Yankees vs Tampa Bay Rays",
           "image": "https://i.postimg.cc/SsCTWBXL/MLB.png",
           "url": "https://streamxhd.com/live1.php?stream=espn5",
           "isHost": "true",
@@ -80,7 +48,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "19:00 | [PRONTO] | UEFA CHAMPIONS LEAGUE FEMENINA | Arsenal vs Køge",
+          "name": "15:00 | [PRONTO] | UEFA CHAMPIONS LEAGUE FEMENINA | Arsenal vs Køge",
           "image": "",
           "url": "https://streamxhd.com/live1.php?stream=disney3",
           "isHost": "true",
@@ -88,7 +56,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "19:00 | [PRONTO] | UEFA CHAMPIONS LEAGUE FEMENINA | Juventus vs SL Benfica",
+          "name": "15:00 | [PRONTO] | UEFA CHAMPIONS LEAGUE FEMENINA | Juventus vs SL Benfica",
           "image": "",
           "url": "https://streamxhd.com/live1.php?stream=disney4",
           "isHost": "true",
@@ -96,7 +64,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "19:00 | [PRONTO] | UEFA CHAMPIONS LEAGUE FEMENINA | Real Madrid vs PSG",
+          "name": "15:00 | [PRONTO] | UEFA CHAMPIONS LEAGUE FEMENINA | Real Madrid vs PSG",
           "image": "",
           "url": "https://streamxhd.com/live1.php?stream=disney5",
           "isHost": "true",
@@ -104,7 +72,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "21:00 | [PRONTO] | COPA CHILE | Puerto Montt vs Ñublense",
+          "name": "17:00 | [PRONTO] | COPA CHILE | Puerto Montt vs Ñublense",
           "image": "https://i.postimg.cc/mk0vkbm3/Liga-Chile.jpg",
           "url": "https://streamxhd.com/live1.php?stream=tntsportschile",
           "isHost": "true",
@@ -112,7 +80,15 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "23:00 | [PRONTO] | LIGA COLOMBIA | Medellín vs Jaguares de Córdoba",
+          "name": "19:00 | [PRONTO] | LIGA COLOMBIA | Medellín vs Jaguares de Córdoba",
+          "image": "https://i.postimg.cc/59BDhCPY/Liga-Colombiana.png",
+          "url": "https://streamxhd.com/live1.php?stream=winplus",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "19:00 | [PRONTO] | LIGA COLOMBIA | Medellín vs Jaguares de Córdoba",
           "image": "https://i.postimg.cc/59BDhCPY/Liga-Colombiana.png",
           "url": "https://streamxhd.com/live1.php?stream=winsports",
           "isHost": "true",
@@ -120,7 +96,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "23:30 | [PRONTO] | COPA CHILE | Audax Italiano vs Colo-Colo",
+          "name": "19:30 | [PRONTO] | COPA CHILE | Audax Italiano vs Colo-Colo",
           "image": "https://i.postimg.cc/mk0vkbm3/Liga-Chile.jpg",
           "url": "https://streamxhd.com/live1.php?stream=max1",
           "isHost": "true",
@@ -128,9 +104,33 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "22:00 | [FINALIZADO] | LIGA PROFESIONAL | Barracas Central vs Independiente Rivadavia",
+          "name": "18:00 | [FINALIZADO] | LIGA PROFESIONAL | Barracas Central vs Independiente Rivadavia",
           "image": "https://i.postimg.cc/pr4HjQLB/Liga-Argentina.png",
           "url": "https://streamxhd.com/live1.php?stream=tntsports",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "20:15 | [FINALIZADO] | LIGA PROFESIONAL | Lanús vs Estudiantes",
+          "image": "https://i.postimg.cc/pr4HjQLB/Liga-Argentina.png",
+          "url": "https://streamxhd.com/live1.php?stream=espnpremium",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "20:30 | [FINALIZADO] | LIGA ECUADOR | Barcelona vs Independiente del Valle",
+          "image": "",
+          "url": "https://streamxhd.com/live1.php?stream=zapping_ec",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "21:30 | [FINALIZADO] | MLB | San Francisco Giants vs Minnesota Twins",
+          "image": "https://i.postimg.cc/SsCTWBXL/MLB.png",
+          "url": "https://streamxhd.com/live1.php?stream=espn3",
           "isHost": "true",
           "referer": "https://streamxhd.com",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
