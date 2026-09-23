@@ -8,14 +8,6 @@
       "image": "",
       "stations": [
         {
-          "name": "00:45 | [PRONTO] | ESPN Knockout | Kyonosuke Kameda vs Sebastian Hernandez Reyes",
-          "image": "https://i.postimg.cc/QN12WbhH/UFC.png",
-          "url": "https://streamxhd.com/live1.php?stream=espn2",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
           "name": "06:00 | [PRONTO] | COPA MUNDIAL SUB-20 (F) | Italia vs España",
           "image": "",
           "url": "https://streamxhd.com/live1.php?stream=dsports2",
@@ -51,6 +43,14 @@
           "name": "09:45 | [PRONTO] | UEFA CHAMPIONS LEAGUE FEMENINA | Servette Chênois Féminin vs OL Lyonnes",
           "image": "",
           "url": "https://streamxhd.com/live1.php?stream=disney2",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "09:45 | [PRONTO] | UEFA CHAMPIONS LEAGUE FEMENINA | Servette Chênois Féminin vs OL Lyonnes",
+          "image": "",
+          "url": "https://streamxhd.com/live1.php?stream=espn2",
           "isHost": "true",
           "referer": "https://streamxhd.com",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
