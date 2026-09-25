@@ -8,7 +8,7 @@
       "image": "",
       "stations": [
         {
-          "name": "14:00 | [EN VIVO] | COPA CHILE | O'Higgins vs Deportes Santa Cruz",
+          "name": "16:30 | [EN VIVO] | COPA CHILE | Everton vs Universidad Chile",
           "image": "https://i.postimg.cc/mk0vkbm3/Liga-Chile.jpg",
           "url": "https://streamxhd.com/live1.php?stream=tntsportschile",
           "isHost": "true",
@@ -16,7 +16,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "17:00 | [PRONTO] | LIGA DE NACIONES CONCACAF | República Dominicana vs Nicaragua",
+          "name": "17:00 | [EN VIVO] | LIGA DE NACIONES CONCACAF | República Dominicana vs Nicaragua",
           "image": "",
           "url": "https://streamxhd.com/live1.php?stream=vix1",
           "isHost": "true",
@@ -24,7 +24,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "17:00 | [PRONTO] | COPA ECUADOR | Gualaceo vs Independiente del Valle",
+          "name": "17:00 | [EN VIVO] | COPA ECUADOR | Gualaceo vs Independiente del Valle",
           "image": "",
           "url": "https://streamxhd.com/live1.php?stream=zapping_ec",
           "isHost": "true",
@@ -32,7 +32,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "17:00 | [PRONTO] | NFL | Green Bay Packers vs Atlanta Falcons",
+          "name": "17:00 | [EN VIVO] | NFL | Green Bay Packers vs Atlanta Falcons",
           "image": "https://i.postimg.cc/NfxZdjKP/NFL.png",
           "url": "https://streamxhd.com/live1.php?stream=espn5",
           "isHost": "true",
