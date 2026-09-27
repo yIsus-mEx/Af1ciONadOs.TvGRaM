@@ -8,15 +8,7 @@
       "image": "",
       "stations": [
         {
-          "name": "01:00 | [PRONTO] | ESPN Knockout | Takuma Inoue vs Tenshin Nasukawa",
-          "image": "https://i.postimg.cc/QN12WbhH/UFC.png",
-          "url": "https://streamxhd.com/live1.php?stream=espn",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "04:30 | [PRONTO] | Laver Cup | Día 3",
+          "name": "04:30 | [EN VIVO] | Laver Cup | Día 3",
           "image": "",
           "url": "https://streamxhd.com/live1.php?stream=espn2",
           "isHost": "true",
@@ -24,7 +16,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "05:00 | [PRONTO] | LALIGA HYPERMOTION | Real Valladolid vs Córdoba",
+          "name": "05:00 | [EN VIVO] | LALIGA HYPERMOTION | Real Valladolid vs Córdoba",
           "image": "https://i.postimg.cc/g2TS7XmQ/La-Liga.png",
           "url": "https://streamxhd.com/live1.php?stream=laligahypermotion",
           "isHost": "true",
@@ -67,6 +59,14 @@
           "name": "09:00 | [PRONTO] | LIGA DE NACIONES | Serbia vs Países Bajos",
           "image": "https://i.postimg.cc/Wbdp4z1D/Erediviese.jpg",
           "url": "https://streamxhd.com/live1.php?stream=sporttvbr2",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "09:00 | [PRONTO] | LIGA DE NACIONES | Serbia vs Países Bajos",
+          "image": "https://i.postimg.cc/Wbdp4z1D/Erediviese.jpg",
+          "url": "https://streamxhd.com/live1.php?stream=espn",
           "isHost": "true",
           "referer": "https://streamxhd.com",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
