@@ -8,39 +8,7 @@
       "image": "",
       "stations": [
         {
-          "name": "18:00 | [EN VIVO] | LIGA DE NACIONES CONCACAF | Surinam vs Martinica",
-          "image": "",
-          "url": "https://streamxhd.com/live1.php?stream=vix4",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "18:00 | [EN VIVO] | LIGA PARAGUAY | Libertad vs Olimpia",
-          "image": "",
-          "url": "https://streamxhd.com/live1.php?stream=tigo1",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "19:00 | [EN VIVO] | LIGA URUGUAY | Wanderers vs Albion",
-          "image": "https://i.postimg.cc/Rq5Y9gF5/Liga-Uruguay.png",
-          "url": "https://streamxhd.com/live1.php?stream=disney9",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "19:00 | [EN VIVO] | LIGA MX FEMENIL | León vs América",
-          "image": "https://i.postimg.cc/sgRFRgQv/Liga-MX.jpg",
-          "url": "https://streamxhd.com/live1.php?stream=foxone4",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "20:00 | [PRONTO] | LIGA DE NACIONES CONCACAF | Jamaica vs Honduras",
+          "name": "20:00 | [EN VIVO] | LIGA DE NACIONES CONCACAF | Jamaica vs Honduras",
           "image": "",
           "url": "https://streamxhd.com/live1.php?stream=vix5",
           "isHost": "true",
@@ -48,7 +16,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "20:00 | [PRONTO] | LIGA DE NACIONES CONCACAF | St. Kitts and Nevis vs Granada",
+          "name": "20:00 | [EN VIVO] | LIGA DE NACIONES CONCACAF | St. Kitts and Nevis vs Granada",
           "image": "",
           "url": "https://streamxhd.com/live1.php?stream=vix6",
           "isHost": "true",
@@ -56,7 +24,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "20:00 | [PRONTO] | LIGA DE NACIONES CONCACAF | St. Lucia vs Bermudas",
+          "name": "20:00 | [EN VIVO] | LIGA DE NACIONES CONCACAF | St. Lucia vs Bermudas",
           "image": "",
           "url": "https://streamxhd.com/live1.php?stream=vix7",
           "isHost": "true",
@@ -64,7 +32,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "20:00 | [PRONTO] | NFL | Chicago Bears vs Philadelphia Eagles",
+          "name": "20:00 | [EN VIVO] | NFL | Chicago Bears vs Philadelphia Eagles",
           "image": "https://i.postimg.cc/NfxZdjKP/NFL.png",
           "url": "https://streamxhd.com/live1.php?stream=espn2",
           "isHost": "true",
@@ -72,7 +40,15 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "21:06 | [PRONTO] | LIGA MX FEMENIL | Necaxa vs Toluca",
+          "name": "21:06 | [EN VIVO] | LIGA MX FEMENIL | Necaxa vs Toluca",
+          "image": "https://i.postimg.cc/sgRFRgQv/Liga-MX.jpg",
+          "url": "https://streamxhd.com/live1.php?stream=foxone4",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "21:06 | [EN VIVO] | LIGA MX FEMENIL | Necaxa vs Toluca",
           "image": "https://i.postimg.cc/sgRFRgQv/Liga-MX.jpg",
           "url": "https://streamxhd.com/live1.php?stream=fox_deportes_usa",
           "isHost": "true",
@@ -210,6 +186,14 @@
         {
           "name": "14:45 | [PRONTO] | LIGA DE NACIONES | Luxemburgo vs Islandia",
           "image": "",
+          "url": "https://streamxhd.com/live1.php?stream=disney9",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "14:45 | [PRONTO] | LIGA DE NACIONES | Luxemburgo vs Islandia",
+          "image": "",
           "url": "https://streamxhd.com/live1.php?stream=sporttvbr3",
           "isHost": "true",
           "referer": "https://streamxhd.com",
@@ -291,6 +275,22 @@
           "name": "21:00 | [PRONTO] | AMISTOSO INTERNACIONAL | México vs Perú",
           "image": "",
           "url": "https://streamxhd.com/live1.php?stream=azteca7",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "18:00 | [FINALIZADO] | LIGA DE NACIONES CONCACAF | Surinam vs Martinica",
+          "image": "",
+          "url": "https://streamxhd.com/live1.php?stream=vix4",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "18:00 | [FINALIZADO] | LIGA PARAGUAY | Libertad vs Olimpia",
+          "image": "",
+          "url": "https://streamxhd.com/live1.php?stream=tigo1",
           "isHost": "true",
           "referer": "https://streamxhd.com",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
