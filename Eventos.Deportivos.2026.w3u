@@ -8,47 +8,7 @@
       "image": "",
       "stations": [
         {
-          "name": "14:00 | [EN VIVO] | UEFA CHAMPIONS LEAGUE FEMENINA | OL Lyonnes vs Chelsea FC",
-          "image": "",
-          "url": "https://streamxhd.com/live1.php?stream=disney5",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "14:00 | [EN VIVO] | UEFA CHAMPIONS LEAGUE FEMENINA | OL Lyonnes vs Chelsea FC",
-          "image": "",
-          "url": "https://streamxhd.com/live1.php?stream=espn2",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "14:00 | [EN VIVO] | UEFA CHAMPIONS LEAGUE FEMENINA | SL Benfica vs Bayern",
-          "image": "",
-          "url": "https://streamxhd.com/live1.php?stream=disney6",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "15:00 | [EN VIVO] | LIGA 1 | Cienciano vs Los Chankas",
-          "image": "",
-          "url": "https://streamxhd.com/live1.php?stream=l1max",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "15:00 | [EN VIVO] | COPA PARAGUAY | Independiente FBC vs Nacional Asunción",
-          "image": "",
-          "url": "https://streamxhd.com/live1.php?stream=tigo1",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "16:00 | [PRONTO] | MLB | Chicago White Sox vs Houston Astros",
+          "name": "16:00 | [EN VIVO] | MLB | Chicago White Sox vs Houston Astros",
           "image": "https://i.postimg.cc/SsCTWBXL/MLB.png",
           "url": "https://streamxhd.com/live1.php?stream=espn4",
           "isHost": "true",
@@ -56,9 +16,17 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "17:30 | [PRONTO] | COPA CHILE | Deportes Concepción vs O'Higgins",
+          "name": "17:30 | [EN VIVO] | COPA CHILE | Deportes Concepción vs O'Higgins",
           "image": "https://i.postimg.cc/mk0vkbm3/Liga-Chile.jpg",
           "url": "https://streamxhd.com/live1.php?stream=tntsportschile",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "17:30 | [EN VIVO] | COPA PARAGUAY | Cerro Porteño vs Rubio Ñú",
+          "image": "",
+          "url": "https://streamxhd.com/live1.php?stream=tigo1",
           "isHost": "true",
           "referer": "https://streamxhd.com",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
@@ -67,6 +35,14 @@
           "name": "18:00 | [PRONTO] | LIGA URUGUAY | Torque vs Peñarol",
           "image": "https://i.postimg.cc/Rq5Y9gF5/Liga-Uruguay.png",
           "url": "https://streamxhd.com/live1.php?stream=disney7",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "18:00 | [PRONTO] | WNBA | Atlanta Dream vs Washington Mystics",
+          "image": "https://i.postimg.cc/52NTTWv9/NBA.png",
+          "url": "https://streamxhd.com/live1.php?stream=espn2",
           "isHost": "true",
           "referer": "https://streamxhd.com",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
@@ -155,6 +131,30 @@
           "name": "11:45 | [FINALIZADO] | UEFA CHAMPIONS LEAGUE FEMENINA | Roma vs Barcelona",
           "image": "https://i.postimg.cc/cChTB6Dy/Serie-A.png",
           "url": "https://streamxhd.com/live1.php?stream=disney4",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "14:00 | [FINALIZADO] | UEFA CHAMPIONS LEAGUE FEMENINA | OL Lyonnes vs Chelsea FC",
+          "image": "",
+          "url": "https://streamxhd.com/live1.php?stream=disney5",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "14:00 | [FINALIZADO] | UEFA CHAMPIONS LEAGUE FEMENINA | SL Benfica vs Bayern",
+          "image": "",
+          "url": "https://streamxhd.com/live1.php?stream=disney6",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "15:00 | [FINALIZADO] | LIGA 1 | Cienciano vs Los Chankas",
+          "image": "",
+          "url": "https://streamxhd.com/live1.php?stream=l1max",
           "isHost": "true",
           "referer": "https://streamxhd.com",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
