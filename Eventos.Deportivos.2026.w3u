@@ -8,15 +8,7 @@
       "image": "",
       "stations": [
         {
-          "name": "11:00 | [PRONTO] | AMISTOSO INTERNACIONAL | Lituania vs Andorra",
-          "image": "",
-          "url": "https://streamxhd.com/live1.php?stream=disney1",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "11:45 | [PRONTO] | UEFA CHAMPIONS LEAGUE FEMENINA | Paris FC vs Arsenal",
+          "name": "11:45 | [EN VIVO] | UEFA CHAMPIONS LEAGUE FEMENINA | Paris FC vs Arsenal",
           "image": "",
           "url": "https://streamxhd.com/live1.php?stream=disney2",
           "isHost": "true",
@@ -24,7 +16,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "11:45 | [PRONTO] | UEFA CHAMPIONS LEAGUE FEMENINA | Häcken vs Juventus",
+          "name": "11:45 | [EN VIVO] | UEFA CHAMPIONS LEAGUE FEMENINA | Häcken vs Juventus",
           "image": "",
           "url": "https://streamxhd.com/live1.php?stream=disney3",
           "isHost": "true",
@@ -32,7 +24,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "11:45 | [PRONTO] | UEFA CHAMPIONS LEAGUE FEMENINA | Roma vs Barcelona",
+          "name": "11:45 | [EN VIVO] | UEFA CHAMPIONS LEAGUE FEMENINA | Roma vs Barcelona",
           "image": "https://i.postimg.cc/cChTB6Dy/Serie-A.png",
           "url": "https://streamxhd.com/live1.php?stream=disney4",
           "isHost": "true",
@@ -40,7 +32,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "11:45 | [PRONTO] | UEFA CHAMPIONS LEAGUE FEMENINA | Roma vs Barcelona",
+          "name": "11:45 | [EN VIVO] | UEFA CHAMPIONS LEAGUE FEMENINA | Roma vs Barcelona",
           "image": "https://i.postimg.cc/cChTB6Dy/Serie-A.png",
           "url": "https://streamxhd.com/live1.php?stream=espn2",
           "isHost": "true",
@@ -160,81 +152,9 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "16:00 | [FINALIZADO] | COPA CHILE | D. Puerto Montt vs Colo Colo",
-          "image": "https://i.postimg.cc/mk0vkbm3/Liga-Chile.jpg",
-          "url": "https://streamxhd.com/live1.php?stream=tntsporschile",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "19:00 | [FINALIZADO] | AMISTOSO INTERNACIONAL | EE. UU. vs Chile",
-          "image": "https://i.postimg.cc/mk0vkbm3/Liga-Chile.jpg",
-          "url": "https://streamxhd.com/live1.php?stream=disney11",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "19:00 | [FINALIZADO] | AMISTOSO INTERNACIONAL | EE. UU. vs Chile",
-          "image": "https://i.postimg.cc/mk0vkbm3/Liga-Chile.jpg",
-          "url": "https://streamxhd.com/live1.php?stream=universo",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "19:00 | [FINALIZADO] | AMISTOSO INTERNACIONAL | EE. UU. vs Chile",
-          "image": "https://i.postimg.cc/mk0vkbm3/Liga-Chile.jpg",
-          "url": "https://streamxhd.com/live1.php?stream=max1",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "19:00 | [FINALIZADO] | NHL | New York Rangers vs Boston Bruins",
+          "name": "11:00 | [FINALIZADO] | AMISTOSO INTERNACIONAL | Lituania vs Andorra",
           "image": "",
-          "url": "https://streamxhd.com/live1.php?stream=espn3",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "20:00 | [FINALIZADO] | AMISTOSO INTERNACIONAL | México vs Perú",
-          "image": "",
-          "url": "https://streamxhd.com/live1.php?stream=americatv",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "20:00 | [FINALIZADO] | AMISTOSO INTERNACIONAL | México vs Perú",
-          "image": "",
-          "url": "https://streamxhd.com/live1.php?stream=canal5mx",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "20:00 | [FINALIZADO] | AMISTOSO INTERNACIONAL | México vs Perú",
-          "image": "",
-          "url": "https://streamxhd.com/live1.php?stream=amazon1",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "20:00 | [FINALIZADO] | AMISTOSO INTERNACIONAL | México vs Perú",
-          "image": "",
-          "url": "https://streamxhd.com/live1.php?stream=azteca7",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "20:00 | [FINALIZADO] | AMISTOSO INTERNACIONAL | México vs Perú",
-          "image": "",
-          "url": "https://streamxhd.com/live1.php?stream=tudn_usa",
+          "url": "https://streamxhd.com/live1.php?stream=disney1",
           "isHost": "true",
           "referer": "https://streamxhd.com",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
