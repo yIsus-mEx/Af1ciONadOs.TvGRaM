@@ -8,31 +8,7 @@
       "image": "",
       "stations": [
         {
-          "name": "09:45 | [EN VIVO] | UEFA CHAMPIONS LEAGUE FEMENINA | Austria Wien vs Inter Milano",
-          "image": "",
-          "url": "https://streamxhd.com/live1.php?stream=disney2",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "09:45 | [EN VIVO] | UEFA CHAMPIONS LEAGUE FEMENINA | Austria Wien vs Inter Milano",
-          "image": "",
-          "url": "https://streamxhd.com/live1.php?stream=espn3",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "09:45 | [EN VIVO] | UEFA CHAMPIONS LEAGUE FEMENINA | Køge Kvinder vs Servette Chênois",
-          "image": "",
-          "url": "https://streamxhd.com/live1.php?stream=disney3",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "11:45 | [PRONTO] | LIGA DE NACIONES | Malta vs Gibraltar",
+          "name": "11:45 | [EN VIVO] | LIGA DE NACIONES | Malta vs Gibraltar",
           "image": "",
           "url": "https://streamxhd.com/live1.php?stream=disney4",
           "isHost": "true",
@@ -40,7 +16,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "11:45 | [PRONTO] | LIGA DE NACIONES | Israel vs Kosovo",
+          "name": "11:45 | [EN VIVO] | LIGA DE NACIONES | Israel vs Kosovo",
           "image": "",
           "url": "https://streamxhd.com/live1.php?stream=disney5",
           "isHost": "true",
@@ -48,7 +24,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "11:45 | [PRONTO] | LIGA DE NACIONES | Dinamarca vs Portugal",
+          "name": "11:45 | [EN VIVO] | LIGA DE NACIONES | Dinamarca vs Portugal",
           "image": "https://i.postimg.cc/MG0sps1h/primeira-liga.png",
           "url": "https://streamxhd.com/live1.php?stream=disney6",
           "isHost": "true",
@@ -56,7 +32,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "11:45 | [PRONTO] | LIGA DE NACIONES | Dinamarca vs Portugal",
+          "name": "11:45 | [EN VIVO] | LIGA DE NACIONES | Dinamarca vs Portugal",
           "image": "https://i.postimg.cc/MG0sps1h/primeira-liga.png",
           "url": "https://streamxhd.com/live1.php?stream=espn",
           "isHost": "true",
@@ -64,7 +40,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "11:45 | [PRONTO] | LIGA DE NACIONES | Dinamarca vs Portugal",
+          "name": "11:45 | [EN VIVO] | LIGA DE NACIONES | Dinamarca vs Portugal",
           "image": "https://i.postimg.cc/MG0sps1h/primeira-liga.png",
           "url": "https://streamxhd.com/live1.php?stream=vix1",
           "isHost": "true",
@@ -72,7 +48,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "11:45 | [PRONTO] | LIGA DE NACIONES | Dinamarca vs Portugal",
+          "name": "11:45 | [EN VIVO] | LIGA DE NACIONES | Dinamarca vs Portugal",
           "image": "https://i.postimg.cc/MG0sps1h/primeira-liga.png",
           "url": "https://streamxhd.com/live1.php?stream=espnar",
           "isHost": "true",
@@ -80,7 +56,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "11:45 | [PRONTO] | LIGA DE NACIONES | Alemania vs Serbia",
+          "name": "11:45 | [EN VIVO] | LIGA DE NACIONES | Alemania vs Serbia",
           "image": "",
           "url": "https://streamxhd.com/live1.php?stream=disney7",
           "isHost": "true",
@@ -88,7 +64,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "11:45 | [PRONTO] | LIGA DE NACIONES | Grecia vs Países Bajos",
+          "name": "11:45 | [EN VIVO] | LIGA DE NACIONES | Grecia vs Países Bajos",
           "image": "https://i.postimg.cc/Wbdp4z1D/Erediviese.jpg",
           "url": "https://streamxhd.com/live1.php?stream=disney8",
           "isHost": "true",
@@ -96,7 +72,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "11:45 | [PRONTO] | LIGA DE NACIONES | Grecia vs Países Bajos",
+          "name": "11:45 | [EN VIVO] | LIGA DE NACIONES | Grecia vs Países Bajos",
           "image": "https://i.postimg.cc/Wbdp4z1D/Erediviese.jpg",
           "url": "https://streamxhd.com/live1.php?stream=espn2",
           "isHost": "true",
@@ -104,7 +80,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "11:45 | [PRONTO] | LIGA DE NACIONES | Grecia vs Países Bajos",
+          "name": "11:45 | [EN VIVO] | LIGA DE NACIONES | Grecia vs Países Bajos",
           "image": "https://i.postimg.cc/Wbdp4z1D/Erediviese.jpg",
           "url": "https://streamxhd.com/live1.php?stream=espn2ar",
           "isHost": "true",
@@ -112,7 +88,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "11:45 | [PRONTO] | LIGA DE NACIONES | Gales vs Noruega",
+          "name": "11:45 | [EN VIVO] | LIGA DE NACIONES | Gales vs Noruega",
           "image": "",
           "url": "https://streamxhd.com/live1.php?stream=disney9",
           "isHost": "true",
@@ -120,7 +96,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "11:45 | [PRONTO] | LIGA DE NACIONES | República de Irlanda vs Austria",
+          "name": "11:45 | [EN VIVO] | LIGA DE NACIONES | República de Irlanda vs Austria",
           "image": "",
           "url": "https://streamxhd.com/live1.php?stream=disney10",
           "isHost": "true",
@@ -128,7 +104,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "12:00 | [PRONTO] | UEFA CHAMPIONS LEAGUE FEMENINA | PSG vs OH Leuven",
+          "name": "12:00 | [EN VIVO] | UEFA CHAMPIONS LEAGUE FEMENINA | PSG vs OH Leuven",
           "image": "",
           "url": "https://streamxhd.com/live1.php?stream=disney11",
           "isHost": "true",
@@ -136,7 +112,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "12:00 | [PRONTO] | UEFA CHAMPIONS LEAGUE FEMENINA | Manchester City vs Real Madrid",
+          "name": "12:00 | [EN VIVO] | UEFA CHAMPIONS LEAGUE FEMENINA | Manchester City vs Real Madrid",
           "image": "",
           "url": "https://streamxhd.com/live1.php?stream=disney12",
           "isHost": "true",
@@ -144,7 +120,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "12:00 | [PRONTO] | UEFA CHAMPIONS LEAGUE FEMENINA | Manchester City vs Real Madrid",
+          "name": "12:00 | [EN VIVO] | UEFA CHAMPIONS LEAGUE FEMENINA | Manchester City vs Real Madrid",
           "image": "",
           "url": "https://streamxhd.com/live1.php?stream=espn5",
           "isHost": "true",
@@ -187,6 +163,14 @@
           "name": "17:00 | [PRONTO] | LIGA DE NACIONES CONCACAF | República Dominicana vs Haití",
           "image": "",
           "url": "https://streamxhd.com/live1.php?stream=vix5",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "17:00 | [PRONTO] | MLB | Boston Red Sox vs New York Yankees",
+          "image": "https://i.postimg.cc/SsCTWBXL/MLB.png",
+          "url": "https://streamxhd.com/live1.php?stream=espn3",
           "isHost": "true",
           "referer": "https://streamxhd.com",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
@@ -307,6 +291,22 @@
           "name": "09:00 | [FINALIZADO] | LIGA DE NACIONES | Azerbaiyán vs Liechtenstein",
           "image": "",
           "url": "https://streamxhd.com/live1.php?stream=disney1",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "09:45 | [FINALIZADO] | UEFA CHAMPIONS LEAGUE FEMENINA | Austria Wien vs Inter Milano",
+          "image": "",
+          "url": "https://streamxhd.com/live1.php?stream=disney2",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "09:45 | [FINALIZADO] | UEFA CHAMPIONS LEAGUE FEMENINA | Køge Kvinder vs Servette Chênois",
+          "image": "",
+          "url": "https://streamxhd.com/live1.php?stream=disney3",
           "isHost": "true",
           "referer": "https://streamxhd.com",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
