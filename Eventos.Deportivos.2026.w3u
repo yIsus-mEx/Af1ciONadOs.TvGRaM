@@ -8,31 +8,7 @@
       "image": "",
       "stations": [
         {
-          "name": "16:00 | [EN VIVO] | MLB | Chicago White Sox vs Houston Astros",
-          "image": "https://i.postimg.cc/SsCTWBXL/MLB.png",
-          "url": "https://streamxhd.com/live1.php?stream=espn4",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "17:30 | [EN VIVO] | COPA CHILE | Deportes Concepción vs O'Higgins",
-          "image": "https://i.postimg.cc/mk0vkbm3/Liga-Chile.jpg",
-          "url": "https://streamxhd.com/live1.php?stream=tntsportschile",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "17:30 | [EN VIVO] | COPA PARAGUAY | Cerro Porteño vs Rubio Ñú",
-          "image": "",
-          "url": "https://streamxhd.com/live1.php?stream=tigo1",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "18:00 | [PRONTO] | LIGA URUGUAY | Torque vs Peñarol",
+          "name": "23:00 | [EN VIVO] | LIGA URUGUAY | Torque vs Peñarol",
           "image": "https://i.postimg.cc/Rq5Y9gF5/Liga-Uruguay.png",
           "url": "https://streamxhd.com/live1.php?stream=disney7",
           "isHost": "true",
@@ -40,7 +16,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "18:00 | [PRONTO] | WNBA | Atlanta Dream vs Washington Mystics",
+          "name": "23:00 | [EN VIVO] | WNBA | Atlanta Dream vs Washington Mystics",
           "image": "https://i.postimg.cc/52NTTWv9/NBA.png",
           "url": "https://streamxhd.com/live1.php?stream=espn2",
           "isHost": "true",
@@ -48,7 +24,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "18:30 | [PRONTO] | MLS | New York RB vs St. Louis City",
+          "name": "23:30 | [EN VIVO] | MLS | New York RB vs St. Louis City",
           "image": "https://i.postimg.cc/BQwBSrkS/MLS.png",
           "url": "https://streamxhd.com/live1.php?stream=appletv1",
           "isHost": "true",
@@ -56,7 +32,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "19:00 | [PRONTO] | AMISTOSO INTERNACIONAL | Argentina vs Bolivia",
+          "name": "00:00 | [EN VIVO] | AMISTOSO INTERNACIONAL | Argentina vs Bolivia",
           "image": "https://i.postimg.cc/pr4HjQLB/Liga-Argentina.png",
           "url": "https://streamxhd.com/live1.php?stream=tycsports",
           "isHost": "true",
@@ -64,7 +40,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "19:00 | [PRONTO] | AMISTOSO INTERNACIONAL | Argentina vs Bolivia",
+          "name": "00:00 | [EN VIVO] | AMISTOSO INTERNACIONAL | Argentina vs Bolivia",
           "image": "https://i.postimg.cc/pr4HjQLB/Liga-Argentina.png",
           "url": "https://streamxhd.com/live1.php?stream=dsports",
           "isHost": "true",
@@ -72,7 +48,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "19:00 | [PRONTO] | AMISTOSO INTERNACIONAL | Argentina vs Bolivia",
+          "name": "00:00 | [EN VIVO] | AMISTOSO INTERNACIONAL | Argentina vs Bolivia",
           "image": "https://i.postimg.cc/pr4HjQLB/Liga-Argentina.png",
           "url": "https://streamxhd.com/live1.php?stream=vix1",
           "isHost": "true",
@@ -80,7 +56,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "19:00 | [PRONTO] | AMISTOSO INTERNACIONAL | Argentina vs Bolivia",
+          "name": "00:00 | [EN VIVO] | AMISTOSO INTERNACIONAL | Argentina vs Bolivia",
           "image": "https://i.postimg.cc/pr4HjQLB/Liga-Argentina.png",
           "url": "https://streamxhd.com/live1.php?stream=mligacampeones",
           "isHost": "true",
@@ -88,7 +64,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "19:00 | [PRONTO] | AMISTOSO INTERNACIONAL | Argentina vs Bolivia",
+          "name": "00:00 | [EN VIVO] | AMISTOSO INTERNACIONAL | Argentina vs Bolivia",
           "image": "https://i.postimg.cc/pr4HjQLB/Liga-Argentina.png",
           "url": "https://streamxhd.com/live1.php?stream=sporttvbr1",
           "isHost": "true",
@@ -96,7 +72,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "20:00 | [PRONTO] | LIGA COLOMBIA | Atlético Nacional vs Junior",
+          "name": "01:00 | [PRONTO] | LIGA COLOMBIA | Atlético Nacional vs Junior",
           "image": "https://i.postimg.cc/59BDhCPY/Liga-Colombiana.png",
           "url": "https://streamxhd.com/live1.php?stream=winplus",
           "isHost": "true",
@@ -104,7 +80,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "11:00 | [FINALIZADO] | AMISTOSO INTERNACIONAL | Lituania vs Andorra",
+          "name": "16:00 | [FINALIZADO] | AMISTOSO INTERNACIONAL | Lituania vs Andorra",
           "image": "",
           "url": "https://streamxhd.com/live1.php?stream=disney1",
           "isHost": "true",
@@ -112,7 +88,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "11:45 | [FINALIZADO] | UEFA CHAMPIONS LEAGUE FEMENINA | Paris FC vs Arsenal",
+          "name": "16:45 | [FINALIZADO] | UEFA CHAMPIONS LEAGUE FEMENINA | Paris FC vs Arsenal",
           "image": "",
           "url": "https://streamxhd.com/live1.php?stream=disney2",
           "isHost": "true",
@@ -120,7 +96,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "11:45 | [FINALIZADO] | UEFA CHAMPIONS LEAGUE FEMENINA | Häcken vs Juventus",
+          "name": "16:45 | [FINALIZADO] | UEFA CHAMPIONS LEAGUE FEMENINA | Häcken vs Juventus",
           "image": "",
           "url": "https://streamxhd.com/live1.php?stream=disney3",
           "isHost": "true",
@@ -128,7 +104,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "11:45 | [FINALIZADO] | UEFA CHAMPIONS LEAGUE FEMENINA | Roma vs Barcelona",
+          "name": "16:45 | [FINALIZADO] | UEFA CHAMPIONS LEAGUE FEMENINA | Roma vs Barcelona",
           "image": "https://i.postimg.cc/cChTB6Dy/Serie-A.png",
           "url": "https://streamxhd.com/live1.php?stream=disney4",
           "isHost": "true",
@@ -136,7 +112,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "14:00 | [FINALIZADO] | UEFA CHAMPIONS LEAGUE FEMENINA | OL Lyonnes vs Chelsea FC",
+          "name": "19:00 | [FINALIZADO] | UEFA CHAMPIONS LEAGUE FEMENINA | OL Lyonnes vs Chelsea FC",
           "image": "",
           "url": "https://streamxhd.com/live1.php?stream=disney5",
           "isHost": "true",
@@ -144,7 +120,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "14:00 | [FINALIZADO] | UEFA CHAMPIONS LEAGUE FEMENINA | SL Benfica vs Bayern",
+          "name": "19:00 | [FINALIZADO] | UEFA CHAMPIONS LEAGUE FEMENINA | SL Benfica vs Bayern",
           "image": "",
           "url": "https://streamxhd.com/live1.php?stream=disney6",
           "isHost": "true",
@@ -152,9 +128,33 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "15:00 | [FINALIZADO] | LIGA 1 | Cienciano vs Los Chankas",
+          "name": "20:00 | [FINALIZADO] | LIGA 1 | Cienciano vs Los Chankas",
           "image": "",
           "url": "https://streamxhd.com/live1.php?stream=l1max",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "20:00 | [FINALIZADO] | COPA PARAGUAY | Independiente FBC vs Nacional Asunción",
+          "image": "",
+          "url": "https://streamxhd.com/live1.php?stream=tigo1",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "21:00 | [FINALIZADO] | MLB | Chicago White Sox vs Houston Astros",
+          "image": "https://i.postimg.cc/SsCTWBXL/MLB.png",
+          "url": "https://streamxhd.com/live1.php?stream=espn4",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "22:30 | [FINALIZADO] | COPA CHILE | Deportes Concepción vs O'Higgins",
+          "image": "https://i.postimg.cc/mk0vkbm3/Liga-Chile.jpg",
+          "url": "https://streamxhd.com/live1.php?stream=tntsportschile",
           "isHost": "true",
           "referer": "https://streamxhd.com",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
