@@ -8,23 +8,7 @@
       "image": "",
       "stations": [
         {
-          "name": "09:00 | [PRONTO] | LIGA DE NACIONES | Azerbaiyán vs Liechtenstein",
-          "image": "",
-          "url": "https://streamxhd.com/live1.php?stream=disney1",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "09:00 | [PRONTO] | LIGA DE NACIONES | Azerbaiyán vs Liechtenstein",
-          "image": "",
-          "url": "https://streamxhd.com/live1.php?stream=espn2",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "09:45 | [PRONTO] | UEFA CHAMPIONS LEAGUE FEMENINA | Austria Wien vs Inter Milano",
+          "name": "09:45 | [EN VIVO] | UEFA CHAMPIONS LEAGUE FEMENINA | Austria Wien vs Inter Milano",
           "image": "",
           "url": "https://streamxhd.com/live1.php?stream=disney2",
           "isHost": "true",
@@ -32,7 +16,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "09:45 | [PRONTO] | UEFA CHAMPIONS LEAGUE FEMENINA | Austria Wien vs Inter Milano",
+          "name": "09:45 | [EN VIVO] | UEFA CHAMPIONS LEAGUE FEMENINA | Austria Wien vs Inter Milano",
           "image": "",
           "url": "https://streamxhd.com/live1.php?stream=espn3",
           "isHost": "true",
@@ -40,7 +24,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "09:45 | [PRONTO] | UEFA CHAMPIONS LEAGUE FEMENINA | Køge Kvinder vs Servette Chênois",
+          "name": "09:45 | [EN VIVO] | UEFA CHAMPIONS LEAGUE FEMENINA | Køge Kvinder vs Servette Chênois",
           "image": "",
           "url": "https://streamxhd.com/live1.php?stream=disney3",
           "isHost": "true",
@@ -107,6 +91,14 @@
           "name": "11:45 | [PRONTO] | LIGA DE NACIONES | Grecia vs Países Bajos",
           "image": "https://i.postimg.cc/Wbdp4z1D/Erediviese.jpg",
           "url": "https://streamxhd.com/live1.php?stream=disney8",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "11:45 | [PRONTO] | LIGA DE NACIONES | Grecia vs Países Bajos",
+          "image": "https://i.postimg.cc/Wbdp4z1D/Erediviese.jpg",
+          "url": "https://streamxhd.com/live1.php?stream=espn2",
           "isHost": "true",
           "referer": "https://streamxhd.com",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
@@ -307,6 +299,14 @@
           "name": "21:30 | [PRONTO] | F1 | GP Bahréin - Práctica #1 - On Board Colapinto",
           "image": "https://i.postimg.cc/MTRFV6kF/F1.png",
           "url": "https://streamxhd.com/live1.php?stream=disney16",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "09:00 | [FINALIZADO] | LIGA DE NACIONES | Azerbaiyán vs Liechtenstein",
+          "image": "",
+          "url": "https://streamxhd.com/live1.php?stream=disney1",
           "isHost": "true",
           "referer": "https://streamxhd.com",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
