@@ -8,14 +8,6 @@
       "image": "",
       "stations": [
         {
-          "name": "03:10 | [PRONTO] | AMISTOSO INTERNACIONAL | Japón vs Ecuador",
-          "image": "",
-          "url": "https://streamxhd.com/live1.php?stream=evento1",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
           "name": "09:00 | [PRONTO] | LIGA DE NACIONES | Azerbaiyán vs Liechtenstein",
           "image": "",
           "url": "https://streamxhd.com/live1.php?stream=disney1",
@@ -315,30 +307,6 @@
           "name": "21:30 | [PRONTO] | F1 | GP Bahréin - Práctica #1 - On Board Colapinto",
           "image": "https://i.postimg.cc/MTRFV6kF/F1.png",
           "url": "https://streamxhd.com/live1.php?stream=disney16",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "17:00 | [FINALIZADO] | AMISTOSO INTERNACIONAL | Argentina vs Bolivia",
-          "image": "https://i.postimg.cc/pr4HjQLB/Liga-Argentina.png",
-          "url": "https://streamxhd.com/live1.php?stream=dsports",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "17:00 | [FINALIZADO] | AMISTOSO INTERNACIONAL | Argentina vs Bolivia",
-          "image": "https://i.postimg.cc/pr4HjQLB/Liga-Argentina.png",
-          "url": "https://streamxhd.com/live1.php?stream=mligacampeones",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "17:00 | [FINALIZADO] | AMISTOSO INTERNACIONAL | Argentina vs Bolivia",
-          "image": "https://i.postimg.cc/pr4HjQLB/Liga-Argentina.png",
-          "url": "https://streamxhd.com/live1.php?stream=sporttvbr1",
           "isHost": "true",
           "referer": "https://streamxhd.com",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
