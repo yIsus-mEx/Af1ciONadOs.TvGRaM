@@ -4,99 +4,11 @@
   "image": "",
   "groups": [
     {
-      "name": "Agenda - Jueves, 01 De Octubre De 2026",
+      "name": "Agenda - Viernes, 02 De Octubre De 2026",
       "image": "",
       "stations": [
         {
-          "name": "19:00 | [EN VIVO] | LIGA DE NACIONES CONCACAF | Islas Caimán vs Puerto Rico",
-          "image": "",
-          "url": "https://streamxhd.com/live1.php?stream=vix4",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "19:00 | [EN VIVO] | LIGA DE NACIONES CONCACAF | República Dominicana vs Haití",
-          "image": "",
-          "url": "https://streamxhd.com/live1.php?stream=vix5",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "19:00 | [EN VIVO] | MLB | Boston Red Sox vs New York Yankees",
-          "image": "https://i.postimg.cc/SsCTWBXL/MLB.png",
-          "url": "https://streamxhd.com/live1.php?stream=espn3",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "19:00 | [EN VIVO] | NFL | Pittsburgh Steelers vs Cleveland Browns",
-          "image": "https://i.postimg.cc/NfxZdjKP/NFL.png",
-          "url": "https://streamxhd.com/live1.php?stream=espn5",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "19:00 | [EN VIVO] | NFL | Pittsburgh Steelers vs Cleveland Browns",
-          "image": "https://i.postimg.cc/NfxZdjKP/NFL.png",
-          "url": "https://streamxhd.com/live1.php?stream=foxone",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "19:15 | [EN VIVO] | COPA ARGENTINA | Platense vs Estudiantes",
-          "image": "https://i.postimg.cc/pr4HjQLB/Liga-Argentina.png",
-          "url": "https://streamxhd.com/live1.php?stream=tycsports",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "20:00 | [EN VIVO] | LIGA COLOMBIA | Inter Bogotá vs Once Caldas",
-          "image": "https://i.postimg.cc/59BDhCPY/Liga-Colombiana.png",
-          "url": "https://streamxhd.com/live1.php?stream=winplus",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "20:30 | [PRONTO] | MLS | Seattle Sounders FC vs Sporting KC",
-          "image": "https://i.postimg.cc/BQwBSrkS/MLS.png",
-          "url": "https://streamxhd.com/live1.php?stream=appletv1",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "21:00 | [PRONTO] | LIGA DE NACIONES CONCACAF | Nicaragua vs Costa Rica",
-          "image": "",
-          "url": "https://streamxhd.com/live1.php?stream=vix6",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "21:30 | [PRONTO] | AMISTOSO INTERNACIONAL | Cruz Azul vs América",
-          "image": "",
-          "url": "https://streamxhd.com/live1.php?stream=tudnmx",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "21:30 | [PRONTO] | AMISTOSO INTERNACIONAL | Cruz Azul vs América",
-          "image": "",
-          "url": "https://streamxhd.com/live1.php?stream=tudn_usa",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "23:10 | [PRONTO] | GP Japón - Práctica (Moto3/Moto2/MotoGP)",
+          "name": "00:10 | [EN VIVO] | GP Japón - Práctica (Moto3/Moto2/MotoGP)",
           "image": "https://i.postimg.cc/CMG2KxsH/Moto-gp.png",
           "url": "https://streamxhd.com/live1.php?stream=disney13",
           "isHost": "true",
@@ -104,7 +16,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "23:30 | [PRONTO] | F1 | GP Bahréin - Práctica #1",
+          "name": "00:30 | [EN VIVO] | F1 | GP Bahréin - Práctica #1",
           "image": "https://i.postimg.cc/MTRFV6kF/F1.png",
           "url": "https://streamxhd.com/live1.php?stream=espn",
           "isHost": "true",
@@ -112,7 +24,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "23:30 | [PRONTO] | F1 | GP Bahréin - Práctica #1",
+          "name": "00:30 | [EN VIVO] | F1 | GP Bahréin - Práctica #1",
           "image": "https://i.postimg.cc/MTRFV6kF/F1.png",
           "url": "https://streamxhd.com/live1.php?stream=disney14",
           "isHost": "true",
@@ -120,7 +32,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "23:30 | [PRONTO] | F1 | GP Bahréin - Práctica #1",
+          "name": "00:30 | [EN VIVO] | F1 | GP Bahréin - Práctica #1",
           "image": "https://i.postimg.cc/MTRFV6kF/F1.png",
           "url": "https://streamxhd.com/live1.php?stream=daznf1",
           "isHost": "true",
@@ -128,7 +40,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "23:30 | [PRONTO] | F1 | GP Bahréin - Práctica #1",
+          "name": "00:30 | [EN VIVO] | F1 | GP Bahréin - Práctica #1",
           "image": "https://i.postimg.cc/MTRFV6kF/F1.png",
           "url": "https://streamxhd.com/live1.php?stream=fox1ar",
           "isHost": "true",
@@ -136,7 +48,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "23:30 | [PRONTO] | F1 | GP Bahréin - Práctica #1",
+          "name": "00:30 | [EN VIVO] | F1 | GP Bahréin - Práctica #1",
           "image": "https://i.postimg.cc/MTRFV6kF/F1.png",
           "url": "https://streamxhd.com/live1.php?stream=sporttvbr3",
           "isHost": "true",
@@ -144,7 +56,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "23:30 | [PRONTO] | F1 | GP Bahréin - Práctica #1 - On Board Antonelli",
+          "name": "00:30 | [EN VIVO] | F1 | GP Bahréin - Práctica #1 - On Board Antonelli",
           "image": "https://i.postimg.cc/MTRFV6kF/F1.png",
           "url": "https://streamxhd.com/live1.php?stream=disney15",
           "isHost": "true",
@@ -152,7 +64,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "23:30 | [PRONTO] | F1 | GP Bahréin - Práctica #1 - On Board Colapinto",
+          "name": "00:30 | [EN VIVO] | F1 | GP Bahréin - Práctica #1 - On Board Colapinto",
           "image": "https://i.postimg.cc/MTRFV6kF/F1.png",
           "url": "https://streamxhd.com/live1.php?stream=disney16",
           "isHost": "true",
@@ -160,39 +72,39 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "11:00 | [FINALIZADO] | LIGA DE NACIONES | Azerbaiyán vs Liechtenstein",
-          "image": "",
+          "name": "04:00 | [PRONTO] | F1 | GP Bahréin - Práctica #2",
+          "image": "https://i.postimg.cc/MTRFV6kF/F1.png",
           "url": "https://streamxhd.com/live1.php?stream=disney1",
           "isHost": "true",
           "referer": "https://streamxhd.com",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "11:00 | [FINALIZADO] | LIGA DE NACIONES | Azerbaiyán vs Liechtenstein",
-          "image": "",
-          "url": "https://streamxhd.com/live1.php?stream=espn2",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "11:45 | [FINALIZADO] | UEFA CHAMPIONS LEAGUE FEMENINA | Austria Wien vs Inter Milano",
-          "image": "",
+          "name": "04:00 | [PRONTO] | F1 | GP Bahréin - Práctica #2 - On Board Antonelli",
+          "image": "https://i.postimg.cc/MTRFV6kF/F1.png",
           "url": "https://streamxhd.com/live1.php?stream=disney2",
           "isHost": "true",
           "referer": "https://streamxhd.com",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "11:45 | [FINALIZADO] | UEFA CHAMPIONS LEAGUE FEMENINA | Køge Kvinder vs Servette Chênois",
-          "image": "",
+          "name": "04:00 | [PRONTO] | F1 | GP Bahréin - Práctica #2 - On Board Colapinto",
+          "image": "https://i.postimg.cc/MTRFV6kF/F1.png",
           "url": "https://streamxhd.com/live1.php?stream=disney3",
           "isHost": "true",
           "referer": "https://streamxhd.com",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "13:45 | [FINALIZADO] | LIGA DE NACIONES | Malta vs Gibraltar",
+          "name": "07:00 | [PRONTO] | AMISTOSO INTERNACIONAL | Corea del Sur vs Venezuela",
+          "image": "",
+          "url": "https://streamxhd.com/live1.php?stream=evento1",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "10:00 | [PRONTO] | LIGA DE NACIONES DE LA UEFA | Kazajistán vs Moldavia",
           "image": "",
           "url": "https://streamxhd.com/live1.php?stream=disney4",
           "isHost": "true",
@@ -200,7 +112,15 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "13:45 | [FINALIZADO] | LIGA DE NACIONES | Israel vs Kosovo",
+          "name": "10:00 | [PRONTO] | LIGA DE NACIONES DE LA UEFA | Kazajistán vs Moldavia",
+          "image": "",
+          "url": "https://streamxhd.com/live1.php?stream=espn2",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "12:00 | [PRONTO] | LIGA DE NACIONES DE LA UEFA | Chipre vs Armenia",
           "image": "",
           "url": "https://streamxhd.com/live1.php?stream=disney5",
           "isHost": "true",
@@ -208,31 +128,23 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "13:45 | [FINALIZADO] | LIGA DE NACIONES | Dinamarca vs Portugal",
-          "image": "https://i.postimg.cc/MG0sps1h/primeira-liga.png",
+          "name": "12:00 | [PRONTO] | LIGA DE NACIONES DE LA UEFA | Letonia vs Montenegro",
+          "image": "",
           "url": "https://streamxhd.com/live1.php?stream=disney6",
           "isHost": "true",
           "referer": "https://streamxhd.com",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "13:45 | [FINALIZADO] | LIGA DE NACIONES | Dinamarca vs Portugal",
-          "image": "https://i.postimg.cc/MG0sps1h/primeira-liga.png",
-          "url": "https://streamxhd.com/live1.php?stream=vix1",
+          "name": "14:30 | [PRONTO] | LALIGA SMARTBANK | Eldense vs Real Oviedo",
+          "image": "https://i.postimg.cc/g2TS7XmQ/La-Liga.png",
+          "url": "https://streamxhd.com/live1.php?stream=laligahypermotion",
           "isHost": "true",
           "referer": "https://streamxhd.com",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "13:45 | [FINALIZADO] | LIGA DE NACIONES | Dinamarca vs Portugal",
-          "image": "https://i.postimg.cc/MG0sps1h/primeira-liga.png",
-          "url": "https://streamxhd.com/live1.php?stream=espnar",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "13:45 | [FINALIZADO] | LIGA DE NACIONES | Alemania vs Serbia",
+          "name": "14:45 | [PRONTO] | LIGA DE NACIONES DE LA UEFA | Islas Feroe vs Eslovaquia",
           "image": "",
           "url": "https://streamxhd.com/live1.php?stream=disney7",
           "isHost": "true",
@@ -240,31 +152,31 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "13:45 | [FINALIZADO] | LIGA DE NACIONES | Grecia vs Países Bajos",
-          "image": "https://i.postimg.cc/Wbdp4z1D/Erediviese.jpg",
+          "name": "14:45 | [PRONTO] | LIGA DE NACIONES DE LA UEFA | Francia vs Italia",
+          "image": "",
           "url": "https://streamxhd.com/live1.php?stream=disney8",
           "isHost": "true",
           "referer": "https://streamxhd.com",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "13:45 | [FINALIZADO] | LIGA DE NACIONES | Grecia vs Países Bajos",
-          "image": "https://i.postimg.cc/Wbdp4z1D/Erediviese.jpg",
-          "url": "https://streamxhd.com/live1.php?stream=espn2ar",
+          "name": "14:45 | [PRONTO] | LIGA DE NACIONES DE LA UEFA | Francia vs Italia",
+          "image": "",
+          "url": "https://streamxhd.com/live1.php?stream=espnar",
           "isHost": "true",
           "referer": "https://streamxhd.com",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "13:45 | [FINALIZADO] | LIGA DE NACIONES | Gales vs Noruega",
-          "image": "",
+          "name": "14:45 | [PRONTO] | LIGA DE NACIONES DE LA UEFA | Bélgica vs Turquía",
+          "image": "https://i.postimg.cc/FRz8xfqD/Liga-Turca.jpg",
           "url": "https://streamxhd.com/live1.php?stream=disney9",
           "isHost": "true",
           "referer": "https://streamxhd.com",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "13:45 | [FINALIZADO] | LIGA DE NACIONES | República de Irlanda vs Austria",
+          "name": "14:45 | [PRONTO] | LIGA DE NACIONES DE LA UEFA | Ucrania vs Irlanda del Norte",
           "image": "",
           "url": "https://streamxhd.com/live1.php?stream=disney10",
           "isHost": "true",
@@ -272,7 +184,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "14:00 | [FINALIZADO] | UEFA CHAMPIONS LEAGUE FEMENINA | PSG vs OH Leuven",
+          "name": "14:45 | [PRONTO] | LIGA DE NACIONES DE LA UEFA | Polonia vs Rumania",
           "image": "",
           "url": "https://streamxhd.com/live1.php?stream=disney11",
           "isHost": "true",
@@ -280,7 +192,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "14:00 | [FINALIZADO] | UEFA CHAMPIONS LEAGUE FEMENINA | Manchester City vs Real Madrid",
+          "name": "14:45 | [PRONTO] | LIGA DE NACIONES DE LA UEFA | Hungría vs Georgia",
           "image": "",
           "url": "https://streamxhd.com/live1.php?stream=disney12",
           "isHost": "true",
@@ -288,25 +200,89 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "16:00 | [FINALIZADO] | LIGA DE NACIONES CONCACAF | Dominica vs Guyana",
-          "image": "",
-          "url": "https://streamxhd.com/live1.php?stream=vix2",
+          "name": "18:15 | [PRONTO] | LIGA PROFESIONAL | Independiente vs Instituto",
+          "image": "https://i.postimg.cc/pr4HjQLB/Liga-Argentina.png",
+          "url": "https://streamxhd.com/live1.php?stream=espnpremium",
           "isHost": "true",
           "referer": "https://streamxhd.com",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "17:00 | [FINALIZADO] | COPA PARAGUAY | Olimpia vs Sportivo Luqueño",
-          "image": "",
-          "url": "https://streamxhd.com/live1.php?stream=tigo1",
+          "name": "19:00 | [PRONTO] | BRASILEIRÃO | São Paulo vs Santos",
+          "image": "https://i.postimg.cc/tJkDN7BV/Premier-League.png",
+          "url": "https://streamxhd.com/live1.php?stream=premiere1",
           "isHost": "true",
           "referer": "https://streamxhd.com",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "17:00 | [FINALIZADO] | LIGA DE NACIONES CONCACAF | Curazao vs Trinidad y Tobago",
-          "image": "",
-          "url": "https://streamxhd.com/live1.php?stream=vix3",
+          "name": "19:00 | [PRONTO] | BRASILEIRÃO | São Paulo vs Santos",
+          "image": "https://i.postimg.cc/tJkDN7BV/Premier-League.png",
+          "url": "https://streamxhd.com/live1.php?stream=sporttvbr1",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "19:00 | [PRONTO] | PRIMERA DIVISIÓN DE CHILE | Univ. Concepción vs Huachipato",
+          "image": "https://i.postimg.cc/mk0vkbm3/Liga-Chile.jpg",
+          "url": "https://streamxhd.com/live1.php?stream=tntsportschile",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "20:00 | [PRONTO] | AMISTOSO INTERNACIONAL | Colombia vs Paraguay",
+          "image": "https://i.postimg.cc/59BDhCPY/Liga-Colombiana.png",
+          "url": "https://streamxhd.com/live1.php?stream=tycsports",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "20:30 | [PRONTO] | LIGA PROFESIONAL | Boca Juniors vs Unión Santa Fe",
+          "image": "https://i.postimg.cc/pr4HjQLB/Liga-Argentina.png",
+          "url": "https://streamxhd.com/live1.php?stream=espn5",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "20:30 | [PRONTO] | LIGA PROFESIONAL | Independiente Rivadavia vs Gimnasia La Plata",
+          "image": "https://i.postimg.cc/pr4HjQLB/Liga-Argentina.png",
+          "url": "https://streamxhd.com/live1.php?stream=tntsports",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "20:45 | [PRONTO] | LIGA COLOMBIA | Deportivo Cali vs Alianza",
+          "image": "https://i.postimg.cc/59BDhCPY/Liga-Colombiana.png",
+          "url": "https://streamxhd.com/live1.php?stream=winplus",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "21:45 | [PRONTO] | MotoGP | GP Japón - Clasificación",
+          "image": "https://i.postimg.cc/CMG2KxsH/Moto-gp.png",
+          "url": "https://streamxhd.com/live1.php?stream=espn3",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "00:30 | [PRONTO] | F1 | GP Bahréin - Práctica #3 - On Board Antonelli",
+          "image": "https://i.postimg.cc/MTRFV6kF/F1.png",
+          "url": "https://streamxhd.com/live1.php?stream=disney17",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "00:30 | [PRONTO] | F1 | GP Bahréin - Práctica #3 - On Board Colapinto",
+          "image": "https://i.postimg.cc/MTRFV6kF/F1.png",
+          "url": "https://streamxhd.com/live1.php?stream=disney18",
           "isHost": "true",
           "referer": "https://streamxhd.com",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
