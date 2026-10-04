@@ -4,140 +4,12 @@
   "image": "",
   "groups": [
     {
-      "name": "Agenda - Sábado, 03 De Octubre De 2026",
+      "name": "Agenda - Domingo, 04 De Octubre De 2026",
       "image": "",
       "stations": [
         {
-          "name": "15:30 | [EN VIVO] | MLB | New York Yankees vs Tampa Bay Rays",
-          "image": "https://i.postimg.cc/SsCTWBXL/MLB.png",
-          "url": "https://streamxhd.com/live1.php?stream=espn4",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "16:00 | [EN VIVO] | NBA PRETEMPORADA | Toronto Raptors vs Miami Heat",
-          "image": "https://i.postimg.cc/52NTTWv9/NBA.png",
-          "url": "https://streamxhd.com/live1.php?stream=espn2",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "16:00 | [EN VIVO] | NBA PRETEMPORADA | Toronto Raptors vs Miami Heat",
-          "image": "https://i.postimg.cc/52NTTWv9/NBA.png",
-          "url": "https://streamxhd.com/live1.php?stream=nba1",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "16:10 | [EN VIVO] | COPA COLOMBIA | Barranquilla vs Millonarios",
-          "image": "https://i.postimg.cc/59BDhCPY/Liga-Colombiana.png",
-          "url": "https://streamxhd.com/live1.php?stream=winplus",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "17:00 | [EN VIVO] | AMISTOSO INTERNACIONAL | Argentina vs Burkina Faso",
-          "image": "https://i.postimg.cc/pr4HjQLB/Liga-Argentina.png",
-          "url": "https://streamxhd.com/live1.php?stream=tycsports",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "17:00 | [EN VIVO] | AMISTOSO INTERNACIONAL | Argentina vs Burkina Faso",
-          "image": "https://i.postimg.cc/pr4HjQLB/Liga-Argentina.png",
-          "url": "https://streamxhd.com/live1.php?stream=vix1",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "17:00 | [EN VIVO] | UFC | Natália Silva vs Wang Cong",
-          "image": "https://i.postimg.cc/QN12WbhH/UFC.png",
-          "url": "https://streamxhd.com/live1.php?stream=paramount1",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "17:00 | [EN VIVO] | UFC | Natália Silva vs Wang Cong",
-          "image": "https://i.postimg.cc/QN12WbhH/UFC.png",
-          "url": "https://streamxhd.com/live1.php?stream=paramount2",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "17:00 | [EN VIVO] | UFC | Natália Silva vs Wang Cong",
-          "image": "https://i.postimg.cc/QN12WbhH/UFC.png",
-          "url": "https://streamxhd.com/live1.php?stream=paramount3",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "17:10 | [EN VIVO] | AMISTOSO INTERNACIONAL | Monterrey vs Toluca",
-          "image": "",
-          "url": "https://streamxhd.com/live1.php?stream=vix2",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "18:30 | [PRONTO] | GP Japón - Carrera Moto3/Moto2/MotoGP",
-          "image": "https://i.postimg.cc/CMG2KxsH/Moto-gp.png",
-          "url": "https://streamxhd.com/live1.php?stream=espn3",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "19:00 | [PRONTO] | AMISTOSO INTERNACIONAL | EE. UU. vs México",
-          "image": "",
-          "url": "https://streamxhd.com/live1.php?stream=disney19",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "19:00 | [PRONTO] | AMISTOSO INTERNACIONAL | EE. UU. vs México",
-          "image": "",
-          "url": "https://streamxhd.com/live1.php?stream=espn2ar",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "19:00 | [PRONTO] | AMISTOSO INTERNACIONAL | EE. UU. vs México",
-          "image": "",
-          "url": "https://streamxhd.com/live1.php?stream=canal5mx",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "19:00 | [PRONTO] | AMISTOSO INTERNACIONAL | EE. UU. vs México",
-          "image": "",
-          "url": "https://streamxhd.com/live1.php?stream=azteca7",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "19:00 | [PRONTO] | AMISTOSO INTERNACIONAL | EE. UU. vs México",
-          "image": "",
-          "url": "https://streamxhd.com/live1.php?stream=amazon1",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "19:00 | [PRONTO] | ESPN Knockout | José Russell vs René Calixto",
-          "image": "https://i.postimg.cc/QN12WbhH/UFC.png",
+          "name": "00:00 | [PRONTO] | F1 | GP Bahréin - Carrera",
+          "image": "https://i.postimg.cc/MTRFV6kF/F1.png",
           "url": "https://streamxhd.com/live1.php?stream=espn",
           "isHost": "true",
           "referer": "https://streamxhd.com",
@@ -208,9 +80,25 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
+          "name": "06:00 | [PRONTO] | Liga de Naciones de la UEFA | Azerbaiyán vs Lituania",
+          "image": "",
+          "url": "https://streamxhd.com/live1.php?stream=espn2",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
           "name": "06:00 | [PRONTO] | PRIMERA DIVISIÓN | Danubio vs Cerro Largo",
           "image": "",
           "url": "https://streamxhd.com/live1.php?stream=disney7",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "06:30 | [PRONTO] | NFL | Washington Commanders vs Indianapolis Colts",
+          "image": "https://i.postimg.cc/QN12WbhH/UFC.png",
+          "url": "https://streamxhd.com/live1.php?stream=espn4",
           "isHost": "true",
           "referer": "https://streamxhd.com",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
@@ -272,6 +160,14 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
+          "name": "11:30 | [PRONTO] | COPA CHILE | O'Higgins vs Deportes Concepción",
+          "image": "https://i.postimg.cc/mk0vkbm3/Liga-Chile.jpg",
+          "url": "https://streamxhd.com/live1.php?stream=tntsportschile",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
           "name": "11:45 | [PRONTO] | LIGA DE NACIONES DE LA UEFA | República de Irlanda vs Israel",
           "image": "",
           "url": "https://streamxhd.com/live1.php?stream=disney12",
@@ -304,9 +200,25 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
+          "name": "11:45 | [PRONTO] | LIGA DE NACIONES DE LA UEFA | Portugal vs Noruega",
+          "image": "https://i.postimg.cc/MG0sps1h/primeira-liga.png",
+          "url": "https://streamxhd.com/live1.php?stream=vix1",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
           "name": "11:45 | [PRONTO] | LIGA DE NACIONES DE LA UEFA | Gales vs Dinamarca",
           "image": "",
           "url": "https://streamxhd.com/live1.php?stream=disney16",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "12:00 | [PRONTO] | LIGA COLOMBIA | Deportivo Pasto vs Fortaleza CEIF",
+          "image": "https://i.postimg.cc/59BDhCPY/Liga-Colombiana.png",
+          "url": "https://streamxhd.com/live1.php?stream=winplus",
           "isHost": "true",
           "referer": "https://streamxhd.com",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
@@ -336,9 +248,41 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
+          "name": "13:00 | [PRONTO] | LIGA PROFESIONAL | Talleres Córdoba vs Belgrano",
+          "image": "https://i.postimg.cc/pr4HjQLB/Liga-Argentina.png",
+          "url": "https://streamxhd.com/live1.php?stream=vix2",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
           "name": "14:00 | [PRONTO] | LIGA MX FEMENIL | Chivas Guadalajara vs FC Juárez",
           "image": "https://i.postimg.cc/sgRFRgQv/Liga-MX.jpg",
           "url": "https://streamxhd.com/live1.php?stream=foxone4",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "14:05 | [PRONTO] | LIGA COLOMBIA | Cúcuta Deportivo vs Deportivo Pereira",
+          "image": "https://i.postimg.cc/59BDhCPY/Liga-Colombiana.png",
+          "url": "https://streamxhd.com/live1.php?stream=winsports",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "15:30 | [PRONTO] | PRIMERA DIVISIÓN | Racing vs Peñarol",
+          "image": "",
+          "url": "https://streamxhd.com/live1.php?stream=disney19",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "16:00 | [PRONTO] | NBA PRETEMPORADA | Jazz vs Nuggets",
+          "image": "https://i.postimg.cc/52NTTWv9/NBA.png",
+          "url": "https://streamxhd.com/live1.php?stream=nba1",
           "isHost": "true",
           "referer": "https://streamxhd.com",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
@@ -352,9 +296,89 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
+          "name": "18:00 | [PRONTO] | AMISTOSO INTERNACIONAL | Guadalajara vs América",
+          "image": "",
+          "url": "https://streamxhd.com/live1.php?stream=telemundo",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
           "name": "19:00 | [PRONTO] | LIGA DE NACIONES DE LA CONCACAF | Nicaragua vs República Dominicana",
           "image": "",
           "url": "https://streamxhd.com/live1.php?stream=vix3",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "17:00 | [FINALIZADO] | AMISTOSO INTERNACIONAL | Argentina vs Burkina Faso",
+          "image": "https://i.postimg.cc/pr4HjQLB/Liga-Argentina.png",
+          "url": "https://streamxhd.com/live1.php?stream=tycsports",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "17:00 | [FINALIZADO] | UFC | Natália Silva vs Wang Cong",
+          "image": "https://i.postimg.cc/QN12WbhH/UFC.png",
+          "url": "https://streamxhd.com/live1.php?stream=paramount1",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "17:00 | [FINALIZADO] | UFC | Natália Silva vs Wang Cong",
+          "image": "https://i.postimg.cc/QN12WbhH/UFC.png",
+          "url": "https://streamxhd.com/live1.php?stream=paramount2",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "17:00 | [FINALIZADO] | UFC | Natália Silva vs Wang Cong",
+          "image": "https://i.postimg.cc/QN12WbhH/UFC.png",
+          "url": "https://streamxhd.com/live1.php?stream=paramount3",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "18:30 | [FINALIZADO] | GP Japón - Carrera Moto3/Moto2/MotoGP",
+          "image": "https://i.postimg.cc/CMG2KxsH/Moto-gp.png",
+          "url": "https://streamxhd.com/live1.php?stream=espn3",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "19:00 | [FINALIZADO] | AMISTOSO INTERNACIONAL | EE. UU. vs México",
+          "image": "",
+          "url": "https://streamxhd.com/live1.php?stream=espn2ar",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "19:00 | [FINALIZADO] | AMISTOSO INTERNACIONAL | EE. UU. vs México",
+          "image": "",
+          "url": "https://streamxhd.com/live1.php?stream=canal5mx",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "19:00 | [FINALIZADO] | AMISTOSO INTERNACIONAL | EE. UU. vs México",
+          "image": "",
+          "url": "https://streamxhd.com/live1.php?stream=azteca7",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "19:00 | [FINALIZADO] | AMISTOSO INTERNACIONAL | EE. UU. vs México",
+          "image": "",
+          "url": "https://streamxhd.com/live1.php?stream=amazon1",
           "isHost": "true",
           "referer": "https://streamxhd.com",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
