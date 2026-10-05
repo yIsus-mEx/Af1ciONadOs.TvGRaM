@@ -8,23 +8,7 @@
       "image": "",
       "stations": [
         {
-          "name": "14:45 | [EN VIVO] | LIGA PROFESIONAL | Deportivo Riestra vs Central Córdoba SdE",
-          "image": "https://i.postimg.cc/pr4HjQLB/Liga-Argentina.png",
-          "url": "https://streamxhd.com/live1.php?stream=tntsports",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "15:00 | [EN VIVO] | LIGA PARAGUAY | Sportivo Trinidense vs Sportivo Luqueño",
-          "image": "",
-          "url": "https://streamxhd.com/live1.php?stream=tigo1",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "16:00 | [PRONTO] | LIGA DE NACIONES DE LA CONCACAF | Cuba vs San Cristóbal y Nieves",
+          "name": "16:00 | [EN VIVO] | LIGA DE NACIONES DE LA CONCACAF | Cuba vs San Cristóbal y Nieves",
           "image": "",
           "url": "https://streamxhd.com/live1.php?stream=vix1",
           "isHost": "true",
@@ -32,7 +16,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "16:00 | [PRONTO] | MLB | Chicago White Sox vs Cleveland Guardians",
+          "name": "16:00 | [EN VIVO] | MLB | Chicago White Sox vs Cleveland Guardians",
           "image": "https://i.postimg.cc/SsCTWBXL/MLB.png",
           "url": "https://streamxhd.com/live1.php?stream=espn3",
           "isHost": "true",
@@ -40,7 +24,15 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "17:00 | [PRONTO] | LIGA PROFESIONAL | Estudiantes vs Gimnasia Mendoza",
+          "name": "17:00 | [EN VIVO] | LIGA PROFESIONAL | Vélez Sarsfield vs Platense",
+          "image": "https://i.postimg.cc/pr4HjQLB/Liga-Argentina.png",
+          "url": "https://streamxhd.com/live1.php?stream=tntsports",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "17:00 | [EN VIVO] | LIGA PROFESIONAL | Estudiantes vs Gimnasia Mendoza",
           "image": "https://i.postimg.cc/pr4HjQLB/Liga-Argentina.png",
           "url": "https://streamxhd.com/live1.php?stream=espnpremiun",
           "isHost": "true",
@@ -48,7 +40,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "17:00 | [PRONTO] | LIGA PROFESIONAL | Estudiantes vs Gimnasia Mendoza",
+          "name": "17:00 | [EN VIVO] | LIGA PROFESIONAL | Estudiantes vs Gimnasia Mendoza",
           "image": "https://i.postimg.cc/pr4HjQLB/Liga-Argentina.png",
           "url": "https://streamxhd.com/live1.php?stream=disney9",
           "isHost": "true",
@@ -56,7 +48,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "17:00 | [PRONTO] | LIGA DE NACIONES DE LA CONCACAF | Martinica vs El Salvador",
+          "name": "17:00 | [EN VIVO] | LIGA DE NACIONES DE LA CONCACAF | Martinica vs El Salvador",
           "image": "",
           "url": "https://streamxhd.com/live1.php?stream=vix2",
           "isHost": "true",
@@ -219,6 +211,14 @@
           "name": "13:45 | [FINALIZADO] | LIGA DE NACIONES DE LA UEFA | Bosnia-Herzegovina vs Polonia",
           "image": "",
           "url": "https://streamxhd.com/live1.php?stream=disney8",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "15:00 | [FINALIZADO] | LIGA PARAGUAY | Sportivo Trinidense vs Sportivo Luqueño",
+          "image": "",
+          "url": "https://streamxhd.com/live1.php?stream=tigo1",
           "isHost": "true",
           "referer": "https://streamxhd.com",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
