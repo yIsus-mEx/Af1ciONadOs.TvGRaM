@@ -8,31 +8,7 @@
       "image": "",
       "stations": [
         {
-          "name": "10:00 | [PRONTO] | AMISTOSO INTERNACIONAL | India vs Uruguay",
-          "image": "https://i.postimg.cc/Rq5Y9gF5/Liga-Uruguay.png",
-          "url": "https://streamxhd.com/live1.php?stream=evento1",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "10:00 | [PRONTO] | LIGA DE NACIONES DE LA UEFA | Kazajistán vs Islas Feroe",
-          "image": "",
-          "url": "https://streamxhd.com/live1.php?stream=disney1",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "10:00 | [PRONTO] | LIGA DE NACIONES DE LA UEFA | Kazajistán vs Islas Feroe",
-          "image": "",
-          "url": "https://streamxhd.com/live1.php?stream=espn2",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "13:00 | [PRONTO] | AMISTOSO INTERNACIONAL | Jordania vs Venezuela",
+          "name": "13:00 | [EN VIVO] | AMISTOSO INTERNACIONAL | Jordania vs Venezuela",
           "image": "",
           "url": "https://streamxhd.com/live1.php?stream=evento2",
           "isHost": "true",
@@ -40,7 +16,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "14:45 | [PRONTO] | LIGA DE NACIONES DE LA UEFA | Luxemburgo vs Bulgaria",
+          "name": "14:45 | [EN VIVO] | LIGA DE NACIONES DE LA UEFA | Luxemburgo vs Bulgaria",
           "image": "",
           "url": "https://streamxhd.com/live1.php?stream=disney2",
           "isHost": "true",
@@ -48,7 +24,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "14:45 | [PRONTO] | LIGA DE NACIONES DE LA UEFA | Suiza vs Macedonia del Norte",
+          "name": "14:45 | [EN VIVO] | LIGA DE NACIONES DE LA UEFA | Suiza vs Macedonia del Norte",
           "image": "",
           "url": "https://streamxhd.com/live1.php?stream=disney3",
           "isHost": "true",
@@ -56,7 +32,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "14:45 | [PRONTO] | LIGA DE NACIONES DE LA UEFA | Escocia vs Eslovenia",
+          "name": "14:45 | [EN VIVO] | LIGA DE NACIONES DE LA UEFA | Escocia vs Eslovenia",
           "image": "",
           "url": "https://streamxhd.com/live1.php?stream=disney4",
           "isHost": "true",
@@ -64,7 +40,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "14:45 | [PRONTO] | LIGA DE NACIONES DE LA UEFA | Inglaterra vs República Checa",
+          "name": "14:45 | [EN VIVO] | LIGA DE NACIONES DE LA UEFA | Inglaterra vs República Checa",
           "image": "",
           "url": "https://streamxhd.com/live1.php?stream=disney5",
           "isHost": "true",
@@ -72,7 +48,15 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "14:45 | [PRONTO] | LIGA DE NACIONES DE LA UEFA | Albania vs San Marino",
+          "name": "14:45 | [EN VIVO] | LIGA DE NACIONES DE LA UEFA | Inglaterra vs República Checa",
+          "image": "",
+          "url": "https://streamxhd.com/live1.php?stream=espn2",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "14:45 | [EN VIVO] | LIGA DE NACIONES DE LA UEFA | Albania vs San Marino",
           "image": "",
           "url": "https://streamxhd.com/live1.php?stream=disney6",
           "isHost": "true",
@@ -80,7 +64,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "14:45 | [PRONTO] | LIGA DE NACIONES DE LA UEFA | Bielorrusia vs Finlandia",
+          "name": "14:45 | [EN VIVO] | LIGA DE NACIONES DE LA UEFA | Bielorrusia vs Finlandia",
           "image": "",
           "url": "https://streamxhd.com/live1.php?stream=disney7",
           "isHost": "true",
@@ -88,7 +72,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "14:45 | [PRONTO] | LIGA DE NACIONES DE LA UEFA | Estonia vs Islandia",
+          "name": "14:45 | [EN VIVO] | LIGA DE NACIONES DE LA UEFA | Estonia vs Islandia",
           "image": "",
           "url": "https://streamxhd.com/live1.php?stream=disney8",
           "isHost": "true",
@@ -96,7 +80,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "14:45 | [PRONTO] | LIGA DE NACIONES DE LA UEFA | Moldavia vs Eslovaquia",
+          "name": "14:45 | [EN VIVO] | LIGA DE NACIONES DE LA UEFA | Moldavia vs Eslovaquia",
           "image": "",
           "url": "https://streamxhd.com/live1.php?stream=disney9",
           "isHost": "true",
@@ -104,7 +88,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "14:45 | [PRONTO] | LIGA DE NACIONES DE LA UEFA | Croacia vs España",
+          "name": "14:45 | [EN VIVO] | LIGA DE NACIONES DE LA UEFA | Croacia vs España",
           "image": "",
           "url": "https://streamxhd.com/live1.php?stream=disney10",
           "isHost": "true",
@@ -112,7 +96,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "14:45 | [PRONTO] | LIGA DE NACIONES DE LA UEFA | Croacia vs España",
+          "name": "14:45 | [EN VIVO] | LIGA DE NACIONES DE LA UEFA | Croacia vs España",
           "image": "",
           "url": "https://streamxhd.com/live1.php?stream=espn",
           "isHost": "true",
@@ -120,9 +104,17 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "14:45 | [PRONTO] | LIGA DE NACIONES DE LA UEFA | Croacia vs España",
+          "name": "14:45 | [EN VIVO] | LIGA DE NACIONES DE LA UEFA | Croacia vs España",
           "image": "",
           "url": "https://streamxhd.com/live1.php?stream=vix1",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "16:00 | [PRONTO] | COPA DE LA LIGA | Alianza Atlético vs Sport Boys A.",
+          "image": "https://i.postimg.cc/g2TS7XmQ/La-Liga.png",
+          "url": "https://streamxhd.com/live1.php?stream=evento1",
           "isHost": "true",
           "referer": "https://streamxhd.com",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
@@ -259,6 +251,14 @@
           "name": "22:30 | [PRONTO] | AMISTOSO INTERNACIONAL | México vs Chile",
           "image": "https://i.postimg.cc/mk0vkbm3/Liga-Chile.jpg",
           "url": "https://streamxhd.com/live1.php?stream=azteca7",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "10:00 | [FINALIZADO] | LIGA DE NACIONES DE LA UEFA | Kazajistán vs Islas Feroe",
+          "image": "",
+          "url": "https://streamxhd.com/live1.php?stream=disney1",
           "isHost": "true",
           "referer": "https://streamxhd.com",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
