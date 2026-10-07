@@ -8,15 +8,7 @@
       "image": "",
       "stations": [
         {
-          "name": "22:15 | [EN VIVO] | PRIMERA DIVISIÓN DE PARAGUAY | Olimpia vs Nacional Asunción",
-          "image": "",
-          "url": "https://streamxhd.com/live1.php?stream=tigo1",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "23:00 | [PRONTO] | AMISTOSO INTERNACIONAL | Argentina vs Benín",
+          "name": "18:00 | [EN VIVO] | AMISTOSO INTERNACIONAL | Argentina vs Benín",
           "image": "https://i.postimg.cc/pr4HjQLB/Liga-Argentina.png",
           "url": "https://streamxhd.click/channel/?id=dsports",
           "isHost": "true",
@@ -24,7 +16,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "23:00 | [PRONTO] | AMISTOSO INTERNACIONAL | Argentina vs Benín",
+          "name": "18:00 | [EN VIVO] | AMISTOSO INTERNACIONAL | Argentina vs Benín",
           "image": "https://i.postimg.cc/pr4HjQLB/Liga-Argentina.png",
           "url": "https://streamxhd.com/live1.php?stream=dsports",
           "isHost": "true",
@@ -32,7 +24,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "23:00 | [PRONTO] | AMISTOSO INTERNACIONAL | Argentina vs Benín",
+          "name": "18:00 | [EN VIVO] | AMISTOSO INTERNACIONAL | Argentina vs Benín",
           "image": "https://i.postimg.cc/pr4HjQLB/Liga-Argentina.png",
           "url": "https://streamxhd.com/live1.php?stream=tycsports",
           "isHost": "true",
@@ -40,7 +32,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "23:00 | [PRONTO] | AMISTOSO INTERNACIONAL | Argentina vs Benín",
+          "name": "18:00 | [EN VIVO] | AMISTOSO INTERNACIONAL | Argentina vs Benín",
           "image": "https://i.postimg.cc/pr4HjQLB/Liga-Argentina.png",
           "url": "https://streamxhd.com/live1.php?stream=vix2",
           "isHost": "true",
@@ -48,7 +40,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "23:00 | [PRONTO] | NBA PRETEMPORADA | Brooklyn Nets vs Charlotte Hornets",
+          "name": "18:00 | [EN VIVO] | NBA PRETEMPORADA | Brooklyn Nets vs Charlotte Hornets",
           "image": "https://i.postimg.cc/52NTTWv9/NBA.png",
           "url": "https://streamxhd.com/live1.php?stream=nba1",
           "isHost": "true",
@@ -56,7 +48,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "23:30 | [PRONTO] | COPA CHILE | Colo-Colo vs Puerto Montt",
+          "name": "18:30 | [EN VIVO] | COPA CHILE | Colo-Colo vs Puerto Montt",
           "image": "https://i.postimg.cc/mk0vkbm3/Liga-Chile.jpg",
           "url": "https://streamxhd.com/live1.php?stream=tntsportschile",
           "isHost": "true",
@@ -64,7 +56,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "23:45 | [PRONTO] | AMISTOSO INTERNACIONAL | Colombia vs Perú",
+          "name": "18:45 | [EN VIVO] | AMISTOSO INTERNACIONAL | Colombia vs Perú",
           "image": "https://i.postimg.cc/59BDhCPY/Liga-Colombiana.png",
           "url": "https://streamxhd.com/live1.php?stream=americatv",
           "isHost": "true",
@@ -72,7 +64,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "00:00 | [PRONTO] | AMISTOSO INTERNACIONAL | Estados Unidos vs Canadá",
+          "name": "19:00 | [EN VIVO] | AMISTOSO INTERNACIONAL | Estados Unidos vs Canadá",
           "image": "",
           "url": "https://streamxhd.com/live1.php?stream=disney11",
           "isHost": "true",
@@ -80,7 +72,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "00:00 | [PRONTO] | AMISTOSO INTERNACIONAL | Estados Unidos vs Canadá",
+          "name": "19:00 | [EN VIVO] | AMISTOSO INTERNACIONAL | Estados Unidos vs Canadá",
           "image": "",
           "url": "https://streamxhd.com/live1.php?stream=universo",
           "isHost": "true",
@@ -88,7 +80,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "00:00 | [PRONTO] | NBA PRETEMPORADA | New Orleans Pelicans vs Oklahoma City Thunder",
+          "name": "19:00 | [EN VIVO] | NBA PRETEMPORADA | New Orleans Pelicans vs Oklahoma City Thunder",
           "image": "https://i.postimg.cc/52NTTWv9/NBA.png",
           "url": "https://streamxhd.com/live1.php?stream=nba2",
           "isHost": "true",
@@ -96,7 +88,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "00:00 | [PRONTO] | NHL | New York Rangers vs New York Islanders",
+          "name": "19:00 | [EN VIVO] | NHL | New York Rangers vs New York Islanders",
           "image": "",
           "url": "https://streamxhd.com/live1.php?stream=espn3",
           "isHost": "true",
@@ -104,7 +96,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "00:30 | [PRONTO] | MLS | Chicago Fire vs Vancouver Whitecaps FC",
+          "name": "19:30 | [EN VIVO] | MLS | Chicago Fire vs Vancouver Whitecaps FC",
           "image": "https://i.postimg.cc/BQwBSrkS/MLS.png",
           "url": "https://streamxhd.com/live1.php?stream=appletv1",
           "isHost": "true",
@@ -112,7 +104,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "01:00 | [PRONTO] | NBA PRETEMPORADA | Denver Nuggets vs Utah Jazz",
+          "name": "20:00 | [EN VIVO] | NBA PRETEMPORADA | Denver Nuggets vs Utah Jazz",
           "image": "https://i.postimg.cc/52NTTWv9/NBA.png",
           "url": "https://streamxhd.com/live1.php?stream=nba3",
           "isHost": "true",
@@ -120,7 +112,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "02:00 | [PRONTO] | NBA PRETEMPORADA | Los Angeles Lakers vs Golden State Warriors",
+          "name": "21:00 | [PRONTO] | NBA PRETEMPORADA | Los Angeles Lakers vs Golden State Warriors",
           "image": "https://i.postimg.cc/52NTTWv9/NBA.png",
           "url": "https://streamxhd.com/live1.php?stream=nba4",
           "isHost": "true",
@@ -128,7 +120,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "02:30 | [PRONTO] | AMISTOSO INTERNACIONAL | México vs Chile",
+          "name": "21:30 | [PRONTO] | AMISTOSO INTERNACIONAL | México vs Chile",
           "image": "https://i.postimg.cc/mk0vkbm3/Liga-Chile.jpg",
           "url": "https://streamxhd.com/live1.php?stream=canal5mx",
           "isHost": "true",
@@ -136,7 +128,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "02:30 | [PRONTO] | AMISTOSO INTERNACIONAL | México vs Chile",
+          "name": "21:30 | [PRONTO] | AMISTOSO INTERNACIONAL | México vs Chile",
           "image": "https://i.postimg.cc/mk0vkbm3/Liga-Chile.jpg",
           "url": "https://streamxhd.com/live1.php?stream=azteca7",
           "isHost": "true",
@@ -144,9 +136,81 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "20:00 | [FINALIZADO] | COPA DE LA LIGA | Alianza Atlético vs Sport Boys A.",
-          "image": "https://i.postimg.cc/g2TS7XmQ/La-Liga.png",
-          "url": "https://streamxhd.com/live1.php?stream=evento1",
+          "name": "17:00 | [PRONTO] | COPA CHILE | Antofagasta vs Universidad de Chile",
+          "image": "https://i.postimg.cc/mk0vkbm3/Liga-Chile.jpg",
+          "url": "https://streamxhd.com/live1.php?stream=max1",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "17:30 | [PRONTO] | BRASILEIRÃO | RB Bragantino vs Mirassol",
+          "image": "https://i.postimg.cc/tJkDN7BV/Premier-League.png",
+          "url": "https://streamxhd.com/live1.php?stream=premiere5",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "17:30 | [PRONTO] | BRASILEIRÃO | Internacional vs Corinthians",
+          "image": "https://i.postimg.cc/tJkDN7BV/Premier-League.png",
+          "url": "https://streamxhd.com/live1.php?stream=premiere2",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "17:30 | [PRONTO] | BRASILEIRÃO | Remo vs Grêmio",
+          "image": "https://i.postimg.cc/tJkDN7BV/Premier-League.png",
+          "url": "https://streamxhd.com/live1.php?stream=premiere4",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "18:00 | [PRONTO] | BRASILEIRÃO | Vitória vs Chapecoense",
+          "image": "https://i.postimg.cc/tJkDN7BV/Premier-League.png",
+          "url": "https://streamxhd.com/live1.php?stream=premiere3",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "18:30 | [PRONTO] | BRASILEIRÃO | Botafogo vs Vasco da Gama",
+          "image": "https://i.postimg.cc/0NPq7y9x/Liga-Brasil.png",
+          "url": "https://streamxhd.com/live1.php?stream=evento4",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "19:30 | [PRONTO] | BRASILEIRÃO | Cruzeiro vs Sao Paulo",
+          "image": "https://i.postimg.cc/tJkDN7BV/Premier-League.png",
+          "url": "https://streamxhd.com/live1.php?stream=l1max",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "19:30 | [PRONTO] | BRASILEIRÃO | Cruzeiro vs Sao Paulo",
+          "image": "https://i.postimg.cc/tJkDN7BV/Premier-League.png",
+          "url": "https://streamxhd.com/live1.php?stream=premiere1",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "20:20 | [PRONTO] | LIGA COLOMBIA | Atlético Nacional vs Deportes Tolima",
+          "image": "https://i.postimg.cc/59BDhCPY/Liga-Colombiana.png",
+          "url": "https://streamxhd.com/live1.php?stream=winplus",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "21:00 | [PRONTO] | NBA PRETEMPORADA | Golden State Warriors vs Portland Trail Blazers",
+          "image": "https://i.postimg.cc/52NTTWv9/NBA.png",
+          "url": "https://streamxhd.com/live1.php?stream=nba5",
           "isHost": "true",
           "referer": "https://streamxhd.com",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
