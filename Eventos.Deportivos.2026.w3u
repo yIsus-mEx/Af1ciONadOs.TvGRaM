@@ -8,47 +8,7 @@
       "image": "",
       "stations": [
         {
-          "name": "03:30 | [PRONTO] | F1 | GP Singapur - Practica 1",
-          "image": "https://i.postimg.cc/MTRFV6kF/F1.png",
-          "url": "https://streamxhd.com/live1.php?stream=disney1",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "03:30 | [PRONTO] | F1 | GP Singapur - Practica 1",
-          "image": "https://i.postimg.cc/MTRFV6kF/F1.png",
-          "url": "https://streamxhd.com/live1.php?stream=daznf1",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "03:30 | [PRONTO] | F1 | GP Singapur - Practica 1",
-          "image": "https://i.postimg.cc/MTRFV6kF/F1.png",
-          "url": "https://streamxhd.com/live1.php?stream=fox1ar",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "03:30 | [PRONTO] | F1 | GP Singapur - Practica 1 - On Board Colapinto",
-          "image": "https://i.postimg.cc/MTRFV6kF/F1.png",
-          "url": "https://streamxhd.com/live1.php?stream=disney2",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "03:30 | [PRONTO] | F1 | GP Singapur - Practica 1 - On Board Hamilton",
-          "image": "https://i.postimg.cc/MTRFV6kF/F1.png",
-          "url": "https://streamxhd.com/live1.php?stream=disney3",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "05:00 | [PRONTO] | ATP Rolex Shanghai Masters | Djokovic vs Hurkacz",
+          "name": "05:00 | [EN VIVO] | ATP Rolex Shanghai Masters | Djokovic vs Hurkacz",
           "image": "",
           "url": "https://streamxhd.com/live1.php?stream=espn2",
           "isHost": "true",
@@ -56,7 +16,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "07:00 | [PRONTO] | NBA PRETEMPORADA | Dallas Mavericks vs Houston Rockets",
+          "name": "07:00 | [EN VIVO] | NBA PRETEMPORADA | Dallas Mavericks vs Houston Rockets",
           "image": "https://i.postimg.cc/52NTTWv9/NBA.png",
           "url": "https://streamxhd.com/live1.php?stream=espn4",
           "isHost": "true",
@@ -64,7 +24,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "07:30 | [PRONTO] | F1 | GP Singapur - Clasificación Sprint",
+          "name": "07:30 | [EN VIVO] | F1 | GP Singapur - Clasificación Sprint",
           "image": "https://i.postimg.cc/MTRFV6kF/F1.png",
           "url": "https://streamxhd.com/live1.php?stream=disney4",
           "isHost": "true",
@@ -72,7 +32,23 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "07:30 | [PRONTO] | F1 | GP Singapur - Clasificación Sprint - On Board Colapinto",
+          "name": "07:30 | [EN VIVO] | F1 | GP Singapur - Clasificación Sprint",
+          "image": "https://i.postimg.cc/MTRFV6kF/F1.png",
+          "url": "https://streamxhd.com/live1.php?stream=daznf1",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "07:30 | [EN VIVO] | F1 | GP Singapur - Clasificación Sprint",
+          "image": "https://i.postimg.cc/MTRFV6kF/F1.png",
+          "url": "https://streamxhd.com/live1.php?stream=fox1ar",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "07:30 | [EN VIVO] | F1 | GP Singapur - Clasificación Sprint - On Board Colapinto",
           "image": "https://i.postimg.cc/MTRFV6kF/F1.png",
           "url": "https://streamxhd.com/live1.php?stream=disney5",
           "isHost": "true",
@@ -80,7 +56,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "07:30 | [PRONTO] | F1 | GP Singapur - Clasificación Sprint - On Board Hamilton",
+          "name": "07:30 | [EN VIVO] | F1 | GP Singapur - Clasificación Sprint - On Board Hamilton",
           "image": "https://i.postimg.cc/MTRFV6kF/F1.png",
           "url": "https://streamxhd.com/live1.php?stream=disney6",
           "isHost": "true",
@@ -88,7 +64,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "08:50 | [PRONTO] | SAUDI PRO LEAGUE | Al Kholood vs Al Qadisiya",
+          "name": "08:50 | [EN VIVO] | SAUDI PRO LEAGUE | Al Kholood vs Al Qadisiya",
           "image": "",
           "url": "https://streamxhd.com/live1.php?stream=foxone",
           "isHost": "true",
@@ -171,6 +147,22 @@
           "name": "14:00 | [PRONTO] | LALIGA | Málaga vs Espanyol",
           "image": "https://i.postimg.cc/g2TS7XmQ/La-Liga.png",
           "url": "https://streamxhd.com/live1.php?stream=disney12",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "14:00 | [PRONTO] | LALIGA | Málaga vs Espanyol",
+          "image": "https://i.postimg.cc/g2TS7XmQ/La-Liga.png",
+          "url": "https://streamxhd.com/live1.php?stream=espnplus1",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "14:00 | [PRONTO] | LALIGA | Málaga vs Espanyol",
+          "image": "https://i.postimg.cc/g2TS7XmQ/La-Liga.png",
+          "url": "https://streamxhd.com/live1.php?stream=daznlaliga",
           "isHost": "true",
           "referer": "https://streamxhd.com",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
@@ -291,30 +283,6 @@
           "name": "20:00 | [PRONTO] | LIGA MX | Tigres UANL vs Toluca",
           "image": "https://i.postimg.cc/sgRFRgQv/Liga-MX.jpg",
           "url": "https://streamxhd.com/live1.php?stream=azteca7",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "19:00 | [FINALIZADO] | NBA PRETEMPORADA | Atlanta Hawks vs San Antonio Spurs",
-          "image": "https://i.postimg.cc/52NTTWv9/NBA.png",
-          "url": "https://streamxhd.com/live1.php?stream=nba5",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "20:00 | [FINALIZADO] | LIGA DE EXPANSIÓN MX | Alebrijes de Oaxaca vs Correcaminos UAT",
-          "image": "",
-          "url": "https://streamxhd.com/live1.php?stream=disney",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "21:30 | [FINALIZADO] | NBA PRETEMPORADA | Sacramento Kings vs Los Angeles Lakers",
-          "image": "https://i.postimg.cc/52NTTWv9/NBA.png",
-          "url": "https://streamxhd.com/live1.php?stream=nba6",
           "isHost": "true",
           "referer": "https://streamxhd.com",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
