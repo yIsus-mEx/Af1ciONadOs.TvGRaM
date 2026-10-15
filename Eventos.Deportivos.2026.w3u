@@ -8,95 +8,7 @@
       "image": "",
       "stations": [
         {
-          "name": "15:30 | [EN VIVO] | LIGA COLOMBIA | Junior vs Deportivo Pereira",
-          "image": "https://i.postimg.cc/59BDhCPY/Liga-Colombiana.png",
-          "url": "https://streamxhd.com/live1.php?stream=winplus",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "15:30 | [EN VIVO] | LIGA COLOMBIA | Junior vs Deportivo Pereira",
-          "image": "https://i.postimg.cc/59BDhCPY/Liga-Colombiana.png",
-          "url": "https://streamxhd.com/live1.php?stream=winsports",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "16:00 | [EN VIVO] | LIGA PROFESIONAL | Sarmiento vs River Plate",
-          "image": "https://i.postimg.cc/pr4HjQLB/Liga-Argentina.png",
-          "url": "https://streamxhd.com/live1.php?stream=tntsports",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "16:00 | [EN VIVO] | LIGA PROFESIONAL | Sarmiento vs River Plate",
-          "image": "https://i.postimg.cc/pr4HjQLB/Liga-Argentina.png",
-          "url": "https://streamxhd.com/live1.php?stream=disney10",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "16:00 | [EN VIVO] | LIGA PROFESIONAL | Sarmiento vs River Plate",
-          "image": "https://i.postimg.cc/pr4HjQLB/Liga-Argentina.png",
-          "url": "https://streamxhd.com/live1.php?stream=espn2",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "16:00 | [EN VIVO] | LIGA PROFESIONAL | Sarmiento vs River Plate",
-          "image": "https://i.postimg.cc/pr4HjQLB/Liga-Argentina.png",
-          "url": "https://streamxhd.com/live1.php?stream=vix7",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "16:00 | [EN VIVO] | COPA SUDAMERICANA | Atlético Mineiro vs Torque",
-          "image": "https://i.postimg.cc/yxj9Fj7c/Copa-Sudamericana.png",
-          "url": "https://streamxhd.click/channel/?id=dsports",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "16:00 | [EN VIVO] | COPA SUDAMERICANA | Atlético Mineiro vs Torque",
-          "image": "https://i.postimg.cc/yxj9Fj7c/Copa-Sudamericana.png",
-          "url": "https://streamxhd.com/live1.php?stream=dsports",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "16:00 | [EN VIVO] | COPA SUDAMERICANA | Atlético Mineiro vs Torque",
-          "image": "https://i.postimg.cc/yxj9Fj7c/Copa-Sudamericana.png",
-          "url": "https://streamxhd.com/live1.php?stream=espnar",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "16:00 | [EN VIVO] | COPA SUDAMERICANA | Atlético Mineiro vs Torque",
-          "image": "https://i.postimg.cc/yxj9Fj7c/Copa-Sudamericana.png",
-          "url": "https://streamxhd.com/live1.php?stream=disney11",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "16:00 | [EN VIVO] | COPA SUDAMERICANA | Atlético Mineiro vs Torque",
-          "image": "https://i.postimg.cc/yxj9Fj7c/Copa-Sudamericana.png",
-          "url": "https://streamxhd.com/live1.php?stream=espn",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "16:30 | [PRONTO] | COPA PARAGUAY | Cerro Porteño vs Sportivo San Lorenzo",
+          "name": "17:30 | [EN VIVO] | COPA PARAGUAY | Cerro Porteño vs Sportivo San Lorenzo",
           "image": "",
           "url": "https://streamxhd.com/live1.php?stream=tigo1",
           "isHost": "true",
@@ -104,7 +16,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "17:30 | [PRONTO] | MLS | Inter Miami vs New York City",
+          "name": "18:30 | [EN VIVO] | MLS | Inter Miami vs New York City",
           "image": "https://i.postimg.cc/BQwBSrkS/MLS.png",
           "url": "https://streamxhd.com/live1.php?stream=appletv1",
           "isHost": "true",
@@ -112,7 +24,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "17:30 | [PRONTO] | MLS | Inter Miami vs New York City",
+          "name": "18:30 | [EN VIVO] | MLS | Inter Miami vs New York City",
           "image": "https://i.postimg.cc/BQwBSrkS/MLS.png",
           "url": "https://streamxhd.com/live1.php?stream=appletv2",
           "isHost": "true",
@@ -120,7 +32,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "17:30 | [PRONTO] | MLS | Toronto FC vs Orlando City SC",
+          "name": "18:30 | [EN VIVO] | MLS | Toronto FC vs Orlando City SC",
           "image": "https://i.postimg.cc/BQwBSrkS/MLS.png",
           "url": "https://streamxhd.com/live1.php?stream=appletv3",
           "isHost": "true",
@@ -128,7 +40,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "17:30 | [PRONTO] | MLS | DC United vs New York RB",
+          "name": "18:30 | [EN VIVO] | MLS | DC United vs New York RB",
           "image": "https://i.postimg.cc/BQwBSrkS/MLS.png",
           "url": "https://streamxhd.com/live1.php?stream=appletv4",
           "isHost": "true",
@@ -136,7 +48,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "17:30 | [PRONTO] | MLS | Columbus Crew vs Charlotte",
+          "name": "18:30 | [EN VIVO] | MLS | Columbus Crew vs Charlotte",
           "image": "https://i.postimg.cc/BQwBSrkS/MLS.png",
           "url": "https://streamxhd.com/live1.php?stream=appletv5",
           "isHost": "true",
@@ -144,7 +56,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "17:30 | [PRONTO] | MLS | CF Montréal vs Atlanta United",
+          "name": "18:30 | [EN VIVO] | MLS | CF Montréal vs Atlanta United",
           "image": "https://i.postimg.cc/BQwBSrkS/MLS.png",
           "url": "https://streamxhd.com/live1.php?stream=appletv6",
           "isHost": "true",
@@ -152,7 +64,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "17:30 | [PRONTO] | MLS | Cincinnati vs New England",
+          "name": "18:30 | [EN VIVO] | MLS | Cincinnati vs New England",
           "image": "https://i.postimg.cc/BQwBSrkS/MLS.png",
           "url": "https://streamxhd.com/live1.php?stream=appletv7",
           "isHost": "true",
@@ -160,7 +72,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "17:30 | [PRONTO] | NBA PRETEMPORADA | Heat vs Nets",
+          "name": "18:30 | [EN VIVO] | NBA PRETEMPORADA | Heat vs Nets",
           "image": "https://i.postimg.cc/52NTTWv9/NBA.png",
           "url": "https://streamxhd.com/live1.php?stream=nba1",
           "isHost": "true",
@@ -168,7 +80,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "17:30 | [PRONTO] | NBA PRETEMPORADA | Celtics vs Hornets",
+          "name": "18:30 | [EN VIVO] | NBA PRETEMPORADA | Celtics vs Hornets",
           "image": "https://i.postimg.cc/52NTTWv9/NBA.png",
           "url": "https://streamxhd.com/live1.php?stream=nba2",
           "isHost": "true",
@@ -176,7 +88,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "18:00 | [PRONTO] | NBA PRETEMPORADA | Timberwolves vs Pistons",
+          "name": "19:00 | [EN VIVO] | NBA PRETEMPORADA | Timberwolves vs Pistons",
           "image": "https://i.postimg.cc/52NTTWv9/NBA.png",
           "url": "https://streamxhd.com/live1.php?stream=nba3",
           "isHost": "true",
@@ -184,7 +96,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "18:00 | [PRONTO] | NBA PRETEMPORADA | Bucks vs Bulls",
+          "name": "19:00 | [EN VIVO] | NBA PRETEMPORADA | Bucks vs Bulls",
           "image": "https://i.postimg.cc/52NTTWv9/NBA.png",
           "url": "https://streamxhd.com/live1.php?stream=nba4",
           "isHost": "true",
@@ -192,7 +104,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "18:00 | [PRONTO] | NBA PRETEMPORADA | Spurs vs Suns",
+          "name": "19:00 | [EN VIVO] | NBA PRETEMPORADA | Spurs vs Suns",
           "image": "https://i.postimg.cc/52NTTWv9/NBA.png",
           "url": "https://streamxhd.com/live1.php?stream=nba5",
           "isHost": "true",
@@ -200,7 +112,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "18:00 | [PRONTO] | NBA PRETEMPORADA | Mavericks vs Pelicans",
+          "name": "19:00 | [EN VIVO] | NBA PRETEMPORADA | Mavericks vs Pelicans",
           "image": "https://i.postimg.cc/52NTTWv9/NBA.png",
           "url": "https://streamxhd.com/live1.php?stream=nba6",
           "isHost": "true",
@@ -208,7 +120,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "18:30 | [PRONTO] | MLS | Nashville SC vs Sporting KC",
+          "name": "19:30 | [PRONTO] | MLS | Nashville SC vs Sporting KC",
           "image": "https://i.postimg.cc/BQwBSrkS/MLS.png",
           "url": "https://streamxhd.com/live1.php?stream=appletv8",
           "isHost": "true",
@@ -216,7 +128,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "18:30 | [PRONTO] | MLS | St. Louis City vs Vancouver Whitecaps",
+          "name": "19:30 | [PRONTO] | MLS | St. Louis City vs Vancouver Whitecaps",
           "image": "https://i.postimg.cc/BQwBSrkS/MLS.png",
           "url": "https://streamxhd.com/live1.php?stream=appletv9",
           "isHost": "true",
@@ -224,7 +136,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "18:30 | [PRONTO] | MLS | Dallas vs Seattle Sounders FC",
+          "name": "19:30 | [PRONTO] | MLS | Dallas vs Seattle Sounders FC",
           "image": "https://i.postimg.cc/BQwBSrkS/MLS.png",
           "url": "https://streamxhd.com/live1.php?stream=appletv10",
           "isHost": "true",
@@ -232,7 +144,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "18:30 | [PRONTO] | MLS | Chicago Fire vs Philadelphia Union",
+          "name": "19:30 | [PRONTO] | MLS | Chicago Fire vs Philadelphia Union",
           "image": "https://i.postimg.cc/BQwBSrkS/MLS.png",
           "url": "https://streamxhd.com/live1.php?stream=appletv11",
           "isHost": "true",
@@ -240,7 +152,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "18:30 | [PRONTO] | COPA LIBERTADORES | Fluminense vs Palmeiras",
+          "name": "19:30 | [PRONTO] | COPA LIBERTADORES | Fluminense vs Palmeiras",
           "image": "https://i.postimg.cc/qMB2pPGx/Copa-Libertadores.png",
           "url": "https://streamxhd.com/live1.php?stream=disney12",
           "isHost": "true",
@@ -248,7 +160,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "18:30 | [PRONTO] | COPA LIBERTADORES | Fluminense vs Palmeiras",
+          "name": "19:30 | [PRONTO] | COPA LIBERTADORES | Fluminense vs Palmeiras",
           "image": "https://i.postimg.cc/qMB2pPGx/Copa-Libertadores.png",
           "url": "https://streamxhd.com/live1.php?stream=fox1ar",
           "isHost": "true",
@@ -256,7 +168,15 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "19:30 | [PRONTO] | MLS | Colorado Rapids vs Minnesota United",
+          "name": "19:30 | [PRONTO] | COPA LIBERTADORES | Fluminense vs Palmeiras",
+          "image": "https://i.postimg.cc/qMB2pPGx/Copa-Libertadores.png",
+          "url": "https://streamxhd.com/live1.php?stream=espn",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "20:30 | [PRONTO] | MLS | Colorado Rapids vs Minnesota United",
           "image": "https://i.postimg.cc/BQwBSrkS/MLS.png",
           "url": "https://streamxhd.com/live1.php?stream=appletv12",
           "isHost": "true",
@@ -264,7 +184,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "19:30 | [PRONTO] | MLS | Real Salt Lake vs SJ Earthquakes",
+          "name": "20:30 | [PRONTO] | MLS | Real Salt Lake vs SJ Earthquakes",
           "image": "https://i.postimg.cc/BQwBSrkS/MLS.png",
           "url": "https://streamxhd.com/live1.php?stream=appletv13",
           "isHost": "true",
@@ -272,7 +192,15 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "20:30 | [PRONTO] | MLS | Los Angeles FC vs Austin",
+          "name": "20:30 | [PRONTO] | COPA COLOMBIA | Atlético Nacional vs Medellín",
+          "image": "https://i.postimg.cc/59BDhCPY/Liga-Colombiana.png",
+          "url": "https://streamxhd.com/live1.php?stream=winplus",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "21:30 | [PRONTO] | MLS | Los Angeles FC vs Austin",
           "image": "https://i.postimg.cc/BQwBSrkS/MLS.png",
           "url": "https://streamxhd.com/live1.php?stream=appletv14",
           "isHost": "true",
@@ -280,7 +208,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "20:30 | [PRONTO] | MLS | LA Galaxy vs Portland Timbers",
+          "name": "21:30 | [PRONTO] | MLS | LA Galaxy vs Portland Timbers",
           "image": "https://i.postimg.cc/BQwBSrkS/MLS.png",
           "url": "https://streamxhd.com/live1.php?stream=appletv15",
           "isHost": "true",
@@ -288,7 +216,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "20:30 | [PRONTO] | MLS | San Diego vs Houston Dynamo",
+          "name": "21:30 | [PRONTO] | MLS | San Diego vs Houston Dynamo",
           "image": "https://i.postimg.cc/BQwBSrkS/MLS.png",
           "url": "https://streamxhd.com/live1.php?stream=appletv16",
           "isHost": "true",
@@ -296,9 +224,81 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "20:30 | [PRONTO] | NBA PRETEMPORADA | Clippers vs Nuggets",
+          "name": "21:30 | [PRONTO] | NBA PRETEMPORADA | Clippers vs Nuggets",
           "image": "https://i.postimg.cc/52NTTWv9/NBA.png",
           "url": "https://streamxhd.com/live1.php?stream=nba7",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "16:30 | [FINALIZADO] | LIGA COLOMBIA | Junior vs Deportivo Pereira",
+          "image": "https://i.postimg.cc/59BDhCPY/Liga-Colombiana.png",
+          "url": "https://streamxhd.com/live1.php?stream=winsports",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "17:00 | [FINALIZADO] | LIGA PROFESIONAL | Sarmiento vs River Plate",
+          "image": "https://i.postimg.cc/pr4HjQLB/Liga-Argentina.png",
+          "url": "https://streamxhd.com/live1.php?stream=tntsports",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "17:00 | [FINALIZADO] | LIGA PROFESIONAL | Sarmiento vs River Plate",
+          "image": "https://i.postimg.cc/pr4HjQLB/Liga-Argentina.png",
+          "url": "https://streamxhd.com/live1.php?stream=disney10",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "17:00 | [FINALIZADO] | LIGA PROFESIONAL | Sarmiento vs River Plate",
+          "image": "https://i.postimg.cc/pr4HjQLB/Liga-Argentina.png",
+          "url": "https://streamxhd.com/live1.php?stream=espn2",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "17:00 | [FINALIZADO] | LIGA PROFESIONAL | Sarmiento vs River Plate",
+          "image": "https://i.postimg.cc/pr4HjQLB/Liga-Argentina.png",
+          "url": "https://streamxhd.com/live1.php?stream=vix7",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "17:00 | [FINALIZADO] | COPA SUDAMERICANA | Atlético Mineiro vs Torque",
+          "image": "https://i.postimg.cc/yxj9Fj7c/Copa-Sudamericana.png",
+          "url": "https://streamxhd.click/channel/?id=dsports",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "17:00 | [FINALIZADO] | COPA SUDAMERICANA | Atlético Mineiro vs Torque",
+          "image": "https://i.postimg.cc/yxj9Fj7c/Copa-Sudamericana.png",
+          "url": "https://streamxhd.com/live1.php?stream=dsports",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "17:00 | [FINALIZADO] | COPA SUDAMERICANA | Atlético Mineiro vs Torque",
+          "image": "https://i.postimg.cc/yxj9Fj7c/Copa-Sudamericana.png",
+          "url": "https://streamxhd.com/live1.php?stream=espnar",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "17:00 | [FINALIZADO] | COPA SUDAMERICANA | Atlético Mineiro vs Torque",
+          "image": "https://i.postimg.cc/yxj9Fj7c/Copa-Sudamericana.png",
+          "url": "https://streamxhd.com/live1.php?stream=disney11",
           "isHost": "true",
           "referer": "https://streamxhd.com",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
