@@ -8,23 +8,7 @@
       "image": "",
       "stations": [
         {
-          "name": "12:30 | [EN VIVO] | BUNDESLIGA 2 | Holstein Kiel vs Hertha BSC",
-          "image": "https://i.postimg.cc/cLHkTMy3/Bundesliga.png",
-          "url": "https://streamxhd.com/live1.php?stream=fox2ar",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "12:30 | [EN VIVO] | BUNDESLIGA 2 | Energie Cottbus vs Nürnberg",
-          "image": "https://i.postimg.cc/cLHkTMy3/Bundesliga.png",
-          "url": "https://streamxhd.com/live1.php?stream=disney1",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "14:00 | [PRONTO] | LIGA 1 | Sport Huancayo vs Cusco",
+          "name": "14:00 | [EN VIVO] | LIGA 1 | Sport Huancayo vs Cusco",
           "image": "",
           "url": "https://streamxhd.com/live1.php?stream=l1max",
           "isHost": "true",
@@ -32,7 +16,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "14:30 | [PRONTO] | BUNDESLIGA | Eintracht Frankfurt vs Köln",
+          "name": "14:30 | [EN VIVO] | BUNDESLIGA | Eintracht Frankfurt vs Köln",
           "image": "https://i.postimg.cc/cLHkTMy3/Bundesliga.png",
           "url": "https://streamxhd.com/live1.php?stream=disney2",
           "isHost": "true",
@@ -40,7 +24,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "14:30 | [PRONTO] | BUNDESLIGA | Eintracht Frankfurt vs Köln",
+          "name": "14:30 | [EN VIVO] | BUNDESLIGA | Eintracht Frankfurt vs Köln",
           "image": "https://i.postimg.cc/cLHkTMy3/Bundesliga.png",
           "url": "https://streamxhd.com/live1.php?stream=universo",
           "isHost": "true",
@@ -48,7 +32,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "14:30 | [PRONTO] | BUNDESLIGA | Eintracht Frankfurt vs Köln",
+          "name": "14:30 | [EN VIVO] | BUNDESLIGA | Eintracht Frankfurt vs Köln",
           "image": "https://i.postimg.cc/cLHkTMy3/Bundesliga.png",
           "url": "https://streamxhd.com/live1.php?stream=espn5",
           "isHost": "true",
@@ -56,7 +40,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "14:30 | [PRONTO] | BUNDESLIGA | Eintracht Frankfurt vs Köln",
+          "name": "14:30 | [EN VIVO] | BUNDESLIGA | Eintracht Frankfurt vs Köln",
           "image": "https://i.postimg.cc/cLHkTMy3/Bundesliga.png",
           "url": "https://streamxhd.com/live1.php?stream=sporttvbr1",
           "isHost": "true",
@@ -64,7 +48,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "14:30 | [PRONTO] | LALIGA SMARTBANK | Leganés vs Córdoba",
+          "name": "14:30 | [EN VIVO] | LALIGA SMARTBANK | Leganés vs Córdoba",
           "image": "https://i.postimg.cc/g2TS7XmQ/La-Liga.png",
           "url": "https://streamxhd.com/live1.php?stream=laligahypermotion",
           "isHost": "true",
@@ -72,7 +56,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "14:45 | [PRONTO] | SERIE A | Frosinone vs Sassuolo",
+          "name": "14:45 | [EN VIVO] | SERIE A | Frosinone vs Sassuolo",
           "image": "https://i.postimg.cc/cChTB6Dy/Serie-A.png",
           "url": "https://streamxhd.com/live1.php?stream=disney3",
           "isHost": "true",
@@ -80,7 +64,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "14:45 | [PRONTO] | LIGUE 1 | Le Mans vs Toulouse",
+          "name": "14:45 | [EN VIVO] | LIGUE 1 | Le Mans vs Toulouse",
           "image": "https://i.postimg.cc/50wsjsLc/Ligue-1.png",
           "url": "https://streamxhd.com/live1.php?stream=disney4",
           "isHost": "true",
@@ -88,7 +72,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "14:45 | [PRONTO] | LIGUE 1 | Le Mans vs Toulouse",
+          "name": "14:45 | [EN VIVO] | LIGUE 1 | Le Mans vs Toulouse",
           "image": "https://i.postimg.cc/50wsjsLc/Ligue-1.png",
           "url": "https://streamxhd.com/live1.php?stream=espn4",
           "isHost": "true",
@@ -96,7 +80,15 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "15:00 | [PRONTO] | CHAMPIONSHIP | Burnley vs Wolverhampton Wanderers",
+          "name": "15:00 | [EN VIVO] | CHAMPIONSHIP | Burnley vs Wolverhampton Wanderers",
+          "image": "",
+          "url": "https://streamxhd.com/live1.php?stream=fox2ar",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "15:00 | [EN VIVO] | CHAMPIONSHIP | Burnley vs Wolverhampton Wanderers",
           "image": "",
           "url": "https://streamxhd.com/live1.php?stream=espn7",
           "isHost": "true",
@@ -104,7 +96,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "15:00 | [PRONTO] | LALIGA | Deportivo La Coruña vs Levante",
+          "name": "15:00 | [EN VIVO] | LALIGA | Deportivo La Coruña vs Levante",
           "image": "https://i.postimg.cc/g2TS7XmQ/La-Liga.png",
           "url": "https://streamxhd.com/live1.php?stream=disney5",
           "isHost": "true",
@@ -112,7 +104,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "15:00 | [PRONTO] | LALIGA | Deportivo La Coruña vs Levante",
+          "name": "15:00 | [EN VIVO] | LALIGA | Deportivo La Coruña vs Levante",
           "image": "https://i.postimg.cc/g2TS7XmQ/La-Liga.png",
           "url": "https://streamxhd.com/live1.php?stream=espn2",
           "isHost": "true",
@@ -120,7 +112,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "15:00 | [PRONTO] | LALIGA | Deportivo La Coruña vs Levante",
+          "name": "15:00 | [EN VIVO] | LALIGA | Deportivo La Coruña vs Levante",
           "image": "https://i.postimg.cc/g2TS7XmQ/La-Liga.png",
           "url": "https://streamxhd.com/live1.php?stream=espndeportes",
           "isHost": "true",
@@ -128,7 +120,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "15:00 | [PRONTO] | LALIGA | Deportivo La Coruña vs Levante",
+          "name": "15:00 | [EN VIVO] | LALIGA | Deportivo La Coruña vs Levante",
           "image": "https://i.postimg.cc/g2TS7XmQ/La-Liga.png",
           "url": "https://streamxhd.com/live1.php?stream=espnplus1",
           "isHost": "true",
@@ -136,7 +128,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "15:00 | [PRONTO] | LALIGA | Deportivo La Coruña vs Levante",
+          "name": "15:00 | [EN VIVO] | LALIGA | Deportivo La Coruña vs Levante",
           "image": "https://i.postimg.cc/g2TS7XmQ/La-Liga.png",
           "url": "https://streamxhd.com/live1.php?stream=mlaliga",
           "isHost": "true",
@@ -363,6 +355,14 @@
           "name": "23:00 | [PRONTO] | LIGA MX | Tijuana vs Puebla",
           "image": "https://i.postimg.cc/sgRFRgQv/Liga-MX.jpg",
           "url": "https://streamxhd.com/live1.php?stream=tudn_usa",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "12:30 | [FINALIZADO] | BUNDESLIGA 2 | Energie Cottbus vs Nürnberg",
+          "image": "https://i.postimg.cc/cLHkTMy3/Bundesliga.png",
+          "url": "https://streamxhd.com/live1.php?stream=disney1",
           "isHost": "true",
           "referer": "https://streamxhd.com",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
