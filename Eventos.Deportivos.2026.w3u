@@ -8,7 +8,7 @@
       "image": "",
       "stations": [
         {
-          "name": "12:30 | [PRONTO] | BUNDESLIGA 2 | Holstein Kiel vs Hertha BSC",
+          "name": "12:30 | [EN VIVO] | BUNDESLIGA 2 | Holstein Kiel vs Hertha BSC",
           "image": "https://i.postimg.cc/cLHkTMy3/Bundesliga.png",
           "url": "https://streamxhd.com/live1.php?stream=fox2ar",
           "isHost": "true",
@@ -16,7 +16,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "12:30 | [PRONTO] | BUNDESLIGA 2 | Energie Cottbus vs Nürnberg",
+          "name": "12:30 | [EN VIVO] | BUNDESLIGA 2 | Energie Cottbus vs Nürnberg",
           "image": "https://i.postimg.cc/cLHkTMy3/Bundesliga.png",
           "url": "https://streamxhd.com/live1.php?stream=disney1",
           "isHost": "true",
