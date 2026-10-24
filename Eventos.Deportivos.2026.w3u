@@ -4,19 +4,11 @@
   "image": "",
   "groups": [
     {
-      "name": "Agenda - Viernes, 23 De Octubre De 2026",
+      "name": "Agenda - Sábado, 24 De Octubre De 2026",
       "image": "",
       "stations": [
         {
-          "name": "23:30 | [EN VIVO] | MotoGP | GP Australia - Sprint",
-          "image": "https://i.postimg.cc/CMG2KxsH/Moto-gp.png",
-          "url": "https://streamxhd.sbs/live1.php?stream=espn4",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "07:00 | [PRONTO] | BUNDESLIGA 2 | Hertha BSC vs Arminia Bielefeld",
+          "name": "07:00 | [EN VIVO] | BUNDESLIGA 2 | Hertha BSC vs Arminia Bielefeld",
           "image": "https://i.postimg.cc/cLHkTMy3/Bundesliga.png",
           "url": "https://streamxhd.sbs/live1.php?stream=fox1ar",
           "isHost": "true",
@@ -24,7 +16,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "07:30 | [PRONTO] | PREMIER LEAGUE | Aston Villa vs Manchester City",
+          "name": "07:30 | [EN VIVO] | PREMIER LEAGUE | Aston Villa vs Manchester City",
           "image": "https://i.postimg.cc/tJkDN7BV/Premier-League.png",
           "url": "https://streamxhd.sbs/live1.php?stream=disney1",
           "isHost": "true",
@@ -32,7 +24,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "07:30 | [PRONTO] | PREMIER LEAGUE | Aston Villa vs Manchester City",
+          "name": "07:30 | [EN VIVO] | PREMIER LEAGUE | Aston Villa vs Manchester City",
           "image": "https://i.postimg.cc/tJkDN7BV/Premier-League.png",
           "url": "https://streamxhd.sbs/live1.php?stream=espn",
           "isHost": "true",
@@ -40,7 +32,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "07:30 | [PRONTO] | PREMIER LEAGUE | Aston Villa vs Manchester City",
+          "name": "07:30 | [EN VIVO] | PREMIER LEAGUE | Aston Villa vs Manchester City",
           "image": "https://i.postimg.cc/tJkDN7BV/Premier-League.png",
           "url": "https://streamxhd.sbs/live1.php?stream=espnar",
           "isHost": "true",
@@ -48,7 +40,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "07:30 | [PRONTO] | PREMIER LEAGUE | Aston Villa vs Manchester City",
+          "name": "07:30 | [EN VIVO] | PREMIER LEAGUE | Aston Villa vs Manchester City",
           "image": "https://i.postimg.cc/tJkDN7BV/Premier-League.png",
           "url": "https://streamxhd.sbs/live1.php?stream=universo",
           "isHost": "true",
@@ -56,7 +48,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "07:30 | [PRONTO] | PREMIER LEAGUE | Aston Villa vs Manchester City",
+          "name": "07:30 | [EN VIVO] | PREMIER LEAGUE | Aston Villa vs Manchester City",
           "image": "https://i.postimg.cc/tJkDN7BV/Premier-League.png",
           "url": "https://streamxhd.sbs/live1.php?stream=max1",
           "isHost": "true",
@@ -64,7 +56,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "07:30 | [PRONTO] | CHAMPIONSHIP | Charlton Athletic vs Norwich City",
+          "name": "07:30 | [EN VIVO] | CHAMPIONSHIP | Charlton Athletic vs Norwich City",
           "image": "",
           "url": "https://streamxhd.sbs/live1.php?stream=espn5",
           "isHost": "true",
@@ -440,6 +432,14 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
+          "name": "14:45 | [PRONTO] | LIGUE 1 | Lens vs Paris",
+          "image": "https://i.postimg.cc/50wsjsLc/Ligue-1.png",
+          "url": "https://streamxhd.sbs/live1.php?stream=espn4",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
           "name": "15:00 | [PRONTO] | LIGA URUGUAY | Defensor Sporting vs Racing",
           "image": "https://i.postimg.cc/Rq5Y9gF5/Liga-Uruguay.png",
           "url": "https://streamxhd.sbs/live1.php?stream=disney23",
@@ -803,22 +803,6 @@
           "name": "22:30 | [PRONTO] | MLS | San Diego vs Seattle Sounders FC",
           "image": "https://i.postimg.cc/BQwBSrkS/MLS.png",
           "url": "https://streamxhd.sbs/live1.php?stream=appletv15",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "22:00 | [FINALIZADO] | NBA | Lakers vs Clippers",
-          "image": "https://i.postimg.cc/52NTTWv9/NBA.png",
-          "url": "https://streamxhd.sbs/live1.php?stream=nba10",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "23:00 | [FINALIZADO] | LIGA MX | Atlante vs Atlético San Luis",
-          "image": "https://i.postimg.cc/sgRFRgQv/Liga-MX.jpg",
-          "url": "https://streamxhd.sbs/live1.php?stream=azteca7",
           "isHost": "true",
           "referer": "https://streamxhd.com",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
