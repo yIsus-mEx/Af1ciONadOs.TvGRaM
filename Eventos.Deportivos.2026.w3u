@@ -8,7 +8,7 @@
       "image": "",
       "stations": [
         {
-          "name": "06:30 | [PRONTO] | SERIE A | Internazionale vs Fiorentina",
+          "name": "06:30 | [EN VIVO] | SERIE A | Internazionale vs Fiorentina",
           "image": "https://i.postimg.cc/cChTB6Dy/Serie-A.png",
           "url": "https://streamxhd.sbs/live1.php?stream=disney1",
           "isHost": "true",
@@ -16,7 +16,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "06:30 | [PRONTO] | SERIE A | Internazionale vs Fiorentina",
+          "name": "06:30 | [EN VIVO] | SERIE A | Internazionale vs Fiorentina",
           "image": "https://i.postimg.cc/cChTB6Dy/Serie-A.png",
           "url": "https://streamxhd.sbs/live1.php?stream=espn",
           "isHost": "true",
@@ -24,7 +24,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "06:30 | [PRONTO] | SERIE A | Internazionale vs Fiorentina",
+          "name": "06:30 | [EN VIVO] | SERIE A | Internazionale vs Fiorentina",
           "image": "https://i.postimg.cc/cChTB6Dy/Serie-A.png",
           "url": "https://streamxhd.sbs/live1.php?stream=espnar",
           "isHost": "true",
@@ -32,7 +32,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "06:30 | [PRONTO] | SERIE A | Internazionale vs Fiorentina",
+          "name": "06:30 | [EN VIVO] | SERIE A | Internazionale vs Fiorentina",
           "image": "https://i.postimg.cc/cChTB6Dy/Serie-A.png",
           "url": "https://streamxhd.sbs/live1.php?stream=telemundo",
           "isHost": "true",
