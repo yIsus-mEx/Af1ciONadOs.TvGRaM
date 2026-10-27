@@ -8,15 +8,7 @@
       "image": "",
       "stations": [
         {
-          "name": "10:00 | [PRONTO] | COPA DE RUSIA | Fakel vs Akhmat Grozny",
-          "image": "",
-          "url": "https://streamxhd.sbs/live1.php?stream=dsports2",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "12:00 | [PRONTO] | DFB POKAL | Bochum vs Mainz 05",
+          "name": "12:00 | [EN VIVO] | DFB POKAL | Bochum vs Mainz 05",
           "image": "",
           "url": "https://streamxhd.sbs/live1.php?stream=disney1",
           "isHost": "true",
@@ -24,7 +16,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "12:00 | [PRONTO] | DFB POKAL | Sonnenhof Großaspach vs Augsburg",
+          "name": "12:00 | [EN VIVO] | DFB POKAL | Sonnenhof Großaspach vs Augsburg",
           "image": "",
           "url": "https://streamxhd.sbs/live1.php?stream=disney2",
           "isHost": "true",
@@ -32,7 +24,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "12:00 | [PRONTO] | DFB POKAL | Hamburger SV vs Eintracht Frankfurt",
+          "name": "12:00 | [EN VIVO] | DFB POKAL | Hamburger SV vs Eintracht Frankfurt",
           "image": "",
           "url": "https://streamxhd.sbs/live1.php?stream=disney3",
           "isHost": "true",
@@ -40,7 +32,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "12:00 | [PRONTO] | DFB POKAL | Rot-Weiss Essen vs RB Leipzig",
+          "name": "12:00 | [EN VIVO] | DFB POKAL | Rot-Weiss Essen vs RB Leipzig",
           "image": "",
           "url": "https://streamxhd.sbs/live1.php?stream=disney4",
           "isHost": "true",
@@ -48,7 +40,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "12:20 | [PRONTO] | MESSI CUP | Boca Juniors Academy vs CR Flamengo Academy",
+          "name": "12:20 | [EN VIVO] | MESSI CUP | Boca Juniors Academy vs CR Flamengo Academy",
           "image": "",
           "url": "https://streamxhd.sbs/live1.php?stream=espn5",
           "isHost": "true",
@@ -56,7 +48,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "12:20 | [PRONTO] | MESSI CUP | Boca Juniors Academy vs CR Flamengo Academy",
+          "name": "12:20 | [EN VIVO] | MESSI CUP | Boca Juniors Academy vs CR Flamengo Academy",
           "image": "",
           "url": "https://streamxhd.sbs/live1.php?stream=espn2ar",
           "isHost": "true",
@@ -64,7 +56,15 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "12:30 | [PRONTO] | SERIE A | Sassuolo vs Lazio",
+          "name": "12:30 | [EN VIVO] | COPA DE RUSIA | Krasnodar vs Dinamo Moskva",
+          "image": "",
+          "url": "https://streamxhd.sbs/live1.php?stream=dsports2",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "12:30 | [EN VIVO] | SERIE A | Sassuolo vs Lazio",
           "image": "https://i.postimg.cc/cChTB6Dy/Serie-A.png",
           "url": "https://streamxhd.sbs/live1.php?stream=disney5",
           "isHost": "true",
@@ -72,7 +72,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "12:30 | [PRONTO] | SERIE A | Sassuolo vs Lazio",
+          "name": "12:30 | [EN VIVO] | SERIE A | Sassuolo vs Lazio",
           "image": "https://i.postimg.cc/cChTB6Dy/Serie-A.png",
           "url": "https://streamxhd.sbs/live1.php?stream=espn2",
           "isHost": "true",
@@ -80,7 +80,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "12:30 | [PRONTO] | SERIE A | Sassuolo vs Lazio",
+          "name": "12:30 | [EN VIVO] | SERIE A | Sassuolo vs Lazio",
           "image": "https://i.postimg.cc/cChTB6Dy/Serie-A.png",
           "url": "https://streamxhd.sbs/live1.php?stream=universo",
           "isHost": "true",
@@ -88,7 +88,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "13:00 | [PRONTO] | COPA DEL REY | Sestao River vs Espanyol",
+          "name": "13:00 | [EN VIVO] | COPA DEL REY | Sestao River vs Espanyol",
           "image": "",
           "url": "https://streamxhd.sbs/live1.php?stream=espnplus1",
           "isHost": "true",
@@ -96,7 +96,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "13:00 | [PRONTO] | COPA DEL REY | Pinatar vs Elche",
+          "name": "13:00 | [EN VIVO] | COPA DEL REY | Pinatar vs Elche",
           "image": "",
           "url": "https://streamxhd.sbs/live1.php?stream=espnplus2",
           "isHost": "true",
@@ -104,7 +104,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "13:15 | [PRONTO] | CHAMPIONS LEAGUE ELITE | Al Shamal vs Al Hilal",
+          "name": "13:15 | [EN VIVO] | CHAMPIONS LEAGUE ELITE | Al Shamal vs Al Hilal",
           "image": "",
           "url": "https://streamxhd.sbs/live1.php?stream=disney6",
           "isHost": "true",
