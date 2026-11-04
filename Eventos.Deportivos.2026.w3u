@@ -8,14 +8,6 @@
       "image": "",
       "stations": [
         {
-          "name": "07:15 | [PRONTO] | AFC CHAMPIONS LEAGUE ELITE | Buriram United vs Kashima Antlers",
-          "image": "",
-          "url": "https://streamxhd.sbs/live1.php?stream=disney1",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
           "name": "10:00 | [PRONTO] | COPA MUNDIAL FEMENINA SUB-17 | Japón vs Corea del Norte",
           "image": "",
           "url": "https://streamxhd.sbs/live1.php?stream=dsports2",
@@ -419,6 +411,14 @@
           "name": "21:30 | [PRONTO] | NBA | San Antonio Spurs vs Dallas Mavericks",
           "image": "https://i.postimg.cc/52NTTWv9/NBA.png",
           "url": "https://streamxhd.sbs/live1.php?stream=nba12",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "07:15 | [FINALIZADO] | AFC CHAMPIONS LEAGUE ELITE | Buriram United vs Kashima Antlers",
+          "image": "",
+          "url": "https://streamxhd.sbs/live1.php?stream=disney1",
           "isHost": "true",
           "referer": "https://streamxhd.com",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
