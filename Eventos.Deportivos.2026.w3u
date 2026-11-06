@@ -8,46 +8,6 @@
       "image": "",
       "stations": [
         {
-          "name": "16:00 | [EN VIVO] | PRIMERA DIVISIÓN | Rubio Ñu vs Sportivo Luqueño",
-          "image": "",
-          "url": "https://streamxhd.sbs/live1.php?stream=tigo1",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "16:00 | [EN VIVO] | COPA CHILE | Universidad de Chile vs Deportes Antofagasta",
-          "image": "https://i.postimg.cc/mk0vkbm3/Liga-Chile.jpg",
-          "url": "https://streamxhd.sbs/live1.php?stream=max1",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "16:15 | [EN VIVO] | LIGA PROFESIONAL | Gimnasia La Plata vs Belgrano",
-          "image": "https://i.postimg.cc/pr4HjQLB/Liga-Argentina.png",
-          "url": "https://streamxhd.sbs/live1.php?stream=tntsports",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "16:30 | [EN VIVO] | BRASILEIRÃO | Palmeiras vs Remo",
-          "image": "https://i.postimg.cc/tJkDN7BV/Premier-League.png",
-          "url": "https://streamxhd.sbs/live1.php?stream=winsports",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "16:30 | [EN VIVO] | BRASILEIRÃO | Palmeiras vs Remo",
-          "image": "https://i.postimg.cc/tJkDN7BV/Premier-League.png",
-          "url": "https://streamxhd.sbs/live1.php?stream=premiere1",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
           "name": "18:00 | [EN VIVO] | COPA ECUADOR | Independiente del Valle vs Delfín",
           "image": "",
           "url": "https://streamxhd.sbs/live1.php?stream=zapping_ec",
@@ -64,7 +24,15 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "18:30 | [PRONTO] | BRASILEIRÃO | Cruzeiro vs Bahia",
+          "name": "18:30 | [EN VIVO] | BRASILEIRÃO | Cruzeiro vs Bahia",
+          "image": "https://i.postimg.cc/0NPq7y9x/Liga-Brasil.png",
+          "url": "https://streamxhd.sbs/live1.php?stream=winsports",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "18:30 | [EN VIVO] | BRASILEIRÃO | Cruzeiro vs Bahia",
           "image": "https://i.postimg.cc/0NPq7y9x/Liga-Brasil.png",
           "url": "https://streamxhd.sbs/live1.php?stream=amazon1",
           "isHost": "true",
@@ -72,7 +40,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "19:00 | [PRONTO] | LIGA DE EXPANSIÓN MX | Cancún vs Piratas",
+          "name": "19:00 | [EN VIVO] | LIGA DE EXPANSIÓN MX | Cancún vs Piratas",
           "image": "",
           "url": "https://streamxhd.sbs/live1.php?stream=disney7",
           "isHost": "true",
@@ -80,7 +48,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "19:00 | [PRONTO] | NFL | Baltimore Ravens vs Jacksonville Jaguars",
+          "name": "19:00 | [EN VIVO] | NFL | Baltimore Ravens vs Jacksonville Jaguars",
           "image": "https://i.postimg.cc/NfxZdjKP/NFL.png",
           "url": "https://streamxhd.sbs/live1.php?stream=espn5",
           "isHost": "true",
@@ -88,7 +56,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "19:00 | [PRONTO] | NFL | Baltimore Ravens vs Jacksonville Jaguars",
+          "name": "19:00 | [EN VIVO] | NFL | Baltimore Ravens vs Jacksonville Jaguars",
           "image": "https://i.postimg.cc/NfxZdjKP/NFL.png",
           "url": "https://streamxhd.sbs/live1.php?stream=fox3ar",
           "isHost": "true",
@@ -115,6 +83,38 @@
           "name": "21:05 | [PRONTO] | LIGA DE EXPANSIÓN MX | Durango vs Leones Negros UdeG",
           "image": "",
           "url": "https://streamxhd.sbs/live1.php?stream=disney8",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "16:00 | [FINALIZADO] | PRIMERA DIVISIÓN | Rubio Ñu vs Sportivo Luqueño",
+          "image": "",
+          "url": "https://streamxhd.sbs/live1.php?stream=tigo1",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "16:00 | [FINALIZADO] | COPA CHILE | Universidad de Chile vs Deportes Antofagasta",
+          "image": "https://i.postimg.cc/mk0vkbm3/Liga-Chile.jpg",
+          "url": "https://streamxhd.sbs/live1.php?stream=max1",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "16:15 | [FINALIZADO] | LIGA PROFESIONAL | Gimnasia La Plata vs Belgrano",
+          "image": "https://i.postimg.cc/pr4HjQLB/Liga-Argentina.png",
+          "url": "https://streamxhd.sbs/live1.php?stream=tntsports",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "16:30 | [FINALIZADO] | BRASILEIRÃO | Palmeiras vs Remo",
+          "image": "https://i.postimg.cc/tJkDN7BV/Premier-League.png",
+          "url": "https://streamxhd.sbs/live1.php?stream=premiere1",
           "isHost": "true",
           "referer": "https://streamxhd.com",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
