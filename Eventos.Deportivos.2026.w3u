@@ -16,7 +16,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "18:00 | [PRONTO] | NHL | Colorado Avalanche vs Toronto Maple Leafs",
+          "name": "18:00 | [EN VIVO] | NHL | Colorado Avalanche vs Toronto Maple Leafs",
           "image": "",
           "url": "https://streamxhd.sbs/live1.php?stream=disney5",
           "isHost": "true",
@@ -24,7 +24,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "18:00 | [PRONTO] | NHL | Minnesota Wild vs Montreal Canadiens",
+          "name": "18:00 | [EN VIVO] | NHL | Minnesota Wild vs Montreal Canadiens",
           "image": "",
           "url": "https://streamxhd.sbs/live1.php?stream=disney6",
           "isHost": "true",
@@ -32,7 +32,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "18:00 | [PRONTO] | NHL | Washington Capitals vs Ottawa Senators",
+          "name": "18:00 | [EN VIVO] | NHL | Washington Capitals vs Ottawa Senators",
           "image": "",
           "url": "https://streamxhd.sbs/live1.php?stream=disney7",
           "isHost": "true",
@@ -40,7 +40,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "18:00 | [PRONTO] | NHL | New Jersey Devils vs Winnipeg Jets",
+          "name": "18:00 | [EN VIVO] | NHL | New Jersey Devils vs Winnipeg Jets",
           "image": "",
           "url": "https://streamxhd.sbs/live1.php?stream=disney8",
           "isHost": "true",
@@ -48,7 +48,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "18:30 | [PRONTO] | NBA | New York Knicks vs Milwaukee Bucks",
+          "name": "18:30 | [EN VIVO] | NBA | New York Knicks vs Milwaukee Bucks",
           "image": "https://i.postimg.cc/52NTTWv9/NBA.png",
           "url": "https://streamxhd.sbs/live1.php?stream=nba1",
           "isHost": "true",
@@ -56,7 +56,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "18:30 | [PRONTO] | NHL | Florida Panthers vs Columbus Blue Jackets",
+          "name": "18:30 | [EN VIVO] | NHL | Florida Panthers vs Columbus Blue Jackets",
           "image": "",
           "url": "https://streamxhd.sbs/live1.php?stream=disney9",
           "isHost": "true",
@@ -64,7 +64,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "19:00 | [PRONTO] | LIGA MX FEMENIL | Pumas UNAM vs Tigres UANL",
+          "name": "19:00 | [EN VIVO] | LIGA MX FEMENIL | Pumas UNAM vs Tigres UANL",
           "image": "https://i.postimg.cc/sgRFRgQv/Liga-MX.jpg",
           "url": "https://streamxhd.sbs/live1.php?stream=vix1",
           "isHost": "true",
@@ -72,7 +72,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "19:00 | [PRONTO] | NBA | Philadelphia 76ers vs Boston Celtics",
+          "name": "19:00 | [EN VIVO] | NBA | Philadelphia 76ers vs Boston Celtics",
           "image": "https://i.postimg.cc/52NTTWv9/NBA.png",
           "url": "https://streamxhd.sbs/live1.php?stream=max1",
           "isHost": "true",
@@ -80,7 +80,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "19:00 | [PRONTO] | NBA | Philadelphia 76ers vs Boston Celtics",
+          "name": "19:00 | [EN VIVO] | NBA | Philadelphia 76ers vs Boston Celtics",
           "image": "https://i.postimg.cc/52NTTWv9/NBA.png",
           "url": "https://streamxhd.sbs/live1.php?stream=nba2",
           "isHost": "true",
