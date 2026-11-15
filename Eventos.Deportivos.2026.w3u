@@ -8,87 +8,7 @@
       "image": "",
       "stations": [
         {
-          "name": "07:30 | [EN VIVO] | AMISTOSO LEYENDAS | Ajax Legends vs FC Barcelona Legends",
-          "image": "",
-          "url": "https://streamxhd.sbs/live1.php?stream=evento1",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "07:55 | [EN VIVO] | SERIE A FEMENINA | Inter Milan vs Juventus",
-          "image": "https://i.postimg.cc/cChTB6Dy/Serie-A.png",
-          "url": "https://streamxhd.sbs/live1.php?stream=dsports",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "08:00 | [EN VIVO] | LIGA DE NACIONES DE LA UEFA | Letonia vs Armenia",
-          "image": "",
-          "url": "https://streamxhd.sbs/live1.php?stream=disney1",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "08:00 | [EN VIVO] | LIGA DE NACIONES DE LA UEFA | Chipre vs Montenegro",
-          "image": "",
-          "url": "https://streamxhd.sbs/live1.php?stream=espn",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "08:00 | [EN VIVO] | LIGA DE NACIONES DE LA UEFA | Chipre vs Montenegro",
-          "image": "",
-          "url": "https://streamxhd.sbs/live1.php?stream=disney2",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "08:15 | [EN VIVO] | NFL | Detroit Lions vs New England Patriots",
-          "image": "https://i.postimg.cc/NfxZdjKP/NFL.png",
-          "url": "https://streamxhd.sbs/live1.php?stream=espn4",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "09:40 | [PRONTO] | EREDIVISIE FEMENINA | AZ Alkmaar vs Ajax",
-          "image": "https://i.postimg.cc/Wbdp4z1D/Erediviese.jpg",
-          "url": "https://streamxhd.sbs/live1.php?stream=dsports2",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "11:00 | [PRONTO] | LIGA DE NACIONES DE LA UEFA | Bielorrusia vs Albania",
-          "image": "",
-          "url": "https://streamxhd.sbs/live1.php?stream=disney3",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "11:00 | [PRONTO] | LIGA DE NACIONES DE LA UEFA | Finlandia vs San Marino",
-          "image": "",
-          "url": "https://streamxhd.sbs/live1.php?stream=sporttvbr1",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "11:00 | [PRONTO] | LIGA DE NACIONES DE LA UEFA | Finlandia vs San Marino",
-          "image": "",
-          "url": "https://streamxhd.sbs/live1.php?stream=disney4",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "12:00 | [PRONTO] | LIGA DE EXPANSIÓN MX | Leones Negros UdeG vs Atlético Morelia",
+          "name": "12:00 | [EN VIVO] | LIGA DE EXPANSIÓN MX | Leones Negros UdeG vs Atlético Morelia",
           "image": "https://i.postimg.cc/sgRFRgQv/Liga-MX.jpg",
           "url": "https://streamxhd.sbs/live1.php?stream=disney5",
           "isHost": "true",
@@ -96,7 +16,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "12:00 | [PRONTO] | LIGA 1 | Comerciantes Unidos vs Sport Boys",
+          "name": "12:00 | [EN VIVO] | LIGA 1 | Comerciantes Unidos vs Sport Boys",
           "image": "",
           "url": "https://streamxhd.sbs/live1.php?stream=l1max",
           "isHost": "true",
@@ -104,7 +24,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "12:00 | [PRONTO] | NBA | Philadelphia 76ers vs Indiana Pacers",
+          "name": "12:00 | [EN VIVO] | NBA | Philadelphia 76ers vs Indiana Pacers",
           "image": "https://i.postimg.cc/52NTTWv9/NBA.png",
           "url": "https://streamxhd.sbs/live1.php?stream=nba1",
           "isHost": "true",
@@ -112,7 +32,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "12:00 | [PRONTO] | NFL | Green Bay Packers vs Minnesota Vikings",
+          "name": "12:00 | [EN VIVO] | NFL | Green Bay Packers vs Minnesota Vikings",
           "image": "https://i.postimg.cc/NfxZdjKP/NFL.png",
           "url": "https://streamxhd.sbs/live1.php?stream=espn5",
           "isHost": "true",
@@ -120,7 +40,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "12:00 | [PRONTO] | NFL | Atlanta Falcons vs Kansas City Chiefs",
+          "name": "12:00 | [EN VIVO] | NFL | Atlanta Falcons vs Kansas City Chiefs",
           "image": "https://i.postimg.cc/NfxZdjKP/NFL.png",
           "url": "https://streamxhd.sbs/live1.php?stream=espn6",
           "isHost": "true",
@@ -128,7 +48,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "12:00 | [PRONTO] | NFL | Atlanta Falcons vs Kansas City Chiefs",
+          "name": "12:00 | [EN VIVO] | NFL | Atlanta Falcons vs Kansas City Chiefs",
           "image": "https://i.postimg.cc/NfxZdjKP/NFL.png",
           "url": "https://streamxhd.sbs/live1.php?stream=fox2ar",
           "isHost": "true",
@@ -136,7 +56,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "12:00 | [PRONTO] | NFL | Atlanta Falcons vs Kansas City Chiefs",
+          "name": "12:00 | [EN VIVO] | NFL | Atlanta Falcons vs Kansas City Chiefs",
           "image": "https://i.postimg.cc/NfxZdjKP/NFL.png",
           "url": "https://streamxhd.sbs/live1.php?stream=canal9mx",
           "isHost": "true",
@@ -144,7 +64,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "12:00 | [PRONTO] | NFL | New York Jets vs Buffalo Bills",
+          "name": "12:00 | [EN VIVO] | NFL | New York Jets vs Buffalo Bills",
           "image": "https://i.postimg.cc/NfxZdjKP/NFL.png",
           "url": "https://streamxhd.sbs/live1.php?stream=foxone",
           "isHost": "true",
@@ -152,7 +72,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "13:00 | [PRONTO] | PRIMERA B | Boca Juniors de Cali vs Independiente Valle del Cauca",
+          "name": "13:00 | [EN VIVO] | PRIMERA B | Boca Juniors de Cali vs Independiente Valle del Cauca",
           "image": "",
           "url": "https://streamxhd.sbs/live1.php?stream=winplus",
           "isHost": "true",
@@ -171,6 +91,22 @@
           "name": "13:45 | [PRONTO] | LIGA DE NACIONES DE LA UEFA | Croacia vs República Checa",
           "image": "",
           "url": "https://streamxhd.sbs/live1.php?stream=disney7",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "13:45 | [PRONTO] | LIGA DE NACIONES DE LA UEFA | España vs Inglaterra",
+          "image": "",
+          "url": "https://streamxhd.sbs/live1.php?stream=espn",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "13:45 | [PRONTO] | LIGA DE NACIONES DE LA UEFA | España vs Inglaterra",
+          "image": "",
+          "url": "https://streamxhd.sbs/live1.php?stream=sporttvbr1",
           "isHost": "true",
           "referer": "https://streamxhd.com",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
@@ -211,6 +147,14 @@
           "name": "13:45 | [PRONTO] | LIGA DE NACIONES DE LA UEFA | Bélgica vs Italia",
           "image": "",
           "url": "https://streamxhd.sbs/live1.php?stream=disney10",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "14:30 | [PRONTO] | COPA PERÚ | Bella Esperanza vs Domingo Dianderas",
+          "image": "",
+          "url": "https://streamxhd.sbs/live1.php?stream=evento1",
           "isHost": "true",
           "referer": "https://streamxhd.com",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
@@ -371,6 +315,62 @@
           "name": "20:00 | [PRONTO] | NHL | San Jose Sharks vs Nashville Predators",
           "image": "",
           "url": "https://streamxhd.sbs/live1.php?stream=disney15",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "07:55 | [FINALIZADO] | SERIE A FEMENINA | Inter Milan vs Juventus",
+          "image": "https://i.postimg.cc/cChTB6Dy/Serie-A.png",
+          "url": "https://streamxhd.sbs/live1.php?stream=dsports",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "08:00 | [FINALIZADO] | LIGA DE NACIONES DE LA UEFA | Letonia vs Armenia",
+          "image": "",
+          "url": "https://streamxhd.sbs/live1.php?stream=disney1",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "08:00 | [FINALIZADO] | LIGA DE NACIONES DE LA UEFA | Chipre vs Montenegro",
+          "image": "",
+          "url": "https://streamxhd.sbs/live1.php?stream=disney2",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "08:15 | [FINALIZADO] | NFL | Detroit Lions vs New England Patriots",
+          "image": "https://i.postimg.cc/NfxZdjKP/NFL.png",
+          "url": "https://streamxhd.sbs/live1.php?stream=espn4",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "09:40 | [FINALIZADO] | EREDIVISIE FEMENINA | AZ Alkmaar vs Ajax",
+          "image": "https://i.postimg.cc/Wbdp4z1D/Erediviese.jpg",
+          "url": "https://streamxhd.sbs/live1.php?stream=dsports2",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "11:00 | [FINALIZADO] | LIGA DE NACIONES DE LA UEFA | Bielorrusia vs Albania",
+          "image": "",
+          "url": "https://streamxhd.sbs/live1.php?stream=disney3",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "11:00 | [FINALIZADO] | LIGA DE NACIONES DE LA UEFA | Finlandia vs San Marino",
+          "image": "",
+          "url": "https://streamxhd.sbs/live1.php?stream=disney4",
           "isHost": "true",
           "referer": "https://streamxhd.com",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
