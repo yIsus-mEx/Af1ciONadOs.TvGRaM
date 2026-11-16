@@ -4,19 +4,219 @@
   "image": "",
   "groups": [
     {
-      "name": "Agenda - Domingo, 15 De Noviembre De 2026",
+      "name": "Agenda - Lunes, 16 De Noviembre De 2026",
       "image": "",
       "stations": [
         {
-          "name": "17:00 | [EN VIVO] | NBA | Boston Celtics vs Dallas Mavericks",
-          "image": "https://i.postimg.cc/52NTTWv9/NBA.png",
-          "url": "https://streamxhd.sbs/live1.php?stream=amazon1",
+          "name": "07:00 | [PRONTO] | ATP Finals | Carlos Alcaraz vs Frances Tiafoe",
+          "image": "",
+          "url": "https://streamxhd.sbs/live1.php?stream=espn2",
           "isHost": "true",
           "referer": "https://streamxhd.com",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "17:00 | [EN VIVO] | NBA | Boston Celtics vs Dallas Mavericks",
+          "name": "09:00 | [PRONTO] | LIGA DE NACIONES DE LA UEFA | Islas Feroe vs Moldavia",
+          "image": "",
+          "url": "https://streamxhd.sbs/live1.php?stream=disney1",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "09:00 | [PRONTO] | LIGA DE NACIONES DE LA UEFA | Kazajistán vs Eslovaquia",
+          "image": "",
+          "url": "https://streamxhd.sbs/live1.php?stream=espn4",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "09:00 | [PRONTO] | LIGA DE NACIONES DE LA UEFA | Kazajistán vs Eslovaquia",
+          "image": "",
+          "url": "https://streamxhd.sbs/live1.php?stream=disney2",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "11:00 | [PRONTO] | LIGA DE NACIONES DE LA UEFA | Lituania vs Liechtenstein",
+          "image": "",
+          "url": "https://streamxhd.sbs/live1.php?stream=disney3",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "11:00 | [PRONTO] | LIGA DE NACIONES DE LA UEFA | Estonia vs Bulgaria",
+          "image": "",
+          "url": "https://streamxhd.sbs/live1.php?stream=disney4",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "11:00 | [PRONTO] | LIGA DE NACIONES DE LA UEFA | Islandia vs Luxemburgo",
+          "image": "",
+          "url": "https://streamxhd.sbs/live1.php?stream=disney5",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "12:00 | [PRONTO] | LIGA 1 | UTC Cajamarca vs Los Chankas",
+          "image": "",
+          "url": "https://streamxhd.sbs/live1.php?stream=l1max",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "12:00 | [PRONTO] | AMISTOSO INTERNACIONAL | Andorra vs Azerbaiyán",
+          "image": "",
+          "url": "https://streamxhd.sbs/live1.php?stream=disney6",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "13:00 | [PRONTO] | LIGA DE NACIONES DE LA CONCACAF | Cuba vs Granada",
+          "image": "",
+          "url": "https://streamxhd.sbs/live1.php?stream=vix1",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "13:00 | [PRONTO] | LIGA DE NACIONES DE LA CONCACAF | Guyana vs Puerto Rico",
+          "image": "",
+          "url": "https://streamxhd.sbs/live1.php?stream=vix2",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "13:30 | [PRONTO] | LALIGA SMARTBANK | Albacete vs Celta de Vigo II",
+          "image": "https://i.postimg.cc/g2TS7XmQ/La-Liga.png",
+          "url": "https://streamxhd.sbs/live1.php?stream=laligahypermotion",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "13:45 | [PRONTO] | LIGA DE NACIONES DE LA UEFA | Grecia vs Serbia",
+          "image": "",
+          "url": "https://streamxhd.sbs/live1.php?stream=disney7",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "13:45 | [PRONTO] | LIGA DE NACIONES DE LA UEFA | Alemania vs Países Bajos",
+          "image": "https://i.postimg.cc/Wbdp4z1D/Erediviese.jpg",
+          "url": "https://streamxhd.sbs/live1.php?stream=espn",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "13:45 | [PRONTO] | LIGA DE NACIONES DE LA UEFA | Alemania vs Países Bajos",
+          "image": "https://i.postimg.cc/Wbdp4z1D/Erediviese.jpg",
+          "url": "https://streamxhd.sbs/live1.php?stream=disney8",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "13:45 | [PRONTO] | LIGA DE NACIONES DE LA UEFA | Suiza vs Escocia",
+          "image": "",
+          "url": "https://streamxhd.sbs/live1.php?stream=espn5",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "13:45 | [PRONTO] | LIGA DE NACIONES DE LA UEFA | Suiza vs Escocia",
+          "image": "",
+          "url": "https://streamxhd.sbs/live1.php?stream=disney9",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "13:45 | [PRONTO] | LIGA DE NACIONES DE LA UEFA | Macedonia del Norte vs Eslovenia",
+          "image": "",
+          "url": "https://streamxhd.sbs/live1.php?stream=disney10",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "13:45 | [PRONTO] | LIGA DE NACIONES DE LA UEFA | Gibraltar vs Malta",
+          "image": "",
+          "url": "https://streamxhd.sbs/live1.php?stream=disney11",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "14:15 | [PRONTO] | LIGA 1 | Cusco vs ADT",
+          "image": "",
+          "url": "https://streamxhd.sbs/live1.php?stream=liga1",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "17:00 | [PRONTO] | LIGA URUGUAY | Wanderers vs Juventud",
+          "image": "https://i.postimg.cc/Rq5Y9gF5/Liga-Uruguay.png",
+          "url": "https://streamxhd.sbs/live1.php?stream=disney12",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "18:00 | [PRONTO] | NBA | Cleveland Cavaliers vs Chicago Bulls",
+          "image": "https://i.postimg.cc/52NTTWv9/NBA.png",
+          "url": "https://streamxhd.sbs/live1.php?stream=nba1",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "18:00 | [PRONTO] | NBA | Boston Celtics vs Orlando Magic",
+          "image": "https://i.postimg.cc/52NTTWv9/NBA.png",
+          "url": "https://streamxhd.sbs/live1.php?stream=max1",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "18:00 | [PRONTO] | NBA | Boston Celtics vs Orlando Magic",
+          "image": "https://i.postimg.cc/52NTTWv9/NBA.png",
+          "url": "https://streamxhd.sbs/live1.php?stream=nba2",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "18:00 | [PRONTO] | NBA | Washington Wizards vs Memphis Grizzlies",
+          "image": "https://i.postimg.cc/52NTTWv9/NBA.png",
+          "url": "https://streamxhd.sbs/live1.php?stream=nba3",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "18:30 | [PRONTO] | NBA | Miami Heat vs Houston Rockets",
+          "image": "https://i.postimg.cc/52NTTWv9/NBA.png",
+          "url": "https://streamxhd.sbs/live1.php?stream=nba4",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "18:30 | [PRONTO] | NBA | Brooklyn Nets vs Philadelphia 76ers",
           "image": "https://i.postimg.cc/52NTTWv9/NBA.png",
           "url": "https://streamxhd.sbs/live1.php?stream=nba5",
           "isHost": "true",
@@ -24,55 +224,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "17:00 | [EN VIVO] | NBA | Toronto Raptors vs New York Knicks",
-          "image": "https://i.postimg.cc/52NTTWv9/NBA.png",
-          "url": "https://streamxhd.sbs/live1.php?stream=nba6",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "17:30 | [EN VIVO] | PRIMERA NACIONAL | Ferro Carril Oeste vs Gimnasia y Tiro",
-          "image": "",
-          "url": "https://streamxhd.sbs/live1.php?stream=evento3",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "18:00 | [EN VIVO] | NBA | Washington Wizards vs Houston Rockets",
-          "image": "https://i.postimg.cc/52NTTWv9/NBA.png",
-          "url": "https://streamxhd.sbs/live1.php?stream=nba7",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "18:30 | [EN VIVO] | NHL | Philadelphia Flyers vs Edmonton Oilers",
-          "image": "",
-          "url": "https://streamxhd.sbs/live1.php?stream=disney12",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "19:00 | [EN VIVO] | NBA | Milwaukee Bucks vs Atlanta Hawks",
-          "image": "https://i.postimg.cc/52NTTWv9/NBA.png",
-          "url": "https://streamxhd.sbs/live1.php?stream=nba8",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "19:00 | [EN VIVO] | NFL | Cincinnati Bengals vs Pittsburgh Steelers",
-          "image": "https://i.postimg.cc/NfxZdjKP/NFL.png",
-          "url": "https://streamxhd.sbs/live1.php?stream=espn2",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "19:00 | [EN VIVO] | NHL | Dallas Stars vs Florida Panthers",
+          "name": "18:30 | [PRONTO] | NHL | New York Rangers vs Montreal Canadiens",
           "image": "",
           "url": "https://streamxhd.sbs/live1.php?stream=disney13",
           "isHost": "true",
@@ -80,31 +232,39 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "19:10 | [EN VIVO] | PRIMERA B | Deportes Quindío vs Real Cartagena",
+          "name": "19:00 | [PRONTO] | LIGA DE NACIONES DE LA CONCACAF | Canadá vs Guatemala",
           "image": "",
-          "url": "https://streamxhd.sbs/live1.php?stream=winplus",
+          "url": "https://streamxhd.sbs/live1.php?stream=vix3",
           "isHost": "true",
           "referer": "https://streamxhd.com",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "19:10 | [EN VIVO] | PRIMERA B | Deportes Quindío vs Real Cartagena",
-          "image": "",
-          "url": "https://streamxhd.sbs/live1.php?stream=winsports",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "20:00 | [PRONTO] | NBA | Sacramento Kings vs Oklahoma City Thunder",
+          "name": "19:00 | [PRONTO] | NBA | Minnesota Timberwolves vs Portland Trail Blazers",
           "image": "https://i.postimg.cc/52NTTWv9/NBA.png",
-          "url": "https://streamxhd.sbs/live1.php?stream=nba9",
+          "url": "https://streamxhd.sbs/live1.php?stream=nba6",
           "isHost": "true",
           "referer": "https://streamxhd.com",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "20:00 | [PRONTO] | NHL | Vegas Golden Knights vs Vancouver Canucks",
+          "name": "19:00 | [PRONTO] | NBA | New Orleans Pelicans vs Golden State Warriors",
+          "image": "https://i.postimg.cc/52NTTWv9/NBA.png",
+          "url": "https://streamxhd.sbs/live1.php?stream=nba7",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "20:00 | [PRONTO] | NBA | Denver Nuggets vs Phoenix Suns",
+          "image": "https://i.postimg.cc/52NTTWv9/NBA.png",
+          "url": "https://streamxhd.sbs/live1.php?stream=nba8",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "20:30 | [PRONTO] | NHL | Utah Mammoth vs Vancouver Canucks",
           "image": "",
           "url": "https://streamxhd.sbs/live1.php?stream=disney14",
           "isHost": "true",
@@ -112,7 +272,15 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "20:00 | [PRONTO] | NHL | San Jose Sharks vs Nashville Predators",
+          "name": "20:00 | [FINALIZADO] | NBA | Sacramento Kings vs Oklahoma City Thunder",
+          "image": "https://i.postimg.cc/52NTTWv9/NBA.png",
+          "url": "https://streamxhd.sbs/live1.php?stream=nba9",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "20:00 | [FINALIZADO] | NHL | San Jose Sharks vs Nashville Predators",
           "image": "",
           "url": "https://streamxhd.sbs/live1.php?stream=disney15",
           "isHost": "true",
