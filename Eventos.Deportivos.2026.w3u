@@ -8,103 +8,7 @@
       "image": "",
       "stations": [
         {
-          "name": "11:45 | [EN VIVO] | LIGA DE NACIONES DE LA UEFA | Bosnia-Herzegovina vs Rumania",
-          "image": "",
-          "url": "https://streamxhd.sbs/live1.php?stream=disney1",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "11:45 | [EN VIVO] | LIGA DE NACIONES DE LA UEFA | Hungría vs Irlanda del Norte",
-          "image": "",
-          "url": "https://streamxhd.sbs/live1.php?stream=disney2",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "11:45 | [EN VIVO] | LIGA DE NACIONES DE LA UEFA | República de Irlanda vs Kosovo",
-          "image": "",
-          "url": "https://streamxhd.sbs/live1.php?stream=disney3",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "11:45 | [EN VIVO] | LIGA DE NACIONES DE LA UEFA | Israel vs Austria",
-          "image": "",
-          "url": "https://streamxhd.sbs/live1.php?stream=disney4",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "11:45 | [EN VIVO] | LIGA DE NACIONES DE LA UEFA | Polonia vs Suecia",
-          "image": "",
-          "url": "https://streamxhd.sbs/live1.php?stream=espn5",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "11:45 | [EN VIVO] | LIGA DE NACIONES DE LA UEFA | Polonia vs Suecia",
-          "image": "",
-          "url": "https://streamxhd.sbs/live1.php?stream=sporttvbr2",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "11:45 | [EN VIVO] | LIGA DE NACIONES DE LA UEFA | Polonia vs Suecia",
-          "image": "",
-          "url": "https://streamxhd.sbs/live1.php?stream=disney5",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "11:45 | [EN VIVO] | LIGA DE NACIONES DE LA UEFA | Gales vs Portugal",
-          "image": "https://i.postimg.cc/MG0sps1h/primeira-liga.png",
-          "url": "https://streamxhd.sbs/live1.php?stream=espn",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "11:45 | [EN VIVO] | LIGA DE NACIONES DE LA UEFA | Gales vs Portugal",
-          "image": "https://i.postimg.cc/MG0sps1h/primeira-liga.png",
-          "url": "https://streamxhd.sbs/live1.php?stream=disney6",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "11:45 | [EN VIVO] | LIGA DE NACIONES DE LA UEFA | Dinamarca vs Noruega",
-          "image": "",
-          "url": "https://streamxhd.sbs/live1.php?stream=espn4",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "11:45 | [EN VIVO] | LIGA DE NACIONES DE LA UEFA | Dinamarca vs Noruega",
-          "image": "",
-          "url": "https://streamxhd.sbs/live1.php?stream=disney7",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "11:45 | [EN VIVO] | LIGA DE NACIONES DE LA UEFA | Ucrania vs Georgia",
-          "image": "",
-          "url": "https://streamxhd.sbs/live1.php?stream=disney8",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "15:00 | [PRONTO] | AMISTOSO INTERNACIONAL | Argentina vs Costa Rica",
+          "name": "15:00 | [EN VIVO] | AMISTOSO INTERNACIONAL | Argentina vs Costa Rica",
           "image": "https://i.postimg.cc/pr4HjQLB/Liga-Argentina.png",
           "url": "https://streamhdx.xyz/channel/?id=dsports",
           "isHost": "true",
@@ -112,7 +16,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "15:00 | [PRONTO] | AMISTOSO INTERNACIONAL | Argentina vs Costa Rica",
+          "name": "15:00 | [EN VIVO] | AMISTOSO INTERNACIONAL | Argentina vs Costa Rica",
           "image": "https://i.postimg.cc/pr4HjQLB/Liga-Argentina.png",
           "url": "https://streamxhd.sbs/live1.php?stream=dsports",
           "isHost": "true",
@@ -120,7 +24,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "15:00 | [PRONTO] | AMISTOSO INTERNACIONAL | Argentina vs Costa Rica",
+          "name": "15:00 | [EN VIVO] | AMISTOSO INTERNACIONAL | Argentina vs Costa Rica",
           "image": "https://i.postimg.cc/pr4HjQLB/Liga-Argentina.png",
           "url": "https://streamxhd.sbs/live1.php?stream=tycsports",
           "isHost": "true",
@@ -128,7 +32,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "15:00 | [PRONTO] | AMISTOSO INTERNACIONAL | Argentina vs Costa Rica",
+          "name": "15:00 | [EN VIVO] | AMISTOSO INTERNACIONAL | Argentina vs Costa Rica",
           "image": "https://i.postimg.cc/pr4HjQLB/Liga-Argentina.png",
           "url": "https://streamxhd.sbs/live1.php?stream=vix1",
           "isHost": "true",
@@ -136,7 +40,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "15:00 | [PRONTO] | AMISTOSO INTERNACIONAL | Chile vs Colombia",
+          "name": "15:00 | [EN VIVO] | AMISTOSO INTERNACIONAL | Chile vs Colombia",
           "image": "https://i.postimg.cc/mk0vkbm3/Liga-Chile.jpg",
           "url": "https://streamxhd.sbs/live1.php?stream=evento1",
           "isHost": "true",
@@ -275,6 +179,102 @@
           "name": "20:00 | [PRONTO] | NBA | Los Angeles Lakers vs Charlotte Hornets",
           "image": "https://i.postimg.cc/52NTTWv9/NBA.png",
           "url": "https://streamxhd.sbs/live1.php?stream=nba5",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "11:45 | [FINALIZADO] | LIGA DE NACIONES DE LA UEFA | Bosnia-Herzegovina vs Rumania",
+          "image": "",
+          "url": "https://streamxhd.sbs/live1.php?stream=disney1",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "11:45 | [FINALIZADO] | LIGA DE NACIONES DE LA UEFA | Hungría vs Irlanda del Norte",
+          "image": "",
+          "url": "https://streamxhd.sbs/live1.php?stream=disney2",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "11:45 | [FINALIZADO] | LIGA DE NACIONES DE LA UEFA | República de Irlanda vs Kosovo",
+          "image": "",
+          "url": "https://streamxhd.sbs/live1.php?stream=disney3",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "11:45 | [FINALIZADO] | LIGA DE NACIONES DE LA UEFA | Israel vs Austria",
+          "image": "",
+          "url": "https://streamxhd.sbs/live1.php?stream=disney4",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "11:45 | [FINALIZADO] | LIGA DE NACIONES DE LA UEFA | Polonia vs Suecia",
+          "image": "",
+          "url": "https://streamxhd.sbs/live1.php?stream=espn5",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "11:45 | [FINALIZADO] | LIGA DE NACIONES DE LA UEFA | Polonia vs Suecia",
+          "image": "",
+          "url": "https://streamxhd.sbs/live1.php?stream=sporttvbr2",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "11:45 | [FINALIZADO] | LIGA DE NACIONES DE LA UEFA | Polonia vs Suecia",
+          "image": "",
+          "url": "https://streamxhd.sbs/live1.php?stream=disney5",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "11:45 | [FINALIZADO] | LIGA DE NACIONES DE LA UEFA | Gales vs Portugal",
+          "image": "https://i.postimg.cc/MG0sps1h/primeira-liga.png",
+          "url": "https://streamxhd.sbs/live1.php?stream=espn",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "11:45 | [FINALIZADO] | LIGA DE NACIONES DE LA UEFA | Gales vs Portugal",
+          "image": "https://i.postimg.cc/MG0sps1h/primeira-liga.png",
+          "url": "https://streamxhd.sbs/live1.php?stream=disney6",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "11:45 | [FINALIZADO] | LIGA DE NACIONES DE LA UEFA | Dinamarca vs Noruega",
+          "image": "",
+          "url": "https://streamxhd.sbs/live1.php?stream=espn4",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "11:45 | [FINALIZADO] | LIGA DE NACIONES DE LA UEFA | Dinamarca vs Noruega",
+          "image": "",
+          "url": "https://streamxhd.sbs/live1.php?stream=disney7",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "11:45 | [FINALIZADO] | LIGA DE NACIONES DE LA UEFA | Ucrania vs Georgia",
+          "image": "",
+          "url": "https://streamxhd.sbs/live1.php?stream=disney8",
           "isHost": "true",
           "referer": "https://streamxhd.com",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
