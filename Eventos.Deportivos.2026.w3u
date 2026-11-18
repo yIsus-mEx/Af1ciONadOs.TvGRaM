@@ -8,39 +8,7 @@
       "image": "",
       "stations": [
         {
-          "name": "14:00 | [EN VIVO] | CHAMPIONS LEAGUE FEMENINA | Juventus vs OH Leuven",
-          "image": "",
-          "url": "https://streamxhd.sbs/live1.php?stream=disney2",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "14:00 | [EN VIVO] | CHAMPIONS LEAGUE FEMENINA | Chelsea vs PSG",
-          "image": "",
-          "url": "https://streamxhd.sbs/live1.php?stream=espn4",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "14:00 | [EN VIVO] | CHAMPIONS LEAGUE FEMENINA | Chelsea vs PSG",
-          "image": "",
-          "url": "https://streamxhd.sbs/live1.php?stream=espndeportes",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "14:00 | [EN VIVO] | LIGA 1 | Alianza Atlético vs Melgar",
-          "image": "",
-          "url": "https://streamxhd.sbs/live1.php?stream=l1max",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "16:30 | [PRONTO] | BRASILEIRÃO | Coritiba vs Santos",
+          "name": "16:30 | [EN VIVO] | BRASILEIRÃO | Coritiba vs Santos",
           "image": "https://i.postimg.cc/tJkDN7BV/Premier-League.png",
           "url": "https://streamxhd.sbs/live1.php?stream=premiere7",
           "isHost": "true",
@@ -144,6 +112,14 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
+          "name": "18:30 | [PRONTO] | NHL | New Jersey Devils vs Montréal Canadiens",
+          "image": "",
+          "url": "https://streamxhd.sbs/live1.php?stream=disney2",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
           "name": "18:30 | [PRONTO] | BRASILEIRÃO | Grêmio vs Bahia",
           "image": "https://i.postimg.cc/tJkDN7BV/Premier-League.png",
           "url": "https://streamxhd.sbs/live1.php?stream=premiere5",
@@ -195,6 +171,30 @@
           "name": "21:00 | [PRONTO] | NHL | Utah Mammoth vs Colorado Avalanche",
           "image": "",
           "url": "https://streamxhd.sbs/live1.php?stream=disney3",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "11:45 | [FINALIZADO] | CHAMPIONS LEAGUE FEMENINA | Real Madrid vs Inter Milano",
+          "image": "",
+          "url": "https://streamxhd.sbs/live1.php?stream=espndeportes",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "14:00 | [FINALIZADO] | CHAMPIONS LEAGUE FEMENINA | Chelsea vs PSG",
+          "image": "",
+          "url": "https://streamxhd.sbs/live1.php?stream=espn4",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "14:00 | [FINALIZADO] | LIGA 1 | Alianza Atlético vs Melgar",
+          "image": "",
+          "url": "https://streamxhd.sbs/live1.php?stream=l1max",
           "isHost": "true",
           "referer": "https://streamxhd.com",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
