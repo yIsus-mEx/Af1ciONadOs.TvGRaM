@@ -8,97 +8,9 @@
       "image": "",
       "stations": [
         {
-          "name": "19:30 | [EN VIVO] | LIGA URUGUAY | Racing vs Central Español",
-          "image": "https://i.postimg.cc/Rq5Y9gF5/Liga-Uruguay.png",
-          "url": "https://streamxhd.sbs/live1.php?stream=disney3",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "19:30 | [EN VIVO] | LIGA URUGUAY | Cerro vs Nacional",
-          "image": "https://i.postimg.cc/Rq5Y9gF5/Liga-Uruguay.png",
-          "url": "https://streamxhd.sbs/live1.php?stream=disney4",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "19:30 | [EN VIVO] | LIGA URUGUAY | Liverpool vs Wanderers",
-          "image": "https://i.postimg.cc/Rq5Y9gF5/Liga-Uruguay.png",
-          "url": "https://streamxhd.sbs/live1.php?stream=disney5",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "19:30 | [EN VIVO] | BUNDESLIGA | Bayern München vs Köln",
-          "image": "https://i.postimg.cc/cLHkTMy3/Bundesliga.png",
-          "url": "https://streamxhd.sbs/live1.php?stream=disney2",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "19:30 | [EN VIVO] | BUNDESLIGA | Bayern München vs Köln",
-          "image": "https://i.postimg.cc/cLHkTMy3/Bundesliga.png",
-          "url": "https://streamxhd.sbs/live1.php?stream=espn",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "19:30 | [EN VIVO] | BUNDESLIGA | Bayern München vs Köln",
-          "image": "https://i.postimg.cc/cLHkTMy3/Bundesliga.png",
-          "url": "https://streamxhd.sbs/live1.php?stream=universo",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "19:30 | [EN VIVO] | LALIGA SMARTBANK | FC Andorra vs Leganés",
-          "image": "https://i.postimg.cc/g2TS7XmQ/La-Liga.png",
-          "url": "https://streamxhd.sbs/live1.php?stream=laligahypermotion",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
           "name": "19:30 | [EN VIVO] | ATP Finals | Daniil Medvedev vs Frances Tiafoe",
           "image": "",
           "url": "https://streamxhd.sbs/live1.php?stream=espn2",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "19:45 | [EN VIVO] | LIGUE 1 | Troyes vs Le Havre",
-          "image": "https://i.postimg.cc/50wsjsLc/Ligue-1.png",
-          "url": "https://streamxhd.sbs/live1.php?stream=disney6",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "20:00 | [EN VIVO] | LALIGA | Athletic Club vs Espanyol",
-          "image": "https://i.postimg.cc/g2TS7XmQ/La-Liga.png",
-          "url": "https://streamxhd.sbs/live1.php?stream=dsports2",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "20:00 | [EN VIVO] | LALIGA | Athletic Club vs Espanyol",
-          "image": "https://i.postimg.cc/g2TS7XmQ/La-Liga.png",
-          "url": "https://streamxhd.sbs/live1.php?stream=espnplus1",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "20:00 | [EN VIVO] | LALIGA | Athletic Club vs Espanyol",
-          "image": "https://i.postimg.cc/g2TS7XmQ/La-Liga.png",
-          "url": "https://streamxhd.sbs/live1.php?stream=espndeportes",
           "isHost": "true",
           "referer": "https://streamxhd.com",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
@@ -120,7 +32,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "21:00 | [PRONTO] | LIGA CHILE | Cobresal vs Audax Italiano",
+          "name": "21:00 | [EN VIVO] | LIGA CHILE | Cobresal vs Audax Italiano",
           "image": "https://i.postimg.cc/mk0vkbm3/Liga-Chile.jpg",
           "url": "https://streamxhd.sbs/live1.php?stream=tntsportschile",
           "isHost": "true",
@@ -128,7 +40,7 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "21:30 | [PRONTO] | LIGA COLOMBIA | Medellín vs Santa Fe",
+          "name": "21:30 | [EN VIVO] | LIGA COLOMBIA | Medellín vs Santa Fe",
           "image": "https://i.postimg.cc/59BDhCPY/Liga-Colombiana.png",
           "url": "https://streamxhd.sbs/live1.php?stream=winplus",
           "isHost": "true",
@@ -282,6 +194,14 @@
         {
           "name": "03:00 | [PRONTO] | LIGA MX | Juárez vs Atlas",
           "image": "https://i.postimg.cc/sgRFRgQv/Liga-MX.jpg",
+          "url": "https://streamxhd.sbs/live1.php?stream=universo",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "03:00 | [PRONTO] | LIGA MX | Juárez vs Atlas",
+          "image": "https://i.postimg.cc/sgRFRgQv/Liga-MX.jpg",
           "url": "https://streamxhd.sbs/live1.php?stream=foxone",
           "isHost": "true",
           "referer": "https://streamxhd.com",
@@ -336,6 +256,14 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
+          "name": "04:00 | [PRONTO] | F1 | GP Las Vegas – Clasificación",
+          "image": "https://i.postimg.cc/MTRFV6kF/F1.png",
+          "url": "https://streamxhd.sbs/live1.php?stream=espn",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
           "name": "04:00 | [PRONTO] | F1 | GP Las Vegas – Clasificación - On Board Colapinto",
           "image": "https://i.postimg.cc/MTRFV6kF/F1.png",
           "url": "https://streamxhd.sbs/live1.php?stream=disney12",
@@ -376,6 +304,46 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
+          "name": "13:00 | [PRONTO] | LaLiga SmartBank | Sabadell vs Granada",
+          "image": "https://i.postimg.cc/g2TS7XmQ/La-Liga.png",
+          "url": "https://streamxhd.sbs/live1.php?stream=laligahypermotion",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "13:00 | [PRONTO] | LaLiga | Deportivo Alavés vs Deportivo La Coruña",
+          "image": "https://i.postimg.cc/g2TS7XmQ/La-Liga.png",
+          "url": "https://streamxhd.sbs/live1.php?stream=disney2",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "13:00 | [PRONTO] | LaLiga | Deportivo Alavés vs Deportivo La Coruña",
+          "image": "https://i.postimg.cc/g2TS7XmQ/La-Liga.png",
+          "url": "https://streamxhd.sbs/live1.php?stream=espnplus1",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "13:00 | [PRONTO] | LaLiga | Deportivo Alavés vs Deportivo La Coruña",
+          "image": "https://i.postimg.cc/g2TS7XmQ/La-Liga.png",
+          "url": "https://streamxhd.sbs/live1.php?stream=espndeportes",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "13:00 | [PRONTO] | Super Lig | Galatasaray vs Samsunspor",
+          "image": "https://i.postimg.cc/FRz8xfqD/Liga-Turca.jpg",
+          "url": "https://streamxhd.sbs/live1.php?stream=disney3",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
           "name": "13:30 | [PRONTO] | COPA MUNDIAL SUB-17 | Camerún vs Venezuela",
           "image": "",
           "url": "https://streamxhd.sbs/live1.php?stream=dsportsplus",
@@ -387,6 +355,30 @@
           "name": "14:00 | [PRONTO] | Copa de Portugal | Mafra vs Arouca",
           "image": "https://i.postimg.cc/MG0sps1h/primeira-liga.png",
           "url": "https://streamxhd.sbs/live1.php?stream=fox3ar",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "14:00 | [PRONTO] | Serie A | Lazio vs Lecce",
+          "image": "https://i.postimg.cc/cChTB6Dy/Serie-A.png",
+          "url": "https://streamxhd.sbs/live1.php?stream=disney4",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "14:00 | [PRONTO] | Serie A | Como vs Cagliari",
+          "image": "https://i.postimg.cc/cChTB6Dy/Serie-A.png",
+          "url": "https://streamxhd.sbs/live1.php?stream=disney5",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "14:30 | [PRONTO] | Bundesliga | Elversberg vs Freiburg",
+          "image": "https://i.postimg.cc/cLHkTMy3/Bundesliga.png",
+          "url": "https://streamxhd.sbs/live1.php?stream=disney6",
           "isHost": "true",
           "referer": "https://streamxhd.com",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
@@ -459,6 +451,14 @@
           "name": "15:00 | [PRONTO] | UFC | Preliminares",
           "image": "https://i.postimg.cc/QN12WbhH/UFC.png",
           "url": "https://streamxhd.sbs/live1.php?stream=paramount3",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "15:15 | [PRONTO] | LaLiga | Rayo Vallecano vs Valencia",
+          "image": "https://i.postimg.cc/g2TS7XmQ/La-Liga.png",
+          "url": "https://streamxhd.sbs/live1.php?stream=dsports2",
           "isHost": "true",
           "referer": "https://streamxhd.com",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
