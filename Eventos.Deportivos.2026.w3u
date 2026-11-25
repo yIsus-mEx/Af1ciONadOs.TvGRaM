@@ -8,46 +8,6 @@
       "image": "",
       "stations": [
         {
-          "name": "06:30 | [PRONTO] | COPA MUNDIAL SUB-17 | Ecuador vs Corea del Sur",
-          "image": "",
-          "url": "https://stream04.lat/libre/live1.php?stream=dsports2",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "07:30 | [PRONTO] | COPA MUNDIAL SUB-17 | Uruguay vs Francia",
-          "image": "https://i.postimg.cc/Rq5Y9gF5/Liga-Uruguay.png",
-          "url": "https://stream04.lat/libre/live1.php?stream=dsports",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "07:30 | [PRONTO] | COPA MUNDIAL SUB-17 | Uruguay vs Francia",
-          "image": "https://i.postimg.cc/Rq5Y9gF5/Liga-Uruguay.png",
-          "url": "https://stream04.lat/libre/live1.php?stream=tudnmx",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "09:30 | [PRONTO] | COPA MUNDIAL SUB-17 | Dinamarca vs Argentina",
-          "image": "https://i.postimg.cc/pr4HjQLB/Liga-Argentina.png",
-          "url": "https://stream04.lat/libre/live1.php?stream=dsportsplus",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "09:30 | [PRONTO] | COPA MUNDIAL SUB-17 | Dinamarca vs Argentina",
-          "image": "https://i.postimg.cc/pr4HjQLB/Liga-Argentina.png",
-          "url": "https://stream04.lat/libre/live1.php?stream=tycsports",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
           "name": "11:45 | [PRONTO] | UEFA CHAMPIONS LEAGUE | Sabah vs Barcelona",
           "image": "",
           "url": "https://stream04.lat/libre/live1.php?stream=espn",
@@ -75,14 +35,6 @@
           "name": "11:45 | [PRONTO] | UEFA CHAMPIONS LEAGUE | Sabah vs Barcelona",
           "image": "",
           "url": "https://stream04.lat/libre/live1.php?stream=mligacampeones",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "11:45 | [PRONTO] | UEFA CHAMPIONS LEAGUE | Sabah vs Barcelona",
-          "image": "",
-          "url": "https://stream04.lat/libre/live1.php?stream=espn2ar",
           "isHost": "true",
           "referer": "https://streamxhd.com",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
@@ -203,6 +155,14 @@
           "name": "14:00 | [PRONTO] | UEFA CHAMPIONS LEAGUE | Club Brugge vs Liverpool",
           "image": "",
           "url": "https://stream04.lat/libre/live1.php?stream=disney8",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "14:00 | [PRONTO] | UEFA CHAMPIONS LEAGUE | Atlético Madrid vs Viking",
+          "image": "",
+          "url": "https://stream04.lat/libre/live1.php?stream=espn2ar",
           "isHost": "true",
           "referer": "https://streamxhd.com",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
@@ -338,6 +298,14 @@
         {
           "name": "19:00 | [PRONTO] | LIGA MX | Toluca vs Atlas",
           "image": "https://i.postimg.cc/sgRFRgQv/Liga-MX.jpg",
+          "url": "https://stream04.lat/libre/live1.php?stream=tudnmx",
+          "isHost": "true",
+          "referer": "https://streamxhd.com",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        {
+          "name": "19:00 | [PRONTO] | LIGA MX | Toluca vs Atlas",
+          "image": "https://i.postimg.cc/sgRFRgQv/Liga-MX.jpg",
           "url": "https://stream04.lat/libre/live1.php?stream=canal5mx",
           "isHost": "true",
           "referer": "https://streamxhd.com",
@@ -392,73 +360,33 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "17:20 | [FINALIZADO] | LIGA COLOMBIA | Millonarios vs Atlético Bucaramanga",
-          "image": "https://i.postimg.cc/59BDhCPY/Liga-Colombiana.png",
-          "url": "https://streamxhd.sbs/live1.php?stream=winplus",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "18:00 | [FINALIZADO] | NBA | Orlando Magic vs Detroit Pistons",
-          "image": "https://i.postimg.cc/52NTTWv9/NBA.png",
-          "url": "https://streamxhd.sbs/live1.php?stream=nba1",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "19:00 | [FINALIZADO] | NBA | Washington Wizards vs Boston Celtics",
-          "image": "https://i.postimg.cc/52NTTWv9/NBA.png",
-          "url": "https://streamxhd.sbs/live1.php?stream=amazon1",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "19:00 | [FINALIZADO] | NBA | Washington Wizards vs Boston Celtics",
-          "image": "https://i.postimg.cc/52NTTWv9/NBA.png",
-          "url": "https://streamxhd.sbs/live1.php?stream=tntsports",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "19:00 | [FINALIZADO] | NBA | Washington Wizards vs Boston Celtics",
-          "image": "https://i.postimg.cc/52NTTWv9/NBA.png",
-          "url": "https://streamxhd.sbs/live1.php?stream=nba2",
-          "isHost": "true",
-          "referer": "https://streamxhd.com",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        {
-          "name": "19:00 | [FINALIZADO] | NHL | Edmonton Oilers vs Vegas Golden Knights",
+          "name": "06:30 | [FINALIZADO] | COPA MUNDIAL SUB-17 | Ecuador vs Corea del Sur",
           "image": "",
-          "url": "https://streamxhd.sbs/live1.php?stream=espn3",
+          "url": "https://stream04.lat/libre/live1.php?stream=dsports2",
           "isHost": "true",
           "referer": "https://streamxhd.com",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "21:00 | [FINALIZADO] | MLS | San Jose Earthquakes vs Houston Dynamo",
-          "image": "https://i.postimg.cc/BQwBSrkS/MLS.png",
-          "url": "https://streamxhd.sbs/live1.php?stream=appletv1",
+          "name": "07:30 | [FINALIZADO] | COPA MUNDIAL SUB-17 | Uruguay vs Francia",
+          "image": "https://i.postimg.cc/Rq5Y9gF5/Liga-Uruguay.png",
+          "url": "https://stream04.lat/libre/live1.php?stream=dsports",
           "isHost": "true",
           "referer": "https://streamxhd.com",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "21:00 | [FINALIZADO] | NBA | Denver Nuggets vs Dallas Mavericks",
-          "image": "https://i.postimg.cc/52NTTWv9/NBA.png",
-          "url": "https://streamxhd.sbs/live1.php?stream=amazon2",
+          "name": "09:30 | [FINALIZADO] | COPA MUNDIAL SUB-17 | Dinamarca vs Argentina",
+          "image": "https://i.postimg.cc/pr4HjQLB/Liga-Argentina.png",
+          "url": "https://stream04.lat/libre/live1.php?stream=dsportsplus",
           "isHost": "true",
           "referer": "https://streamxhd.com",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         {
-          "name": "21:00 | [FINALIZADO] | NBA | Denver Nuggets vs Dallas Mavericks",
-          "image": "https://i.postimg.cc/52NTTWv9/NBA.png",
-          "url": "https://streamxhd.sbs/live1.php?stream=nba3",
+          "name": "09:30 | [FINALIZADO] | COPA MUNDIAL SUB-17 | Dinamarca vs Argentina",
+          "image": "https://i.postimg.cc/pr4HjQLB/Liga-Argentina.png",
+          "url": "https://stream04.lat/libre/live1.php?stream=tycsports",
           "isHost": "true",
           "referer": "https://streamxhd.com",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
